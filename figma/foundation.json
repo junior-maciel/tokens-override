@@ -4,5 +4,23 @@
       "value": "#FF0000",
       "type": "color"
     }
+  },
+  "color": {
+    "alert": {
+      "danger": {
+        "value": "{red.500}",
+        "type": "color"
+      }
+    }
+  },
+  "button": {
+    "container": {
+      "background": {
+        "danger": {
+          "value": "{color.alert.danger}",
+          "type": "color"
+        }
+      }
+    }
   }
 }
