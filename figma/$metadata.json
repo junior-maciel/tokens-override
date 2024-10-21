@@ -1,7 +1,9 @@
 {
   "tokenSetOrder": [
-    "alias",
-    "components",
-    "foundation"
+    "foundation",
+    "mode/light",
+    "mode/dark",
+    "components/button",
+    "components/tag"
   ]
 }
