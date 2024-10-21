@@ -1,1 +1,10 @@
-{}
+{
+  "color": {
+    "alert": {
+      "danger": {
+        "value": "{red.500}",
+        "type": "color"
+      }
+    }
+  }
+}
