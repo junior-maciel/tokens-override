@@ -1,5 +1,7 @@
 {
   "tokenSetOrder": [
-    "foundation"
+    "foundation",
+    "alias",
+    "components"
   ]
 }
