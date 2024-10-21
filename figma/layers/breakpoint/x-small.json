@@ -1,0 +1,116 @@
+{
+  "breakpoint": {
+    "font-size": {
+      "root": {
+        "value": "16px",
+        "type": "dimension"
+      }
+    },
+    "media-query": {
+      "min-width": {
+        "value": "768px",
+        "type": "sizing"
+      },
+      "max-width": {
+        "value": "1023px",
+        "type": "sizing"
+      }
+    },
+    "grid": {
+      "columns": {
+        "value": "8",
+        "type": "number"
+      }
+    },
+    "grid-fluid": {
+      "margin": {
+        "value": "16px",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "16px",
+        "type": "spacing"
+      }
+    },
+    "application-template": {
+      "sidebar": {
+        "width": {
+          "value": "320px",
+          "type": "sizing"
+        }
+      },
+      "content-navigation": {
+        "scrollable": {
+          "width": {
+            "fixed": {
+              "value": "fill-available",
+              "type": "sizing"
+            }
+          }
+        }
+      },
+      "content": {
+        "scrollable": {
+          "width": {
+            "fixed": {
+              "value": "fill-available",
+              "type": "sizing"
+            }
+          }
+        }
+      },
+      "main": {
+        "scrollable": {
+          "gap": {
+            "value": "{foundation.space.2}",
+            "type": "spacing"
+          },
+          "padding": {
+            "value": "{foundation.space.4} {foundation.space.4} {foundation.space.4} {foundation.space.4}",
+            "type": "spacing"
+          }
+        }
+      }
+    },
+    "date-picker": {
+      "montly-calendar": {
+        "calendar-cell": {
+          "outer-container": {
+            "padding": {
+              "horizontal": {
+                "value": "{generation.on-xsmall.date-picker.montly-calendar.calendar-cell.outer-container.padding.horizontal}",
+                "type": "spacing"
+              }
+            }
+          }
+        }
+      }
+    },
+    "header-bar": {
+      "container": {
+        "row-gap": {
+          "value": "{foundation.space.3}",
+          "type": "spacing"
+        }
+      }
+    },
+    "menu": {
+      "popover": {
+        "container": {
+          "min-width": {
+            "value": "168px",
+            "type": "sizing"
+          },
+          "max-width": {
+            "value": "240px",
+            "type": "sizing"
+          },
+          "max-height": {
+            "value": "312px",
+            "type": "sizing"
+          }
+        }
+      }
+    }
+  }
+}

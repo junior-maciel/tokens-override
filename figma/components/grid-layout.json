@@ -1,0 +1,114 @@
+{
+  "grid-layout": {
+    "container": {
+      "background": {
+        "tertiary": {
+          "value": "{mode.surface.tertiary}",
+          "type": "color"
+        }
+      },
+      "padding": {
+        "none": {
+          "value": "{foundation.space.none}",
+          "type": "spacing"
+        },
+        "small": {
+          "value": "{foundation.space.4}",
+          "type": "spacing"
+        }
+      },
+      "height": {
+        "fill-available": {
+          "value": "fill-available",
+          "type": "sizing"
+        },
+        "auto": {
+          "value": "100%",
+          "type": "sizing",
+          "description": "Grid layout needs to have height with 100% to avoid conflict with grid-layout.area height with fill-available"
+        }
+      },
+      "width": {
+        "fill-available": {
+          "value": "fill-available",
+          "type": "sizing"
+        },
+        "auto": {
+          "value": "100%",
+          "type": "sizing",
+          "description": "Grid layout needs to have height with 100% to avoid conflict with grid-layout.area height with fill-available"
+        }
+      },
+      "gap": {
+        "none": {
+          "value": "{foundation.space.none}",
+          "type": "spacing"
+        },
+        "panel": {
+          "value": "{foundation.space.4}",
+          "type": "spacing"
+        },
+        "region": {
+          "value": "{foundation.space.025}",
+          "type": "spacing"
+        },
+        "indicator": {
+          "value": "{foundation.space.2}",
+          "type": "spacing"
+        }
+      }
+    },
+    "area": {
+      "height": {
+        "fill-available": {
+          "value": "fill-available",
+          "type": "sizing"
+        }
+      },
+      "width": {
+        "fill-available": {
+          "value": "fill-available",
+          "type": "sizing"
+        }
+      },
+      "padding": {
+        "none": {
+          "value": "{foundation.space.none}",
+          "type": "spacing"
+        },
+        "small": {
+          "value": "{foundation.space.4}",
+          "type": "spacing"
+        },
+        "medium": {
+          "value": "{foundation.space.7}",
+          "type": "spacing"
+        }
+      },
+      "background": {
+        "primary": {
+          "value": "{mode.surface.primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{mode.surface.secondary}",
+          "type": "color"
+        },
+        "static": {
+          "value": "{mode.surface.static}",
+          "type": "color"
+        }
+      },
+      "box-shadow": {
+        "content": {
+          "value": "{mode.elevation.box-shadow.content}",
+          "type": "boxShadow"
+        },
+        "none": {
+          "value": "{mode.elevation.box-shadow.none}",
+          "type": "boxShadow"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "picklist-dialog": {
+    "dialog": {
+      "header": {
+        "padding-top": {
+          "value": "{generation.comp.picklist-dialog.dialog.padding}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{generation.comp.picklist-dialog.dialog.padding}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{foundation.space.none}",
+          "type": "spacing"
+        },
+        "padding-left": {
+          "value": "{generation.comp.picklist-dialog.dialog.padding}",
+          "type": "spacing"
+        }
+      },
+      "content": {
+        "padding-top": {
+          "value": "{generation.comp.picklist-dialog.dialog.padding}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{generation.comp.picklist-dialog.dialog.padding}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{foundation.space.none}",
+          "type": "spacing"
+        },
+        "padding-left": {
+          "value": "{generation.comp.picklist-dialog.dialog.padding}",
+          "type": "spacing"
+        }
+      },
+      "footer": {
+        "padding-top": {
+          "value": "{generation.comp.picklist-dialog.dialog.padding}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{generation.comp.picklist-dialog.dialog.padding}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{generation.comp.picklist-dialog.dialog.padding}",
+          "type": "spacing"
+        },
+        "padding-left": {
+          "value": "{generation.comp.picklist-dialog.dialog.padding}",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

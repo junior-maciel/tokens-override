@@ -1,0 +1,10 @@
+{
+  "locator-dialog": {
+    "primary-region": {
+      "row-gap": {
+        "value": "{generation.container.spacing}",
+        "type": "spacing"
+      }
+    }
+  }
+}

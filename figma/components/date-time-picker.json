@@ -1,0 +1,32 @@
+{
+  "date-time-picker": {
+    "container": {
+      "gap": {
+        "default": {
+          "value": "{foundation.space.7}",
+          "type": "spacing"
+        }
+      }
+    },
+    "content": {
+      "width": {
+        "fit-content": {
+          "value": "fit-content",
+          "type": "sizing"
+        }
+      },
+      "height": {
+        "auto": {
+          "value": "100%",
+          "type": "sizing"
+        }
+      },
+      "vertical-align": {
+        "middle": {
+          "value": "middle",
+          "type": "spacing"
+        }
+      }
+    }
+  }
+}

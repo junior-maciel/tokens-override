@@ -1,0 +1,227 @@
+{
+  "tooltip": {
+    "icon": {
+      "color": {
+        "default": {
+          "value": "{mode.icon.color.inverse.primary}",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "{mode.icon.color.primary}",
+          "type": "color"
+        },
+        "information": {
+          "value": "{mode.alert.background.high.on-information.normal}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{mode.alert.background.high.on-safety.normal}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{mode.alert.background.high.on-caution.normal}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{mode.alert.background.high.on-warning.normal}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{mode.alert.background.high.on-danger.normal}",
+          "type": "color"
+        }
+      },
+      "width": {
+        "value": "{foundation.size.4}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{foundation.size.4}",
+        "type": "sizing"
+      },
+      "information": {
+        "value": "EmrIconInformationCircleSvg",
+        "type": "asset"
+      },
+      "success": {
+        "value": "EmrIconCheckmarkCircleSvg",
+        "type": "asset"
+      },
+      "caution": {
+        "value": "EcmIconExclamationMarkCircleSvg",
+        "type": "asset"
+      },
+      "warning": {
+        "value": "DlsIconWarningSvg",
+        "type": "asset"
+      },
+      "error": {
+        "value": "EmrIconCloseCrossCircleSvg",
+        "type": "asset"
+      }
+    },
+    "label": {
+      "color": {
+        "default": {
+          "value": "{mode.text.color.inverse.primary}",
+          "type": "color"
+        },
+        "inverse": {
+          "value": "{mode.text.color.primary}",
+          "type": "color"
+        },
+        "information": {
+          "value": "{mode.alert.background.high.on-information.normal}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{mode.alert.background.high.on-safety.normal}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{mode.alert.background.high.on-caution.normal}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{mode.alert.background.high.on-warning.normal}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{mode.alert.background.high.on-danger.normal}",
+          "type": "color"
+        }
+      },
+      "font-family": {
+        "value": "{mode.font-family}",
+        "type": "fontFamilies"
+      },
+      "font-weight": {
+        "value": "{generation.font-weight.medium}",
+        "type": "fontWeights"
+      },
+      "line-height": {
+        "value": "auto",
+        "type": "lineHeights"
+      },
+      "font-size": {
+        "value": "{generation.font-size.2}",
+        "type": "fontSizes"
+      },
+      "typography": {
+        "value": {
+          "fontFamily": "{tooltip.label.font-family}",
+          "fontWeight": "{tooltip.label.font-weight}",
+          "lineHeight": "{tooltip.label.line-height}",
+          "fontSize": "{tooltip.label.font-size}"
+        },
+        "type": "typography"
+      }
+    },
+    "title": {
+      "color": {
+        "default": {
+          "value": "{mode.text.color.inverse.primary}",
+          "type": "color"
+        }
+      }
+    },
+    "container": {
+      "background": {
+        "information": {
+          "value": "{mode.alert.background.high.information.normal}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{mode.alert.background.high.safety.normal}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{mode.alert.background.high.caution.normal}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{mode.alert.background.high.warning.normal}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{mode.alert.background.high.danger.normal}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{mode.surface.inverse.tertiary}",
+          "type": "color"
+        }
+      },
+      "border-radius": {
+        "value": "{generation.border-radius.2}",
+        "type": "borderRadius"
+      },
+      "padding-top": {
+        "value": "{foundation.space.2}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{foundation.space.3}",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{foundation.space.2}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{foundation.space.3}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{foundation.space.1}",
+        "type": "spacing"
+      },
+      "margin": {
+        "value": "{foundation.space.2}",
+        "type": "spacing"
+      },
+      "max-width": {
+        "default": {
+          "value": "200px",
+          "type": "sizing"
+        }
+      }
+    },
+    "caret": {
+      "background": {
+        "information": {
+          "value": "{mode.alert.background.high.information.normal}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{mode.alert.background.high.safety.normal}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{mode.alert.background.high.caution.normal}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{mode.alert.background.high.warning.normal}",
+          "type": "color"
+        },
+        "error": {
+          "value": "{mode.alert.background.high.danger.normal}",
+          "type": "color"
+        },
+        "default": {
+          "value": "{mode.surface.inverse.tertiary}",
+          "type": "color"
+        }
+      },
+      "width": {
+        "value": "{foundation.size.2}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{foundation.size.2}",
+        "type": "sizing"
+      }
+    }
+  }
+}

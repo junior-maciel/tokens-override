@@ -1,0 +1,16 @@
+{
+  "counter-tag": {
+    "container": {
+      "background": {
+        "value": "{mode.alert.background.low.neutral.normal}",
+        "type": "color"
+      }
+    },
+    "label": {
+      "background": {
+        "value": "{mode.text.color.primary}",
+        "type": "color"
+      }
+    }
+  }
+}

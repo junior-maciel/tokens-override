@@ -1,0 +1,254 @@
+{
+  "base-button": {
+    "container": {
+      "border-radius": {
+        "rounded": {
+          "value": "{generation.ref.border-radius.rounded.all}",
+          "type": "borderRadius"
+        },
+        "circle": {
+          "value": "{density.button.border-radius.circle}",
+          "type": "borderRadius"
+        }
+      },
+      "width": {
+        "fit-content": {
+          "value": "fit-content",
+          "type": "sizing"
+        },
+        "fill-available": {
+          "value": "fill-available",
+          "type": "sizing"
+        }
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      },
+      "padding-top": {
+        "horizontal": {
+          "small": {
+            "value": "{density.space.10}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          }
+        },
+        "vertical": {
+          "small": {
+            "value": "{density.space.10}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          }
+        },
+        "icon-only": {
+          "small": {
+            "value": "{foundation.space.1}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          }
+        }
+      },
+      "padding-right": {
+        "horizontal": {
+          "small": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.40}",
+            "type": "spacing"
+          }
+        },
+        "vertical": {
+          "small": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.40}",
+            "type": "spacing"
+          }
+        },
+        "icon-only": {
+          "small": {
+            "value": "{foundation.space.1}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          }
+        }
+      },
+      "padding-bottom": {
+        "horizontal": {
+          "small": {
+            "value": "{density.space.10}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          }
+        },
+        "vertical": {
+          "small": {
+            "value": "{density.space.10}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          }
+        },
+        "icon-only": {
+          "small": {
+            "value": "{foundation.space.1}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          }
+        }
+      },
+      "padding-left": {
+        "horizontal": {
+          "small": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.40}",
+            "type": "spacing"
+          }
+        },
+        "vertical": {
+          "small": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.40}",
+            "type": "spacing"
+          }
+        },
+        "icon-only": {
+          "small": {
+            "value": "{foundation.space.1}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          }
+        }
+      },
+      "gap": {
+        "horizontal": {
+          "small": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          }
+        }
+      },
+      "outline-offset": {
+        "focus": {
+          "value": "{generation.outline-offset.focus}",
+          "type": "spacing"
+        },
+        "focus-visible": {
+          "value": "{generation.outline-offset.focus-visible}",
+          "type": "spacing"
+        }
+      },
+      "justify-content": {
+        "center": {
+          "value": "center",
+          "type": "other"
+        },
+        "space-between": {
+          "value": "space-between",
+          "type": "other"
+        }
+      }
+    },
+    "content": {
+      "width": {
+        "fit-content": {
+          "value": "fit-content",
+          "type": "sizing"
+        },
+        "fill-available": {
+          "value": "fill-available",
+          "type": "sizing"
+        }
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      }
+    },
+    "label-container": {
+      "width": {
+        "fit-content": {
+          "value": "fit-content",
+          "type": "sizing"
+        },
+        "fill-available": {
+          "value": "fill-available",
+          "type": "sizing"
+        }
+      },
+      "height": {
+        "small": {
+          "value": "{foundation.size.4}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{foundation.size.6}",
+          "type": "sizing"
+        },
+        "fit-content": {
+          "value": "fit-content",
+          "type": "sizing"
+        }
+      },
+      "gap": {
+        "horizontal": {
+          "small": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          }
+        },
+        "vertical": {
+          "small": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          },
+          "medium": {
+            "value": "{density.space.20}",
+            "type": "spacing"
+          }
+        }
+      }
+    }
+  }
+}

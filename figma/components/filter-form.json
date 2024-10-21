@@ -1,0 +1,70 @@
+{
+  "filter-form": {
+    "container": {
+      "width": {
+        "value": "fill-available",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fill-available",
+        "type": "sizing"
+      }
+    },
+    "header": {
+      "width": {
+        "value": "fill-available",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      },
+      "padding-bottom": {
+        "value": "{foundation.space.7}",
+        "type": "spacing"
+      }
+    },
+    "content": {
+      "row-gap": {
+        "value": "{foundation.space.4}",
+        "type": "spacing"
+      },
+      "width": {
+        "value": "fill-available",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fill-available",
+        "type": "sizing"
+      }
+    },
+    "footer": {
+      "padding-top": {
+        "value": "{foundation.space.4}",
+        "type": "spacing"
+      },
+      "width": {
+        "value": "fill-available",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      }
+    },
+    "grid-layout-area": {
+      "icon": {
+        "color": {
+          "value": "{mode.icon.color.primary}",
+          "type": "color"
+        },
+        "name": {
+          "close": {
+            "value": "DlsIconCrossSvg",
+            "type": "asset"
+          }
+        }
+      }
+    }
+  }
+}

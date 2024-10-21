@@ -1,0 +1,228 @@
+{
+  "voice-panel": {
+    "container": {
+      "background": {
+        "value": "{mode.surface.primary}",
+        "type": "color"
+      },
+      "width": {
+        "value": "360px",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      },
+      "max-height": {
+        "value": "620px",
+        "type": "sizing"
+      },
+      "gap": {
+        "value": "{foundation.space.2}",
+        "type": "spacing"
+      }
+    },
+    "mic-container": {
+      "border": {
+        "on": {
+          "value": {
+            "color": "{mode.color.primary-signal.disabled}",
+            "width": "{generation.border-width.heavy}",
+            "style": "solid"
+          },
+          "type": "border"
+        },
+        "off": {
+          "value": {
+            "color": "{mode.surface.primary}",
+            "width": "{generation.border-width.heavy}",
+            "style": "solid"
+          },
+          "type": "border"
+        }
+      },
+      "border-radius": {
+        "value": "{generation.border-radius.circle}",
+        "type": "borderRadius"
+      },
+      "width": {
+        "value": "{foundation.size.18}",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{foundation.size.18}",
+        "type": "sizing"
+      },
+      "background": {
+        "off": {
+          "normal": {
+            "value": "{mode.color.quiet.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{mode.color.quiet.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{mode.color.quiet.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{mode.color.quiet.disabled}",
+            "type": "color"
+          }
+        },
+        "on": {
+          "normal": {
+            "value": "{mode.color.quiet.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{mode.color.quiet.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{mode.color.quiet.active}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "header": {
+      "gap": {
+        "value": "{foundation.space.2}",
+        "type": "spacing"
+      },
+      "width": {
+        "value": "fill-parent",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "{foundation.size.18}",
+        "type": "sizing"
+      },
+      "label": {
+        "width": {
+          "value": "{foundation.size.30}",
+          "type": "sizing"
+        },
+        "height": {
+          "value": "auto",
+          "type": "sizing"
+        }
+      },
+      "label-container": {
+        "height": {
+          "value": "fill-available",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "fill-available",
+          "type": "sizing"
+        }
+      },
+      "icon-container": {
+        "height": {
+          "value": "fill-available",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "fill-available",
+          "type": "sizing"
+        }
+      }
+    },
+    "icon": {
+      "mic": {
+        "value": "DlsIconMicrophoneSvg",
+        "type": "asset"
+      },
+      "mic-mute": {
+        "value": "DlsIconMicrophoneMuteSvg",
+        "type": "asset"
+      }
+    },
+    "user-request": {
+      "width": {
+        "value": "fill-parent",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      },
+      "message": {
+        "width": {
+          "value": "240px",
+          "type": "sizing"
+        },
+        "height": {
+          "value": "auto",
+          "type": "sizing"
+        }
+      },
+      "button": {
+        "max-width": {
+          "value": "{foundation.size.20}",
+          "type": "sizing"
+        }
+      }
+    },
+    "system-feedback": {
+      "width": {
+        "value": "fill-parent",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      }
+    },
+    "data-report": {
+      "width": {
+        "value": "fill-parent",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      }
+    },
+    "mic-icon": {
+      "color": {
+        "off": {
+          "normal": {
+            "value": "{mode.icon.color.disabled}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{mode.icon.color.placeholder}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{mode.icon.color.tertiary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{mode.icon.color.disabled}",
+            "type": "color"
+          }
+        },
+        "on": {
+          "normal": {
+            "value": "{mode.color.primary-signal.normal}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{mode.color.primary-signal.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{mode.color.primary-signal.active}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "heading": {
+    "font-family": {
+      "value": "{mode.font-family}",
+      "type": "fontFamilies"
+    },
+    "font-size": {
+      "h1": {
+        "value": "{generation.font-size.8}",
+        "type": "fontSizes"
+      },
+      "h2": {
+        "value": "{generation.font-size.6}",
+        "type": "fontSizes"
+      },
+      "h3": {
+        "value": "{generation.font-size.5}",
+        "type": "fontSizes"
+      },
+      "h4": {
+        "value": "{generation.font-size.4}",
+        "type": "fontSizes"
+      },
+      "h5": {
+        "value": "{generation.font-size.3}",
+        "type": "fontSizes"
+      },
+      "h6": {
+        "value": "{generation.font-size.2}",
+        "type": "fontSizes"
+      }
+    },
+    "font-weight": {
+      "regular": {
+        "value": "{generation.font-weight.book}",
+        "type": "fontWeights"
+      },
+      "emphasis": {
+        "value": "{generation.font-weight.bold}",
+        "type": "fontWeights"
+      }
+    },
+    "line-height": {
+      "regular": {
+        "value": "{generation.text.line-height.small}",
+        "type": "lineHeights"
+      },
+      "emphasis": {
+        "value": "{generation.text.line-height.small}",
+        "type": "lineHeights"
+      }
+    },
+    "color": {
+      "regular": {
+        "value": "{mode.text.color.secondary}",
+        "type": "color"
+      },
+      "emphasis": {
+        "value": "{mode.text.color.primary}",
+        "type": "color"
+      }
+    },
+    "container": {
+      "width": {
+        "fill-available": {
+          "value": "fill-available",
+          "type": "sizing"
+        }
+      }
+    }
+  }
+}

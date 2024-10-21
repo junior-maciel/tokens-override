@@ -1,0 +1,20 @@
+{
+  "autocomplete": {
+    "popover": {
+      "offset": {
+        "value": "{foundation.space.offset.medium}",
+        "type": "spacing"
+      }
+    },
+    "icon": {
+      "locator": {
+        "value": "EmrIconLocatorSvg",
+        "type": "asset"
+      },
+      "search": {
+        "value": "DlsIconSearchSvg",
+        "type": "asset"
+      }
+    }
+  }
+}

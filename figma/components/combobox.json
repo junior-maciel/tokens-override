@@ -1,0 +1,14 @@
+{
+  "combobox": {
+    "icon": {
+      "arrow-down": {
+        "value": "DlsIconArrowDownSvg",
+        "type": "asset"
+      },
+      "search": {
+        "value": "DlsIconSearchSvg",
+        "type": "asset"
+      }
+    }
+  }
+}

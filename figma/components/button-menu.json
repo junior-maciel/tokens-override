@@ -1,0 +1,14 @@
+{
+  "button-menu": {
+    "button": {
+      "icon": {
+        "name": {
+          "arrow-down": {
+            "value": "DlsIconArrowDownSvg",
+            "type": "asset"
+          }
+        }
+      }
+    }
+  }
+}

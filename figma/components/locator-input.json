@@ -1,0 +1,28 @@
+{
+  "locator-input": {
+    "input-action": {
+      "icon": {
+        "name": {
+          "locator": {
+            "value": "EmrIconLocatorSvg",
+            "type": "asset"
+          }
+        }
+      }
+    },
+    "container": {
+      "width": {
+        "value": "fill-available",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      },
+      "column-gap": {
+        "value": "{foundation.space.2}",
+        "type": "spacing"
+      }
+    }
+  }
+}

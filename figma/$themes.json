@@ -1,0 +1,651 @@
+[
+  {
+    "id": "325326bdd3948a5f103f5590f535d4d8eb745907",
+    "name": "all-components",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "components/label": "source",
+      "components/button": "source",
+      "components/indicator-label": "source",
+      "components/checkbox": "source",
+      "components/radio-button": "source",
+      "components/radio-group": "source",
+      "components/checklist": "source",
+      "components/combobox": "source",
+      "components/deck-group": "source",
+      "components/form": "source",
+      "components/heading": "source",
+      "components/icon": "source",
+      "components/info-icon": "source",
+      "components/listbox": "source",
+      "components/popover": "source",
+      "components/tooltip": "source",
+      "components/separator": "source",
+      "components/input": "source",
+      "components/date-input": "source",
+      "components/time-input": "source",
+      "components/time-picker": "source",
+      "components/indicator-tendency-line": "source",
+      "components/indicator-tendency-icon": "source",
+      "components/autocomplete": "source",
+      "components/badge": "source",
+      "components/paragraph": "source",
+      "components/date-time-picker": "source",
+      "components/label-value": "source",
+      "components/sensitive-data-mask": "source",
+      "components/avatar": "source",
+      "components/indicator-bar": "source",
+      "components/tag": "source",
+      "components/table": "source",
+      "components/scrollbar": "source",
+      "components/contextual-help": "source",
+      "components/link": "source",
+      "components/voice-panel": "source",
+      "components/info-bar": "source",
+      "components/section": "source",
+      "components/modal": "source",
+      "components/date-time-input": "source",
+      "components/dragger": "source",
+      "components/legend-item": "source",
+      "components/date-picker": "source",
+      "components/field": "source",
+      "components/application-template": "source",
+      "components/strikethrough": "source",
+      "components/drawer": "source",
+      "components/picklist": "source",
+      "components/fieldset": "source",
+      "components/menu": "source",
+      "components/grid-layout": "source",
+      "components/filter-bar": "source",
+      "components/header-bar": "source",
+      "components/new-list": "source",
+      "components/base-bar": "source",
+      "components/dialog": "source",
+      "components/button-menu": "source",
+      "components/virtual-assistant-tag": "source",
+      "components/locator-input": "source",
+      "components/pagination": "source",
+      "components/action-list": "source",
+      "components/filter-form": "source",
+      "components/footer-bar": "source",
+      "components/virtual-assistant-button": "source",
+      "components/menu-button": "source",
+      "components/counter-tag": "source",
+      "components/list": "source",
+      "components/severity-tag": "source",
+      "components/list-counter-tag": "source",
+      "components/picklist-dialog": "source",
+      "components/locator-dialog": "source",
+      "components/base-button": "source"
+    },
+    "group": "Components"
+  },
+  {
+    "id": "7f8cd52bd55a2159cf01c5ab588f9d7cf70a6fdf",
+    "name": "emr-cm",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/generation/emr": "source",
+      "layers/foundation/primitives": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4261",
+    "$figmaModeId": "529:22",
+    "$figmaVariableReferences": {},
+    "group": "Generation"
+  },
+  {
+    "id": "1561a08fb0b26e25505345bf627756aecef3f682",
+    "name": "dls",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/generation/dls": "source",
+      "layers/foundation/primitives": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4261",
+    "$figmaModeId": "529:23",
+    "$figmaVariableReferences": {},
+    "group": "Generation"
+  },
+  {
+    "id": "83a74eafcb3c8d00ac313ba26fff999ab4ffcd02",
+    "name": "legacy-blue",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/brand/legacy-blue": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "0b3221b050f60aaf3bf9fdfb52c21f333bc38348",
+    "name": "aqua",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/brand/aqua": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "ac18d2622f4251d0b097c127fad75e7b7d954474",
+    "name": "blue",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/brand/blue": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4294",
+    "$figmaModeId": "529:31",
+    "$figmaVariableReferences": {},
+    "group": "Brand"
+  },
+  {
+    "id": "238511e959dfda9a95ff0405f6b33397fe62c257",
+    "name": "gray",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/brand/gray": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4294",
+    "$figmaModeId": "529:32",
+    "$figmaVariableReferences": {},
+    "group": "Brand"
+  },
+  {
+    "id": "3aa49618fc6c12bdd3e1182492cd57633f552d1e",
+    "name": "green",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/brand/green": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4294",
+    "$figmaModeId": "529:33",
+    "$figmaVariableReferences": {
+      "brand.on-light.color.primary.normal": "d3462610d2886c744c9c39c9b35d647c1c2a6aaa",
+      "brand.on-light.color.primary.hover": "49135073866cb09f0222c9a222f2a4a8329bc5f7",
+      "brand.on-light.color.primary.active": "68537a92cfdd860f24378303314b95835080b3c7",
+      "brand.on-light.color.on-primary.normal": "335ac9b31634912897735a42f32cfbf1897a1948",
+      "brand.on-light.color.on-primary.hover": "1299b64ed9da088148e1fba8ae5ad9193fa504d3",
+      "brand.on-light.color.on-primary.active": "458a63668cc5bff7653fb47c0bfd2353bc537eae",
+      "brand.on-light.color.secondary.normal": "0346fcdd65ace7542d5de736ffe7868c7d2c0e52",
+      "brand.on-light.color.secondary.hover": "134b145b2c4ded3474f4c6f3f86f685fac3042bb",
+      "brand.on-light.color.secondary.active": "12ab6f9a76bf1fcb0f62d62cdcca84318ab017a6",
+      "brand.on-light.color.on-secondary.normal": "ba4cd3bde15862c7b9d6ce2d2dea768a8a9a1da2",
+      "brand.on-light.color.on-secondary.hover": "0953580746a80d41b19745f500f204f7ba6cadf2",
+      "brand.on-light.color.on-secondary.active": "02825bcabe5a05e12e1b4f48cb355d4253c0fa2d",
+      "brand.on-dark.color.primary.normal": "80dfb94c648e9434019d401ad705bb94cd118dd6",
+      "brand.on-dark.color.primary.hover": "d90604d05a213bea2bd0beb7f4a130acf765c70d",
+      "brand.on-dark.color.primary.active": "96ffac316a6a0be8b96d0ac2385ae4d45ba36ba3",
+      "brand.on-dark.color.on-primary.normal": "1e4db1dadb90bde6c0f3d5e813620b66fad06007",
+      "brand.on-dark.color.on-primary.hover": "943e14e2142258d042de5524044fe75489a86450",
+      "brand.on-dark.color.on-primary.active": "b81f048a1e08bf1161b464e7c1d8aeead2ae8525",
+      "brand.on-dark.color.secondary.normal": "43e3c5c2ad57484be1a75eb00a86fcc7fcb46d2e",
+      "brand.on-dark.color.secondary.hover": "6ef78843b4ca05ce84bd529dc613202becba5005",
+      "brand.on-dark.color.secondary.active": "93a5cde7a7b3950fe0d17e6347b63cf781c9cb10",
+      "brand.on-dark.color.on-secondary.normal": "7cfd2d0115cfa123fc79e4da8179dd142603a35a",
+      "brand.on-dark.color.on-secondary.hover": "c8e39a063a6556d74aa9eac0a844f6ccbdd6bfb8",
+      "brand.on-dark.color.on-secondary.active": "2a515657878b7ba15801c70e5052323b91d255e5",
+      "brand.on-bright.background.content.static": "38f22a0cadd162f34357ab4dbd6ebfc4968ff3b1",
+      "brand.on-bright.background.content.primary": "fa25c6976f5a694a44a849346a7ae42cd88addd4",
+      "brand.on-bright.background.content.secondary": "de01f68c54b1fa965515e61dfaf63e7ff77013fa",
+      "brand.on-bright.background.content.tertiary": "e15ac4103e23683c52261238416dca66ad1c4c95"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "1db401812a3a3651830b1e5b1ca6789d7a635ca7",
+    "name": "group-blue",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/brand/group-blue": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4294",
+    "$figmaModeId": "529:30",
+    "$figmaVariableReferences": {
+      "brand.on-light.color.primary.normal": "d3462610d2886c744c9c39c9b35d647c1c2a6aaa",
+      "brand.on-light.color.primary.hover": "49135073866cb09f0222c9a222f2a4a8329bc5f7",
+      "brand.on-light.color.primary.active": "68537a92cfdd860f24378303314b95835080b3c7",
+      "brand.on-light.color.on-primary.normal": "335ac9b31634912897735a42f32cfbf1897a1948",
+      "brand.on-light.color.on-primary.hover": "1299b64ed9da088148e1fba8ae5ad9193fa504d3",
+      "brand.on-light.color.on-primary.active": "458a63668cc5bff7653fb47c0bfd2353bc537eae",
+      "brand.on-light.color.secondary.normal": "0346fcdd65ace7542d5de736ffe7868c7d2c0e52",
+      "brand.on-light.color.secondary.hover": "134b145b2c4ded3474f4c6f3f86f685fac3042bb",
+      "brand.on-light.color.secondary.active": "12ab6f9a76bf1fcb0f62d62cdcca84318ab017a6",
+      "brand.on-light.color.on-secondary.normal": "ba4cd3bde15862c7b9d6ce2d2dea768a8a9a1da2",
+      "brand.on-light.color.on-secondary.hover": "0953580746a80d41b19745f500f204f7ba6cadf2",
+      "brand.on-light.color.on-secondary.active": "02825bcabe5a05e12e1b4f48cb355d4253c0fa2d",
+      "brand.on-dark.color.primary.normal": "80dfb94c648e9434019d401ad705bb94cd118dd6",
+      "brand.on-dark.color.primary.hover": "d90604d05a213bea2bd0beb7f4a130acf765c70d",
+      "brand.on-dark.color.primary.active": "96ffac316a6a0be8b96d0ac2385ae4d45ba36ba3",
+      "brand.on-dark.color.on-primary.normal": "1e4db1dadb90bde6c0f3d5e813620b66fad06007",
+      "brand.on-dark.color.on-primary.hover": "943e14e2142258d042de5524044fe75489a86450",
+      "brand.on-dark.color.on-primary.active": "b81f048a1e08bf1161b464e7c1d8aeead2ae8525",
+      "brand.on-dark.color.secondary.normal": "43e3c5c2ad57484be1a75eb00a86fcc7fcb46d2e",
+      "brand.on-dark.color.secondary.hover": "6ef78843b4ca05ce84bd529dc613202becba5005",
+      "brand.on-dark.color.secondary.active": "93a5cde7a7b3950fe0d17e6347b63cf781c9cb10",
+      "brand.on-dark.color.on-secondary.normal": "7cfd2d0115cfa123fc79e4da8179dd142603a35a",
+      "brand.on-dark.color.on-secondary.hover": "c8e39a063a6556d74aa9eac0a844f6ccbdd6bfb8",
+      "brand.on-dark.color.on-secondary.active": "2a515657878b7ba15801c70e5052323b91d255e5",
+      "brand.on-bright.background.content.static": "38f22a0cadd162f34357ab4dbd6ebfc4968ff3b1",
+      "brand.on-bright.background.content.primary": "fa25c6976f5a694a44a849346a7ae42cd88addd4",
+      "brand.on-bright.background.content.secondary": "de01f68c54b1fa965515e61dfaf63e7ff77013fa",
+      "brand.on-bright.background.content.tertiary": "e15ac4103e23683c52261238416dca66ad1c4c95"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "d7ce9c651c687eb06933a86a0915692ab70f4271",
+    "name": "orange",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/brand/orange": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4294",
+    "$figmaModeId": "529:35",
+    "$figmaVariableReferences": {
+      "brand.on-light.color.primary.normal": "d3462610d2886c744c9c39c9b35d647c1c2a6aaa",
+      "brand.on-light.color.primary.hover": "49135073866cb09f0222c9a222f2a4a8329bc5f7",
+      "brand.on-light.color.primary.active": "68537a92cfdd860f24378303314b95835080b3c7",
+      "brand.on-light.color.on-primary.normal": "335ac9b31634912897735a42f32cfbf1897a1948",
+      "brand.on-light.color.on-primary.hover": "1299b64ed9da088148e1fba8ae5ad9193fa504d3",
+      "brand.on-light.color.on-primary.active": "458a63668cc5bff7653fb47c0bfd2353bc537eae",
+      "brand.on-light.color.secondary.normal": "0346fcdd65ace7542d5de736ffe7868c7d2c0e52",
+      "brand.on-light.color.secondary.hover": "134b145b2c4ded3474f4c6f3f86f685fac3042bb",
+      "brand.on-light.color.secondary.active": "12ab6f9a76bf1fcb0f62d62cdcca84318ab017a6",
+      "brand.on-light.color.on-secondary.normal": "ba4cd3bde15862c7b9d6ce2d2dea768a8a9a1da2",
+      "brand.on-light.color.on-secondary.hover": "0953580746a80d41b19745f500f204f7ba6cadf2",
+      "brand.on-light.color.on-secondary.active": "02825bcabe5a05e12e1b4f48cb355d4253c0fa2d",
+      "brand.on-dark.color.primary.normal": "80dfb94c648e9434019d401ad705bb94cd118dd6",
+      "brand.on-dark.color.primary.hover": "d90604d05a213bea2bd0beb7f4a130acf765c70d",
+      "brand.on-dark.color.primary.active": "96ffac316a6a0be8b96d0ac2385ae4d45ba36ba3",
+      "brand.on-dark.color.on-primary.normal": "1e4db1dadb90bde6c0f3d5e813620b66fad06007",
+      "brand.on-dark.color.on-primary.hover": "943e14e2142258d042de5524044fe75489a86450",
+      "brand.on-dark.color.on-primary.active": "b81f048a1e08bf1161b464e7c1d8aeead2ae8525",
+      "brand.on-dark.color.secondary.normal": "43e3c5c2ad57484be1a75eb00a86fcc7fcb46d2e",
+      "brand.on-dark.color.secondary.hover": "6ef78843b4ca05ce84bd529dc613202becba5005",
+      "brand.on-dark.color.secondary.active": "93a5cde7a7b3950fe0d17e6347b63cf781c9cb10",
+      "brand.on-dark.color.on-secondary.normal": "7cfd2d0115cfa123fc79e4da8179dd142603a35a",
+      "brand.on-dark.color.on-secondary.hover": "c8e39a063a6556d74aa9eac0a844f6ccbdd6bfb8",
+      "brand.on-dark.color.on-secondary.active": "2a515657878b7ba15801c70e5052323b91d255e5",
+      "brand.on-bright.background.content.static": "38f22a0cadd162f34357ab4dbd6ebfc4968ff3b1",
+      "brand.on-bright.background.content.primary": "fa25c6976f5a694a44a849346a7ae42cd88addd4",
+      "brand.on-bright.background.content.secondary": "de01f68c54b1fa965515e61dfaf63e7ff77013fa",
+      "brand.on-bright.background.content.tertiary": "e15ac4103e23683c52261238416dca66ad1c4c95"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "19a9dcaa092ac4e4a46e097e4022bdfb881f4cb4",
+    "name": "pink",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/brand/pink": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "bcbe1c01f0e09dfcb4dd0f0ec56ace83dd1adc4a",
+    "name": "purple",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/brand/purple": "source"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "df28eb50c7eaea3fadc00c764347f929cd0a6378",
+    "name": "global",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/localization/global": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4323",
+    "$figmaModeId": "529:36",
+    "$figmaVariableReferences": {
+      "localization.on-light.alert.background.high.danger.normal": "00ffe518c69f4099513b205ddf9ec627cd15afbf",
+      "localization.on-light.alert.background.high.danger.hover": "9c0427e89d9fde786f8b035d388cb08c43bcc372",
+      "localization.on-light.alert.background.high.danger.active": "3090391a41ae05d39b30d1ca609851b3fa4a0481",
+      "localization.on-light.alert.background.high.warning.normal": "a61160482861e945397040bef0a907c590b7bab5",
+      "localization.on-light.alert.background.high.warning.hover": "e1c8f06caa75ae34841e287521edc44f376bc825",
+      "localization.on-light.alert.background.high.warning.active": "329611aa5e8572131c09afb6ce9dc314d9913fb0",
+      "localization.on-light.alert.background.high.caution.normal": "9c99dab11295132aaaf6b943fe72ebdbffebf354",
+      "localization.on-light.alert.background.high.caution.hover": "6fc508692406bf0c782d3db33106bd0a1d7002d4",
+      "localization.on-light.alert.background.high.caution.active": "b26b39bc34ff310fc2fb7fd69d45eb6ee5c39660",
+      "localization.on-light.alert.background.high.on-caution.normal": "0f738eaa5e1f00637f62b948fce4578bee69235c",
+      "localization.on-light.alert.background.high.on-caution.hover": "bf5790e08343b9e7482ae1ae062ff91ef714912e",
+      "localization.on-light.alert.background.high.on-caution.active": "ea5fc2e63ec4e6b01f1a6d1306978800af25cb8b",
+      "localization.on-dark.alert.background.high.danger.normal": "866322032be1474a4c63c378276eb8f323cd0b5f",
+      "localization.on-dark.alert.background.high.danger.hover": "391a6e9c8cc3432b76834657abf947aa1ba4b506",
+      "localization.on-dark.alert.background.high.danger.active": "35e7a9de0a20c4ed3e8a0e169a89817fa2a82a79",
+      "localization.on-dark.alert.background.high.warning.normal": "82c2863296b732a72cb88ab6a72104ecb0e7e7f4",
+      "localization.on-dark.alert.background.high.warning.hover": "e32aba5c5c2a71b72460212a5c649b6043ebcef5",
+      "localization.on-dark.alert.background.high.warning.active": "bc12f17a03eba64c5ee1e3fc6631d68a8bb7c090",
+      "localization.on-dark.alert.background.high.caution.normal": "79a26936b1a6fc640827dac301398e56985b245f",
+      "localization.on-dark.alert.background.high.caution.hover": "173cb48c62ad9ff4d990ec622a87e68ea0f7dee2",
+      "localization.on-dark.alert.background.high.caution.active": "2421b6a8bce9832756729bdd704e88376516342b",
+      "localization.on-dark.alert.background.high.on-caution.normal": "da3c292c2809293ddaf83ae8730cf9eaf6b0ced0",
+      "localization.on-dark.alert.background.high.on-caution.hover": "c02fd372a53598c5adbdec070a3512ee2cb0d739",
+      "localization.on-dark.alert.background.high.on-caution.active": "a522479aab3e8374bec42e003c942fe5d884d8ae",
+      "localization.on-light.alert.background.high.safety.normal": "ba15a1be5a01933d8a8584cbd7d7a872bfb877d3",
+      "localization.on-light.alert.background.high.safety.hover": "4d701cd927023533af0c34dac0399c022baf46b3",
+      "localization.on-light.alert.background.high.safety.active": "a7609f01ec43eaa6774971e9853eac2e923f58ee",
+      "localization.on-light.alert.background.high.information.normal": "444fb3b0b84d32b93bcd72cf2008dce19a24653e",
+      "localization.on-light.alert.background.high.information.hover": "2adcb0acf1d124c3de65611139394255d765ac2e",
+      "localization.on-light.alert.background.high.information.active": "2cce08b1460ccf05d3cddcc08645d6941c6042c8",
+      "localization.on-light.alert.background.high.on-information.normal": "0469582889500ba1997239e49d0762369d0eaec4",
+      "localization.on-light.alert.background.high.on-information.hover": "c468c95af6960d6053a9a02cacdf72ddc022fb9d",
+      "localization.on-light.alert.background.high.on-information.active": "99403f5f97ac78aeb2668511f5bfd327d96f93db",
+      "localization.on-dark.alert.background.high.safety.normal": "dc16b6dd917d3f749951b83cd64466d0b3640699",
+      "localization.on-dark.alert.background.high.safety.hover": "6f94de0e05b4bcfe6f2dec524c6524f175f9bcf4",
+      "localization.on-dark.alert.background.high.safety.active": "286817d741341bd2c5d47a0bad87b11ad1cc75be",
+      "localization.on-dark.alert.background.high.information.normal": "fae3c8883fe6c27ebf0dbfd04cf279c2684aec7a",
+      "localization.on-dark.alert.background.high.information.hover": "6bd4fc95437d72c0a15b549a06963c4cb7b8e328",
+      "localization.on-dark.alert.background.high.information.active": "61ed8f7d772e690593c066aa62ef0860eb17603b",
+      "localization.on-dark.alert.background.high.on-information.normal": "d6662a98d8e4e8f9f39133a95d7fe6d162ac3812",
+      "localization.on-dark.alert.background.high.on-information.hover": "069b80c69ba8eceb73eb175f4568ff77ae22f581",
+      "localization.on-dark.alert.background.high.on-information.active": "edc7d6193384e249f2be2abc02d19ca6fe4c078f"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "5d4339a38183a34d67e2bafa3c4c7af9c91c89ce",
+    "name": "japan",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/localization/japan": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4323",
+    "$figmaModeId": "529:37",
+    "$figmaVariableReferences": {
+      "localization.on-light.alert.background.high.danger.normal": "00ffe518c69f4099513b205ddf9ec627cd15afbf",
+      "localization.on-light.alert.background.high.danger.hover": "9c0427e89d9fde786f8b035d388cb08c43bcc372",
+      "localization.on-light.alert.background.high.danger.active": "3090391a41ae05d39b30d1ca609851b3fa4a0481",
+      "localization.on-light.alert.background.high.warning.normal": "a61160482861e945397040bef0a907c590b7bab5",
+      "localization.on-light.alert.background.high.warning.hover": "e1c8f06caa75ae34841e287521edc44f376bc825",
+      "localization.on-light.alert.background.high.warning.active": "329611aa5e8572131c09afb6ce9dc314d9913fb0",
+      "localization.on-light.alert.background.high.caution.normal": "9c99dab11295132aaaf6b943fe72ebdbffebf354",
+      "localization.on-light.alert.background.high.caution.hover": "6fc508692406bf0c782d3db33106bd0a1d7002d4",
+      "localization.on-light.alert.background.high.caution.active": "b26b39bc34ff310fc2fb7fd69d45eb6ee5c39660",
+      "localization.on-light.alert.background.high.on-caution.normal": "0f738eaa5e1f00637f62b948fce4578bee69235c",
+      "localization.on-light.alert.background.high.on-caution.hover": "bf5790e08343b9e7482ae1ae062ff91ef714912e",
+      "localization.on-light.alert.background.high.on-caution.active": "ea5fc2e63ec4e6b01f1a6d1306978800af25cb8b",
+      "localization.on-dark.alert.background.high.danger.normal": "866322032be1474a4c63c378276eb8f323cd0b5f",
+      "localization.on-dark.alert.background.high.danger.hover": "391a6e9c8cc3432b76834657abf947aa1ba4b506",
+      "localization.on-dark.alert.background.high.danger.active": "35e7a9de0a20c4ed3e8a0e169a89817fa2a82a79",
+      "localization.on-dark.alert.background.high.warning.normal": "82c2863296b732a72cb88ab6a72104ecb0e7e7f4",
+      "localization.on-dark.alert.background.high.warning.hover": "e32aba5c5c2a71b72460212a5c649b6043ebcef5",
+      "localization.on-dark.alert.background.high.warning.active": "bc12f17a03eba64c5ee1e3fc6631d68a8bb7c090",
+      "localization.on-dark.alert.background.high.caution.normal": "79a26936b1a6fc640827dac301398e56985b245f",
+      "localization.on-dark.alert.background.high.caution.hover": "173cb48c62ad9ff4d990ec622a87e68ea0f7dee2",
+      "localization.on-dark.alert.background.high.caution.active": "2421b6a8bce9832756729bdd704e88376516342b",
+      "localization.on-dark.alert.background.high.on-caution.normal": "da3c292c2809293ddaf83ae8730cf9eaf6b0ced0",
+      "localization.on-dark.alert.background.high.on-caution.hover": "c02fd372a53598c5adbdec070a3512ee2cb0d739",
+      "localization.on-dark.alert.background.high.on-caution.active": "a522479aab3e8374bec42e003c942fe5d884d8ae",
+      "localization.on-light.alert.background.high.safety.normal": "ba15a1be5a01933d8a8584cbd7d7a872bfb877d3",
+      "localization.on-light.alert.background.high.safety.hover": "4d701cd927023533af0c34dac0399c022baf46b3",
+      "localization.on-light.alert.background.high.safety.active": "a7609f01ec43eaa6774971e9853eac2e923f58ee",
+      "localization.on-light.alert.background.high.information.normal": "444fb3b0b84d32b93bcd72cf2008dce19a24653e",
+      "localization.on-light.alert.background.high.information.hover": "2adcb0acf1d124c3de65611139394255d765ac2e",
+      "localization.on-light.alert.background.high.information.active": "2cce08b1460ccf05d3cddcc08645d6941c6042c8",
+      "localization.on-light.alert.background.high.on-information.normal": "0469582889500ba1997239e49d0762369d0eaec4",
+      "localization.on-light.alert.background.high.on-information.hover": "c468c95af6960d6053a9a02cacdf72ddc022fb9d",
+      "localization.on-light.alert.background.high.on-information.active": "99403f5f97ac78aeb2668511f5bfd327d96f93db",
+      "localization.on-dark.alert.background.high.safety.normal": "dc16b6dd917d3f749951b83cd64466d0b3640699",
+      "localization.on-dark.alert.background.high.safety.hover": "6f94de0e05b4bcfe6f2dec524c6524f175f9bcf4",
+      "localization.on-dark.alert.background.high.safety.active": "286817d741341bd2c5d47a0bad87b11ad1cc75be",
+      "localization.on-dark.alert.background.high.information.normal": "fae3c8883fe6c27ebf0dbfd04cf279c2684aec7a",
+      "localization.on-dark.alert.background.high.information.hover": "6bd4fc95437d72c0a15b549a06963c4cb7b8e328",
+      "localization.on-dark.alert.background.high.information.active": "61ed8f7d772e690593c066aa62ef0860eb17603b",
+      "localization.on-dark.alert.background.high.on-information.normal": "d6662a98d8e4e8f9f39133a95d7fe6d162ac3812",
+      "localization.on-dark.alert.background.high.on-information.hover": "069b80c69ba8eceb73eb175f4568ff77ae22f581",
+      "localization.on-dark.alert.background.high.on-information.active": "edc7d6193384e249f2be2abc02d19ca6fe4c078f"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "5e96b952fab7500410ad8365141f4b46fad1b8bb",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/mode/light": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4262",
+    "$figmaModeId": "529:25",
+    "$figmaVariableReferences": {
+      "dialog.header.background.safety": "ad77c9cf225f671869e3d291cc5f7072369575b0",
+      "dialog.header.background.caution": "69802dedb2be0f5b9c2aaa5415ff443674e5a93e",
+      "dialog.header.color.title.on-safety": "0ad0a2617d3916f2c7f74519cca20a3988717ef1",
+      "dialog.header.color.title.on-caution": "c1db9572de57d9ec1f034fc4f1e19fb8e44c71f6",
+      "dialog.header.color.icon.on-safety": "63bffecde4b19c4a5edb4e5fa1877ee4f20ad51e",
+      "dialog.header.color.icon.on-caution": "519eec9875f9ac1745b357e0117a909db9ed5a6b",
+      "dialog.container.background.default": "00bfbb5b18c06c69fe96968bdefb976b7d954a01",
+      "dialog.container.border-radius": "74cae72ab57b9b8eb6681d4fbcbd634b1d916efc",
+      "dialog.content.color.heading": "220830c110e47c35d09737bc095ac8dff05eada0",
+      "dialog.content.color.description": "c16a1b0d6400b2aeb2b4662b544771d915b747ff",
+      "button.border-radius": "56fe553bd4988068d10a80d247e89993cbc258f3",
+      "button.container.background.primary.normal": "56e84c071484643cb775341e79bb0da3453a9124",
+      "button.container.background.primary.hover": "a0c5945478e9f8f4dc606ec9ccc340096ecad271",
+      "button.container.background.primary.active": "c15933a6b5be4a70ed3c73a7bac4bea5ce520f7e",
+      "button.container.background.secondary.normal": "704f41534311f71f60a99f45d90c926b61cba470",
+      "button.container.background.secondary.hover": "c0d59654493b4519dda938ef7e8ad75a6c7f8fd7",
+      "button.container.background.secondary.active": "be5414e483e6229829e0ad4700c01d60aa35c3bf",
+      "button.container.background.neutral.normal": "e49046635b2c2cec99fd3a120b6bca4536616864",
+      "button.container.background.neutral.hover": "4349c8c16211979b3e28781125cd8b58276ae9c9",
+      "button.container.background.neutral.active": "14478489b1282237c2224752bbe77bd916f84bdc",
+      "button.container.padding.top": "a72a770fc2a28df5d0b5286d3881be6ba4ca0be4",
+      "button.container.padding.bottom": "9bddd36db01ac90543054ad80bbba998cfb1ab98",
+      "button.label.color.on-primary.normal": "aaa4012661a037345703214f05ff54e4a20055f8",
+      "button.label.color.on-primary.hover": "b2e8c569fca940ebf4647c0f0f14a55aad89e93c",
+      "button.label.color.on-primary.active": "a0c4e3989162f3022d0aeb85cdce6647afaf540f",
+      "button.label.color.on-secondary.normal": "0ea8825d747c37a0d2401feab8737a03e4adacef",
+      "button.label.color.on-secondary.hover": "ef12a9fa884d9f364fb29f0b68dae034efc9f382",
+      "button.label.color.on-secondary.active": "6516d7fb97477375e67ac91cc9c8bd84fb8af609",
+      "button.label.color.on-neutral.normal": "05d3e7b655dae88ff4ec26327f5395ebbc0d6e5f",
+      "button.label.color.on-neutral.hover": "c731a9dd3f2f7c0daaad07d2a9f26667351d7c62",
+      "button.label.color.on-neutral.active": "ee15095ec307defcab93d76f913a93ef563b78e1"
+    },
+    "group": "Mode"
+  },
+  {
+    "id": "9cbb9ac5c1097ed9f939773a54dd1e7512b8977a",
+    "name": "bright",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/mode/bright": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4262",
+    "$figmaModeId": "529:27",
+    "$figmaVariableReferences": {
+      "dialog.header.background.safety": "ad77c9cf225f671869e3d291cc5f7072369575b0",
+      "dialog.header.background.caution": "69802dedb2be0f5b9c2aaa5415ff443674e5a93e",
+      "dialog.header.color.title.on-safety": "0ad0a2617d3916f2c7f74519cca20a3988717ef1",
+      "dialog.header.color.title.on-caution": "c1db9572de57d9ec1f034fc4f1e19fb8e44c71f6",
+      "dialog.header.color.icon.on-safety": "63bffecde4b19c4a5edb4e5fa1877ee4f20ad51e",
+      "dialog.header.color.icon.on-caution": "519eec9875f9ac1745b357e0117a909db9ed5a6b",
+      "dialog.container.background.default": "00bfbb5b18c06c69fe96968bdefb976b7d954a01",
+      "dialog.container.border-radius": "74cae72ab57b9b8eb6681d4fbcbd634b1d916efc",
+      "dialog.content.color.heading": "220830c110e47c35d09737bc095ac8dff05eada0",
+      "dialog.content.color.description": "c16a1b0d6400b2aeb2b4662b544771d915b747ff",
+      "button.border-radius": "56fe553bd4988068d10a80d247e89993cbc258f3",
+      "button.container.background.primary.normal": "56e84c071484643cb775341e79bb0da3453a9124",
+      "button.container.background.primary.hover": "a0c5945478e9f8f4dc606ec9ccc340096ecad271",
+      "button.container.background.primary.active": "c15933a6b5be4a70ed3c73a7bac4bea5ce520f7e",
+      "button.container.background.secondary.normal": "704f41534311f71f60a99f45d90c926b61cba470",
+      "button.container.background.secondary.hover": "c0d59654493b4519dda938ef7e8ad75a6c7f8fd7",
+      "button.container.background.secondary.active": "be5414e483e6229829e0ad4700c01d60aa35c3bf",
+      "button.container.background.neutral.normal": "e49046635b2c2cec99fd3a120b6bca4536616864",
+      "button.container.background.neutral.hover": "4349c8c16211979b3e28781125cd8b58276ae9c9",
+      "button.container.background.neutral.active": "14478489b1282237c2224752bbe77bd916f84bdc",
+      "button.container.padding.top": "a72a770fc2a28df5d0b5286d3881be6ba4ca0be4",
+      "button.container.padding.bottom": "9bddd36db01ac90543054ad80bbba998cfb1ab98",
+      "button.label.color.on-primary.normal": "aaa4012661a037345703214f05ff54e4a20055f8",
+      "button.label.color.on-primary.hover": "b2e8c569fca940ebf4647c0f0f14a55aad89e93c",
+      "button.label.color.on-primary.active": "a0c4e3989162f3022d0aeb85cdce6647afaf540f",
+      "button.label.color.on-secondary.normal": "0ea8825d747c37a0d2401feab8737a03e4adacef",
+      "button.label.color.on-secondary.hover": "ef12a9fa884d9f364fb29f0b68dae034efc9f382",
+      "button.label.color.on-secondary.active": "6516d7fb97477375e67ac91cc9c8bd84fb8af609",
+      "button.label.color.on-neutral.normal": "05d3e7b655dae88ff4ec26327f5395ebbc0d6e5f",
+      "button.label.color.on-neutral.hover": "c731a9dd3f2f7c0daaad07d2a9f26667351d7c62",
+      "button.label.color.on-neutral.active": "ee15095ec307defcab93d76f913a93ef563b78e1"
+    },
+    "group": "Mode"
+  },
+  {
+    "id": "2a11d79c21bdd8adf4ff422e9350611031b976c5",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/mode/dark": "source"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4262",
+    "$figmaModeId": "529:28",
+    "$figmaVariableReferences": {
+      "dialog.header.background.safety": "ad77c9cf225f671869e3d291cc5f7072369575b0",
+      "dialog.header.background.caution": "69802dedb2be0f5b9c2aaa5415ff443674e5a93e",
+      "dialog.header.color.title.on-safety": "0ad0a2617d3916f2c7f74519cca20a3988717ef1",
+      "dialog.header.color.title.on-caution": "c1db9572de57d9ec1f034fc4f1e19fb8e44c71f6",
+      "dialog.header.color.icon.on-safety": "63bffecde4b19c4a5edb4e5fa1877ee4f20ad51e",
+      "dialog.header.color.icon.on-caution": "519eec9875f9ac1745b357e0117a909db9ed5a6b",
+      "dialog.container.background.default": "00bfbb5b18c06c69fe96968bdefb976b7d954a01",
+      "dialog.container.border-radius": "74cae72ab57b9b8eb6681d4fbcbd634b1d916efc",
+      "dialog.content.color.heading": "220830c110e47c35d09737bc095ac8dff05eada0",
+      "dialog.content.color.description": "c16a1b0d6400b2aeb2b4662b544771d915b747ff",
+      "button.border-radius": "56fe553bd4988068d10a80d247e89993cbc258f3",
+      "button.container.background.primary.normal": "56e84c071484643cb775341e79bb0da3453a9124",
+      "button.container.background.primary.hover": "a0c5945478e9f8f4dc606ec9ccc340096ecad271",
+      "button.container.background.primary.active": "c15933a6b5be4a70ed3c73a7bac4bea5ce520f7e",
+      "button.container.background.secondary.normal": "704f41534311f71f60a99f45d90c926b61cba470",
+      "button.container.background.secondary.hover": "c0d59654493b4519dda938ef7e8ad75a6c7f8fd7",
+      "button.container.background.secondary.active": "be5414e483e6229829e0ad4700c01d60aa35c3bf",
+      "button.container.background.neutral.normal": "e49046635b2c2cec99fd3a120b6bca4536616864",
+      "button.container.background.neutral.hover": "4349c8c16211979b3e28781125cd8b58276ae9c9",
+      "button.container.background.neutral.active": "14478489b1282237c2224752bbe77bd916f84bdc",
+      "button.container.padding.top": "a72a770fc2a28df5d0b5286d3881be6ba4ca0be4",
+      "button.container.padding.bottom": "9bddd36db01ac90543054ad80bbba998cfb1ab98",
+      "button.label.color.on-primary.normal": "aaa4012661a037345703214f05ff54e4a20055f8",
+      "button.label.color.on-primary.hover": "b2e8c569fca940ebf4647c0f0f14a55aad89e93c",
+      "button.label.color.on-primary.active": "a0c4e3989162f3022d0aeb85cdce6647afaf540f",
+      "button.label.color.on-secondary.normal": "0ea8825d747c37a0d2401feab8737a03e4adacef",
+      "button.label.color.on-secondary.hover": "ef12a9fa884d9f364fb29f0b68dae034efc9f382",
+      "button.label.color.on-secondary.active": "6516d7fb97477375e67ac91cc9c8bd84fb8af609",
+      "button.label.color.on-neutral.normal": "05d3e7b655dae88ff4ec26327f5395ebbc0d6e5f",
+      "button.label.color.on-neutral.hover": "c731a9dd3f2f7c0daaad07d2a9f26667351d7c62",
+      "button.label.color.on-neutral.active": "ee15095ec307defcab93d76f913a93ef563b78e1"
+    },
+    "group": "Mode"
+  },
+  {
+    "id": "f968f475fdafacfb587c974b380e6cc8591fa0f4",
+    "name": "dense",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/density/dense": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4366",
+    "$figmaModeId": "529:38",
+    "$figmaVariableReferences": {
+      "densitysity.button.top": "e7b7db1df9518f34654e8628e2d08119caa2f764",
+      "densitysity.button.bottom": "4ea7395fb1ece9900be9c26f6ed679e14a0741a3"
+    },
+    "group": "Density"
+  },
+  {
+    "id": "303ed9855985e557fe7ca61b08dca1394c48c8f7",
+    "name": "regular",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/density/regular": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4366",
+    "$figmaModeId": "529:39",
+    "$figmaVariableReferences": {
+      "densitysity.button.top": "e7b7db1df9518f34654e8628e2d08119caa2f764",
+      "densitysity.button.bottom": "4ea7395fb1ece9900be9c26f6ed679e14a0741a3"
+    },
+    "group": "Density"
+  },
+  {
+    "id": "35e8899d55c780ae38ac8e059a63e63a88b81ba4",
+    "name": "comfortable",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/density/comfortable": "enabled"
+    },
+    "$figmaCollectionId": "VariableCollectionId:529:4366",
+    "$figmaModeId": "529:40",
+    "$figmaVariableReferences": {
+      "densitysity.button.top": "e7b7db1df9518f34654e8628e2d08119caa2f764",
+      "densitysity.button.bottom": "4ea7395fb1ece9900be9c26f6ed679e14a0741a3"
+    },
+    "group": "Density"
+  },
+  {
+    "id": "0e5a8e6fa05efc645ef18b386ed00b70e2769c13",
+    "name": "xx-small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/breakpoint/xx-small": "enabled"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "c056ff8fb2b2908dfcc5a835cedcc123daadbef0",
+    "name": "x-small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/breakpoint/x-small": "source"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "31c5ad9dabd7fec07986a0a71d87971e679a60dd",
+    "name": "small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/breakpoint/small": "source"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "2c8b22e0dda7092ddd9d4a641ae7f56fd8b1091b",
+    "name": "medium",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/breakpoint/medium": "source"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "ddf488aa7df9768fb6a7a6b0301079a41a98ee63",
+    "name": "large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/breakpoint/large": "source"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "0142db3177e5ba20b63b1211604c7fa828dd3a51",
+    "name": "x-large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/breakpoint/x-large": "source"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "c5ee5491e5a1eeb93386b836df7b417d6a6eb89d",
+    "name": "xx-large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/breakpoint/xx-large": "source"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "e64f60a73177f22094c9756fdfd946c154563b80",
+    "name": "xxx-large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "layers/breakpoint/xxx-large": "source"
+    },
+    "group": "Breakpoint"
+  }
+]

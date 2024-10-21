@@ -1,0 +1,14 @@
+{
+  "footer-bar": {
+    "container": {
+      "width": {
+        "value": "fill-available",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      }
+    }
+  }
+}

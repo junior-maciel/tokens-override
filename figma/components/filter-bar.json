@@ -1,0 +1,36 @@
+{
+  "filter-bar": {
+    "icon": {
+      "name": {
+        "filter": {
+          "value": "DlsIconFilterSvg",
+          "type": "asset"
+        }
+      }
+    },
+    "tag": {
+      "background": {
+        "none": {
+          "value": "{mode.alert.background.low.neutral.normal}",
+          "type": "color"
+        }
+      },
+      "color": {
+        "none": {
+          "value": "{mode.alert.text.low.on-neutral.normal}",
+          "type": "color"
+        }
+      },
+      "border-color": {
+        "none": {
+          "value": {
+            "color": "{mode.alert.border.neutral.normal}",
+            "width": "{generation.border-width.hairline}",
+            "style": "solid"
+          },
+          "type": "border"
+        }
+      }
+    }
+  }
+}

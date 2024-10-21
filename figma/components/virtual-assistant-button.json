@@ -1,0 +1,268 @@
+{
+  "virtual-assistant-button": {
+    "container": {
+      "width": {
+        "small": {
+          "value": "{foundation.size.16}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{foundation.size.24}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{foundation.size.42}",
+          "type": "sizing"
+        }
+      },
+      "height": {
+        "small": {
+          "value": "{foundation.size.16}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{foundation.size.24}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{foundation.size.42}",
+          "type": "sizing"
+        }
+      },
+      "outline": {
+        "focus-visible": {
+          "value": "{mode.outline.focus-visible}",
+          "type": "border"
+        }
+      },
+      "outline-offset": {
+        "focus-visible": {
+          "value": "{generation.outline-offset.focus-visible}",
+          "type": "spacing"
+        }
+      },
+      "background": {
+        "listening": {
+          "value": "{mode.comp.virtual-assistant-button.container.background}",
+          "type": "color"
+        },
+        "processing": {
+          "value": "{mode.surface.none}",
+          "type": "color"
+        },
+        "none": {
+          "value": "{mode.comp.virtual-assistant-button.container.background}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{mode.comp.virtual-assistant-button.container.background}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{mode.comp.virtual-assistant-button.container.background}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{mode.comp.virtual-assistant-button.container.background}",
+          "type": "color"
+        }
+      }
+    },
+    "area": {
+      "width": {
+        "small": {
+          "value": "{foundation.size.13}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{foundation.size.20}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{foundation.size.35}",
+          "type": "sizing"
+        }
+      },
+      "height": {
+        "small": {
+          "value": "{foundation.size.13}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{foundation.size.20}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{foundation.size.35}",
+          "type": "sizing"
+        }
+      },
+      "background": {
+        "listening": {
+          "value": "{mode.surface.primary}",
+          "type": "color"
+        },
+        "processing": {
+          "value": "{mode.surface.primary}",
+          "type": "color"
+        },
+        "none": {
+          "value": "{mode.comp.virtual-assistant-button.area.background}",
+          "type": "color"
+        },
+        "hover": {
+          "value": "{mode.comp.virtual-assistant-button.area.background}",
+          "type": "color"
+        },
+        "active": {
+          "value": "{mode.comp.virtual-assistant-button.area.background}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{mode.comp.virtual-assistant-button.area.background}",
+          "type": "color"
+        }
+      },
+      "inset-block-start": {
+        "value": "50%",
+        "type": "other",
+        "description": "Set the area position in the center of the virtual assistant button container."
+      },
+      "inset-inline-start": {
+        "value": "50%",
+        "type": "other",
+        "description": "Set the area position in the center of the virtual assistant button container."
+      }
+    },
+    "volume-pulse": {
+      "width": {
+        "small": {
+          "value": "{foundation.size.16}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{foundation.size.24}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{foundation.size.42}",
+          "type": "sizing"
+        }
+      },
+      "height": {
+        "small": {
+          "value": "{foundation.size.16}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{foundation.size.24}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{foundation.size.42}",
+          "type": "sizing"
+        }
+      },
+      "background": {
+        "listening": {
+          "value": "{mode.color.primary.low}",
+          "type": "color"
+        }
+      }
+    },
+    "star-animation": {
+      "width": {
+        "small": {
+          "value": "{foundation.size.6}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{foundation.size.10}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{foundation.size.16}",
+          "type": "sizing"
+        }
+      },
+      "height": {
+        "small": {
+          "value": "{foundation.size.6}",
+          "type": "sizing"
+        },
+        "medium": {
+          "value": "{foundation.size.10}",
+          "type": "sizing"
+        },
+        "large": {
+          "value": "{foundation.size.16}",
+          "type": "sizing"
+        }
+      },
+      "background": {
+        "listening": {
+          "value": "{mode.color.primary.normal}",
+          "type": "color"
+        },
+        "processing": {
+          "value": "{mode.color.primary.normal}",
+          "type": "color"
+        }
+      }
+    },
+    "icon": {
+      "color": {
+        "star-animation": {
+          "none": {
+            "value": "{mode.comp.virtual-assistant-button.star-animation.background.none}",
+            "type": "color"
+          },
+          "hover": {
+            "value": "{mode.color.primary.hover}",
+            "type": "color"
+          },
+          "active": {
+            "value": "{mode.color.primary.active}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{mode.comp.virtual-assistant-button.star-animation.background.disabled}",
+            "type": "color"
+          }
+        }
+      },
+      "name": {
+        "star-animation": {
+          "value": "EmrIconVirtualAssistantStarSvg",
+          "type": "asset"
+        }
+      }
+    },
+    "border-radius": {
+      "small": {
+        "value": "{generation.border-radius.full}",
+        "type": "borderRadius"
+      },
+      "medium": {
+        "value": "{generation.border-radius.full}",
+        "type": "borderRadius"
+      },
+      "large": {
+        "value": "{generation.border-radius.full}",
+        "type": "borderRadius"
+      }
+    },
+    "info-icon": {
+      "inset-block-start": {
+        "value": "{foundation.space.none}",
+        "type": "other",
+        "description": "Set the info-icon position in the top right corner of the virtual assistant button container."
+      },
+      "inset-inline-end": {
+        "value": "{foundation.space.none}",
+        "type": "other",
+        "description": "Set the info-icon position in the top right corner of the virtual assistant button container."
+      }
+    }
+  }
+}

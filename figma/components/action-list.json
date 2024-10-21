@@ -1,0 +1,10 @@
+{
+  "action-list": {
+    "icon": {
+      "name": {
+        "value": "{generation.comp.action-list.icon}",
+        "type": "asset"
+      }
+    }
+  }
+}

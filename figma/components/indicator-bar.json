@@ -1,0 +1,74 @@
+{
+  "indicator-bar": {
+    "width": {
+      "small": {
+        "value": "{foundation.size.1}",
+        "type": "sizing"
+      },
+      "medium": {
+        "value": "{foundation.size.2}",
+        "type": "sizing"
+      }
+    },
+    "height": {
+      "small": {
+        "value": "fill-available",
+        "type": "sizing"
+      },
+      "medium": {
+        "value": "fill-available",
+        "type": "sizing"
+      }
+    },
+    "container": {
+      "background": {
+        "neutral": {
+          "value": "{mode.alert.background.high.neutral.normal}",
+          "type": "color"
+        },
+        "notice": {
+          "value": "{mode.alert.background.high.information.normal}",
+          "type": "color"
+        },
+        "safety": {
+          "value": "{mode.alert.background.high.safety.normal}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{mode.alert.background.high.caution.normal}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{mode.alert.background.high.warning.normal}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{mode.alert.background.high.danger.normal}",
+          "type": "color"
+        }
+      },
+      "border-radius": {
+        "regular": {
+          "value": "4px 0 0 4px",
+          "type": "borderRadius"
+        },
+        "none": {
+          "value": "{generation.border-radius.none}",
+          "type": "borderRadius"
+        }
+      },
+      "outline-offset": {
+        "focus-visible": {
+          "value": "{foundation.space.offset.xxsmall}",
+          "type": "spacing"
+        }
+      },
+      "outline": {
+        "focus-visible": {
+          "value": "{mode.outline.focus-visible}",
+          "type": "border"
+        }
+      }
+    }
+  }
+}

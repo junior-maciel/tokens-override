@@ -1,0 +1,94 @@
+{
+  "time-input": {
+    "icon": {
+      "name": {
+        "clock": {
+          "value": "{generation.comp.time-input.icon.clock}",
+          "type": "asset"
+        },
+        "arrow-up": {
+          "value": "DlsIconArrowUpSvg",
+          "type": "asset"
+        },
+        "arrow-down": {
+          "value": "DlsIconArrowDownSvg",
+          "type": "asset"
+        }
+      }
+    },
+    "header": {
+      "width": {
+        "value": "fill-available",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      },
+      "padding-top": {
+        "value": "28px",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "16px",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "12px",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "16px",
+        "type": "spacing"
+      },
+      "background": {
+        "value": "{mode.alert.background.low.neutral.normal}",
+        "type": "color"
+      },
+      "title": {
+        "color": {
+          "value": "{mode.color.on-quiet-emphasis.normal}",
+          "type": "color"
+        }
+      },
+      "flex-direction": {
+        "value": "column",
+        "type": "other"
+      },
+      "justify-content": {
+        "value": "flex-end",
+        "type": "other"
+      }
+    },
+    "content": {
+      "width": {
+        "value": "fill-available",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "fit-content",
+        "type": "sizing"
+      },
+      "padding-top": {
+        "value": "8px",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "16px",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "8px",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "16px",
+        "type": "spacing"
+      },
+      "align-items": {
+        "value": "center",
+        "type": "other"
+      }
+    }
+  }
+}
