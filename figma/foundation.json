@@ -4,5 +4,11 @@
       "value": "#FF0000",
       "type": "color"
     }
+  },
+  "orange": {
+    "500": {
+      "value": "#ffcd00",
+      "type": "color"
+    }
   }
 }

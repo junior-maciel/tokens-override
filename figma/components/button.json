@@ -1,0 +1,16 @@
+{
+  "button": {
+    "container": {
+      "background": {
+        "danger": {
+          "value": "{color.alert.danger}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{color.alert.caution}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

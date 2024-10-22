@@ -1,1 +1,10 @@
-{}
+{
+  "color": {
+    "alert": {
+      "caution": {
+        "value": "{orange.500}",
+        "type": "color"
+      }
+    }
+  }
+}

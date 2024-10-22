@@ -13,7 +13,10 @@
     "id": "82e9036d08070796ff9f082904d90d4a5b745f9a",
     "name": "All components",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "components/button": "enabled",
+      "components/tag": "enabled"
+    },
     "group": "Components"
   },
   {
