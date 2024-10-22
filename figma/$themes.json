@@ -5,10 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation": "enabled",
-      "generation/emr": "disabled",
-      "generation/dls": "disabled",
-      "localization/default": "enabled",
-      "localization/germany": "disabled"
+      "localization/default": "enabled"
     },
     "group": "Mode"
   },
@@ -18,11 +15,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "components/button": "enabled",
-      "components/tag": "enabled",
-      "generation/emr": "disabled",
-      "generation/dls": "disabled",
-      "localization/default": "disabled",
-      "localization/germany": "disabled"
+      "components/tag": "enabled"
     },
     "group": "Components"
   },
@@ -32,9 +25,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation": "enabled",
-      "generation/emr": "disabled",
-      "generation/dls": "disabled",
-      "localization/default": "disabled",
       "localization/germany": "enabled"
     },
     "group": "Mode"
