@@ -1,1 +1,12 @@
-{}
+{
+  "tag": {
+    "container": {
+      "background": {
+        "danger": {
+          "value": "{color.alert.danger}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
