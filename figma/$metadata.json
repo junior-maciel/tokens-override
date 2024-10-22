@@ -1,8 +1,10 @@
 {
   "tokenSetOrder": [
     "foundation",
-    "mode/light",
-    "mode/dark",
+    "generation/emr",
+    "generation/dls",
+    "localization/default",
+    "localization/germany",
     "components/button",
     "components/tag"
   ]

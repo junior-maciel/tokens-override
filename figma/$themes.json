@@ -4,8 +4,11 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "foundation": "source",
-      "mode/light": "source"
+      "foundation": "enabled",
+      "generation/emr": "disabled",
+      "generation/dls": "disabled",
+      "localization/default": "enabled",
+      "localization/germany": "disabled"
     },
     "group": "Mode"
   },
@@ -15,7 +18,11 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "components/button": "enabled",
-      "components/tag": "enabled"
+      "components/tag": "enabled",
+      "generation/emr": "disabled",
+      "generation/dls": "disabled",
+      "localization/default": "disabled",
+      "localization/germany": "disabled"
     },
     "group": "Components"
   },
@@ -25,7 +32,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation": "enabled",
-      "mode/dark": "enabled"
+      "generation/emr": "disabled",
+      "generation/dls": "disabled",
+      "localization/default": "disabled",
+      "localization/germany": "enabled"
     },
     "group": "Mode"
   }
