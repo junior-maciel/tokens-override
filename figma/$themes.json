@@ -4,8 +4,8 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "foundation": "enabled",
-      "mode/light": "enabled"
+      "foundation": "source",
+      "mode/light": "source"
     },
     "group": "Mode"
   },
