@@ -2,8 +2,6 @@
   "tokenSetOrder": [
     "foundation",
     "mode/light",
-    "mode/dark",
-    "components/button",
-    "components/tag"
+    "mode/dark"
   ]
 }
