@@ -10,5 +10,17 @@
       "value": "#ffcd00",
       "type": "color"
     }
+  },
+  "green": {
+    "500": {
+      "value": "#00b044",
+      "type": "color"
+    }
+  },
+  "blue": {
+    "500": {
+      "value": "#0062f4",
+      "type": "color"
+    }
   }
 }
