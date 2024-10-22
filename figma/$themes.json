@@ -1,13 +1,86 @@
 [
   {
+    "id": "6a2fff7ac1c2cac90af054906e83b5fec911b8da",
+    "name": "DLS",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation": "enabled",
+      "generation/dls": "enabled"
+    },
+    "group": "Generation"
+  },
+  {
+    "id": "57f705d73e2f9ef714baf18aa2504a4ee726b520",
+    "name": "EMR",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation": "enabled",
+      "generation/emr": "enabled"
+    },
+    "group": "Generation"
+  },
+  {
     "id": "baba4c728387d293748947cbfefa8692f9d6fccf",
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "foundation": "enabled",
       "localization/default": "enabled"
     },
     "group": "Mode"
+  },
+  {
+    "id": "b45317ce17fa307664291110f789abfc1dc13309",
+    "name": "Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/germany": "enabled"
+    },
+    "group": "Mode"
+  },
+  {
+    "id": "31ccdde0d956c78b542ebe2bec68f9f88abaa0ab",
+    "name": "Blue",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "color/blue": "enabled"
+    },
+    "group": "Color"
+  },
+  {
+    "id": "9185a140420d4816d1f4c10d1b5df78242f05b3d",
+    "name": "Default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/default": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "bad9d40ca30536ad9880e736f9199eb7c9cbe38f",
+    "name": "Dense",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "density/dense": "enabled"
+    },
+    "group": "Density"
+  },
+  {
+    "id": "d0601be410d29b7224828afc0012927e83f3d23e",
+    "name": "Regular",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "density/regular": "enabled"
+    },
+    "group": "Density"
+  },
+  {
+    "id": "6b5da912876d7aec7a2a6cf2ba5420e99231e6f3",
+    "name": "Default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "typography/default": "enabled"
+    },
+    "group": "Typography"
   },
   {
     "id": "82e9036d08070796ff9f082904d90d4a5b745f9a",
@@ -18,15 +91,5 @@
       "components/tag": "enabled"
     },
     "group": "Components"
-  },
-  {
-    "id": "b45317ce17fa307664291110f789abfc1dc13309",
-    "name": "Dark",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "foundation": "enabled",
-      "localization/germany": "enabled"
-    },
-    "group": "Mode"
   }
 ]

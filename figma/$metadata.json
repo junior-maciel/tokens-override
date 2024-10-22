@@ -3,8 +3,15 @@
     "foundation",
     "generation/emr",
     "generation/dls",
+    "mode/light",
+    "mode/dark",
+    "color/blue",
+    "color/green",
     "localization/default",
     "localization/germany",
+    "density/dense",
+    "density/regular",
+    "typography/default",
     "components/button",
     "components/tag"
   ]
