@@ -5,9 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation": "enabled",
-      "generation/dls": "enabled",
-      "brand/blue": "disabled",
-      "brand/green": "disabled"
+      "generation/dls": "enabled"
     },
     "group": "Generation"
   },
@@ -17,9 +15,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation": "enabled",
-      "generation/emr": "enabled",
-      "brand/blue": "disabled",
-      "brand/green": "disabled"
+      "generation/emr": "enabled"
     },
     "group": "Generation"
   },
@@ -28,9 +24,7 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/default": "enabled",
-      "brand/blue": "disabled",
-      "brand/green": "disabled"
+      "localization/default": "enabled"
     },
     "group": "Mode"
   },
@@ -39,9 +33,7 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/germany": "enabled",
-      "brand/blue": "disabled",
-      "brand/green": "disabled"
+      "localization/germany": "enabled"
     },
     "group": "Mode"
   },
@@ -50,8 +42,7 @@
     "name": "Blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/blue": "enabled",
-      "brand/green": "disabled"
+      "brand/blue": "enabled"
     },
     "group": "Brand"
   },
@@ -60,9 +51,7 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/default": "enabled",
-      "brand/blue": "disabled",
-      "brand/green": "disabled"
+      "localization/default": "enabled"
     },
     "group": "Localization"
   },
@@ -71,9 +60,7 @@
     "name": "Dense",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/dense": "enabled",
-      "brand/blue": "disabled",
-      "brand/green": "disabled"
+      "density/dense": "enabled"
     },
     "group": "Density"
   },
@@ -82,9 +69,7 @@
     "name": "Regular",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/regular": "enabled",
-      "brand/blue": "disabled",
-      "brand/green": "disabled"
+      "density/regular": "enabled"
     },
     "group": "Density"
   },
@@ -93,9 +78,7 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/default": "enabled",
-      "brand/blue": "disabled",
-      "brand/green": "disabled"
+      "typography/default": "enabled"
     },
     "group": "Typography"
   },
@@ -105,9 +88,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "components/button": "enabled",
-      "components/tag": "enabled",
-      "brand/blue": "disabled",
-      "brand/green": "disabled"
+      "components/tag": "enabled"
     },
     "group": "Components"
   }
