@@ -5,7 +5,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation": "enabled",
-      "generation/dls": "enabled"
+      "generation/dls": "enabled",
+      "brand/emr-blue": "disabled",
+      "generation/filament": "disabled"
     },
     "group": "Generation"
   },
@@ -15,7 +17,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation": "enabled",
-      "generation/emr": "enabled"
+      "generation/emr": "enabled",
+      "brand/emr-blue": "disabled",
+      "generation/filament": "disabled"
     },
     "group": "Generation"
   },
@@ -24,7 +28,9 @@
     "name": "Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/default": "enabled"
+      "localization/default": "enabled",
+      "brand/emr-blue": "disabled",
+      "generation/filament": "disabled"
     },
     "group": "Mode"
   },
@@ -33,7 +39,9 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/germany": "enabled"
+      "localization/germany": "enabled",
+      "brand/emr-blue": "disabled",
+      "generation/filament": "disabled"
     },
     "group": "Mode"
   },
@@ -42,7 +50,8 @@
     "name": "Blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/blue": "enabled"
+      "brand/emr-blue": "enabled",
+      "generation/filament": "disabled"
     },
     "group": "Brand"
   },
@@ -51,7 +60,9 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/default": "enabled"
+      "localization/default": "enabled",
+      "brand/emr-blue": "disabled",
+      "generation/filament": "disabled"
     },
     "group": "Localization"
   },
@@ -60,7 +71,9 @@
     "name": "Dense",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/dense": "enabled"
+      "density/dense": "enabled",
+      "brand/emr-blue": "disabled",
+      "generation/filament": "disabled"
     },
     "group": "Density"
   },
@@ -69,7 +82,9 @@
     "name": "Regular",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/regular": "enabled"
+      "density/regular": "enabled",
+      "brand/emr-blue": "disabled",
+      "generation/filament": "disabled"
     },
     "group": "Density"
   },
@@ -78,7 +93,9 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/default": "enabled"
+      "typography/default": "enabled",
+      "brand/emr-blue": "disabled",
+      "generation/filament": "disabled"
     },
     "group": "Typography"
   },
@@ -88,7 +105,9 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "components/button": "enabled",
-      "components/tag": "enabled"
+      "components/tag": "enabled",
+      "brand/emr-blue": "disabled",
+      "generation/filament": "disabled"
     },
     "group": "Components"
   }

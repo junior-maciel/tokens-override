@@ -1,7 +1,7 @@
 {
   "generation": {
     "font-family": {
-      "value": "{foundation.font-family.condensed}",
+      "value": "{foundation.font-family.next}",
       "type": "fontFamilies"
     }
   }
