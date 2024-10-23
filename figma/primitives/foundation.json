@@ -3659,54 +3659,24 @@
           "value": "{foundation.space.none}",
           "type": "spacing"
         },
-        "xxsmall": {
-          "value": "{foundation.space.025}",
-          "type": "spacing"
-        },
-        "xsmall": {
-          "value": "{foundation.space.05}",
-          "type": "spacing"
-        },
-        "small": {
-          "value": "{foundation.space.1}",
-          "type": "spacing"
-        },
-        "medium": {
-          "value": "{foundation.space.2}",
-          "type": "spacing"
-        },
-        "large": {
-          "value": "{foundation.space.4}",
-          "type": "spacing"
-        },
-        "xlarge": {
-          "value": "{foundation.space.6}",
-          "type": "spacing"
-        },
-        "xxlarge": {
-          "value": "{foundation.space.8}",
-          "type": "spacing"
-        }
-      },
-      "offset": {
-        "none": {
-          "value": "0px",
-          "type": "spacing"
-        },
-        "xxsmall": {
+        "xxxsmall": {
           "value": "1px",
           "type": "spacing"
         },
-        "xsmall": {
+        "xxsmall": {
           "value": "2px",
           "type": "spacing"
         },
-        "small": {
+        "xsmall": {
           "value": "4px",
           "type": "spacing"
         },
-        "medium": {
+        "small": {
           "value": "8px",
+          "type": "spacing"
+        },
+        "medium": {
+          "value": "12px",
           "type": "spacing"
         },
         "large": {
@@ -3718,25 +3688,75 @@
           "type": "spacing"
         },
         "xxlarge": {
+          "value": "28px",
+          "type": "spacing"
+        },
+        "xxxlarge": {
+          "value": "32px",
+          "type": "spacing"
+        }
+      },
+      "offset": {
+        "none": {
+          "value": "0px",
+          "type": "spacing"
+        },
+        "xxxsmall": {
+          "value": "1px",
+          "type": "spacing"
+        },
+        "xxsmall": {
+          "value": "2px",
+          "type": "spacing"
+        },
+        "xsmall": {
+          "value": "4px",
+          "type": "spacing"
+        },
+        "small": {
+          "value": "8px",
+          "type": "spacing"
+        },
+        "medium": {
+          "value": "12px",
+          "type": "spacing"
+        },
+        "large": {
+          "value": "16px",
+          "type": "spacing"
+        },
+        "xlarge": {
+          "value": "24px",
+          "type": "spacing"
+        },
+        "xxlarge": {
+          "value": "28px",
+          "type": "spacing"
+        },
+        "xxxlarge": {
           "value": "32px",
           "type": "spacing"
         }
       },
       "negative": {
-        "xxsmall": {
+        "xxxsmall": {
           "value": "-1px",
           "type": "spacing"
         },
-        "xsmall": {
+        "xxsmall": {
           "value": "-2px",
           "type": "spacing"
         },
-        "small": {
+        "xsmall": {
           "value": "-4px",
           "type": "spacing"
         },
-        "medium": {
+        "small": {
           "value": "-8px",
+          "type": "spacing"
+        },
+        "medium": {
+          "value": "-12px",
           "type": "spacing"
         },
         "large": {
@@ -3748,6 +3768,10 @@
           "type": "spacing"
         },
         "xxlarge": {
+          "value": "-28px",
+          "type": "spacing"
+        },
+        "xxxlarge": {
           "value": "-32px",
           "type": "spacing"
         }

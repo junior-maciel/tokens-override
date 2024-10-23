@@ -1,6 +1,6 @@
 {
   "tokenSetOrder": [
-    "foundation",
+    "primitives/foundation",
     "generation/emr",
     "generation/dls",
     "generation/filament",
