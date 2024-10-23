@@ -1,25 +1,47 @@
 [
   {
-    "id": "6a2fff7ac1c2cac90af054906e83b5fec911b8da",
-    "name": "DLS",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "foundation": "enabled",
-      "generation/dls": "enabled",
-      "brand/emr-blue": "disabled",
-      "generation/filament": "disabled"
-    },
-    "group": "Generation"
-  },
-  {
     "id": "57f705d73e2f9ef714baf18aa2504a4ee726b520",
     "name": "EMR",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation": "enabled",
       "generation/emr": "enabled",
-      "brand/emr-blue": "disabled",
-      "generation/filament": "disabled"
+      "typography/small": "disabled",
+      "typography/medium": "disabled",
+      "typography/large": "disabled",
+      "density/confortable": "disabled",
+      "brand/legacy-blue": "disabled",
+      "brand/blue": "disabled",
+      "brand/pink": "disabled",
+      "brand/purple": "disabled",
+      "brand/custom": "disabled",
+      "components/lable": "disabled",
+      "components/popover": "disabled",
+      "components/tag": "disabled",
+      "components/informational-bar": "disabled"
+    },
+    "group": "Generation"
+  },
+  {
+    "id": "6a2fff7ac1c2cac90af054906e83b5fec911b8da",
+    "name": "DLS",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation": "enabled",
+      "generation/dls": "enabled",
+      "typography/small": "disabled",
+      "typography/medium": "disabled",
+      "typography/large": "disabled",
+      "density/confortable": "disabled",
+      "brand/legacy-blue": "disabled",
+      "brand/blue": "disabled",
+      "brand/pink": "disabled",
+      "brand/purple": "disabled",
+      "brand/custom": "disabled",
+      "components/lable": "disabled",
+      "components/popover": "disabled",
+      "components/tag": "disabled",
+      "components/informational-bar": "disabled"
     },
     "group": "Generation"
   },
@@ -29,8 +51,19 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "localization/default": "enabled",
-      "brand/emr-blue": "disabled",
-      "generation/filament": "disabled"
+      "typography/small": "disabled",
+      "typography/medium": "disabled",
+      "typography/large": "disabled",
+      "density/confortable": "disabled",
+      "brand/legacy-blue": "disabled",
+      "brand/blue": "disabled",
+      "brand/pink": "disabled",
+      "brand/purple": "disabled",
+      "brand/custom": "disabled",
+      "components/lable": "disabled",
+      "components/popover": "disabled",
+      "components/tag": "disabled",
+      "components/informational-bar": "disabled"
     },
     "group": "Mode"
   },
@@ -39,19 +72,61 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/germany": "enabled",
-      "brand/emr-blue": "disabled",
-      "generation/filament": "disabled"
+      "mode/dark": "enabled"
     },
     "group": "Mode"
+  },
+  {
+    "id": "8aae83959e1e1128e084e8fba4fc47f61ee62cee",
+    "name": "Legacy-Blue",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/legacy-blue": "enabled"
+    },
+    "group": "Brand"
   },
   {
     "id": "31ccdde0d956c78b542ebe2bec68f9f88abaa0ab",
     "name": "Blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/emr-blue": "enabled",
-      "generation/filament": "disabled"
+      "brand/blue": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "fd5876f212a8b1fae14f9174a4b14d219f567d11",
+    "name": "Green",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/green": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "ba464a22f1a043b08be570d981085108591c5609",
+    "name": "Pink",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/pink": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "63ca48d76e9fc87446f147bbbddf275cbf0ec124",
+    "name": "Purple",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/purple": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "ed7437c41aa1f51970fda42decd2efd6d8d66de3",
+    "name": "Custom",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/custom": "enabled"
     },
     "group": "Brand"
   },
@@ -61,8 +136,19 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "localization/default": "enabled",
-      "brand/emr-blue": "disabled",
-      "generation/filament": "disabled"
+      "typography/small": "disabled",
+      "typography/medium": "disabled",
+      "typography/large": "disabled",
+      "density/confortable": "disabled",
+      "brand/legacy-blue": "disabled",
+      "brand/blue": "disabled",
+      "brand/pink": "disabled",
+      "brand/purple": "disabled",
+      "brand/custom": "disabled",
+      "components/lable": "disabled",
+      "components/popover": "disabled",
+      "components/tag": "disabled",
+      "components/informational-bar": "disabled"
     },
     "group": "Localization"
   },
@@ -72,8 +158,19 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "density/dense": "enabled",
-      "brand/emr-blue": "disabled",
-      "generation/filament": "disabled"
+      "typography/small": "disabled",
+      "typography/medium": "disabled",
+      "typography/large": "disabled",
+      "density/confortable": "disabled",
+      "brand/legacy-blue": "disabled",
+      "brand/blue": "disabled",
+      "brand/pink": "disabled",
+      "brand/purple": "disabled",
+      "brand/custom": "disabled",
+      "components/lable": "disabled",
+      "components/popover": "disabled",
+      "components/tag": "disabled",
+      "components/informational-bar": "disabled"
     },
     "group": "Density"
   },
@@ -83,19 +180,94 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "density/regular": "enabled",
-      "brand/emr-blue": "disabled",
-      "generation/filament": "disabled"
+      "typography/small": "disabled",
+      "typography/medium": "disabled",
+      "typography/large": "disabled",
+      "density/confortable": "disabled",
+      "brand/legacy-blue": "disabled",
+      "brand/blue": "disabled",
+      "brand/pink": "disabled",
+      "brand/purple": "disabled",
+      "brand/custom": "disabled",
+      "components/lable": "disabled",
+      "components/popover": "disabled",
+      "components/tag": "disabled",
+      "components/informational-bar": "disabled"
+    },
+    "group": "Density"
+  },
+  {
+    "id": "adcc9aca02eb100e21b75be33fce18582cfc0083",
+    "name": "Confortable",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "density/confortable": "enabled",
+      "brand/legacy-blue": "disabled",
+      "brand/blue": "disabled",
+      "brand/pink": "disabled",
+      "brand/purple": "disabled",
+      "brand/custom": "disabled",
+      "components/lable": "disabled",
+      "components/popover": "disabled",
+      "components/tag": "disabled",
+      "components/informational-bar": "disabled"
     },
     "group": "Density"
   },
   {
     "id": "6b5da912876d7aec7a2a6cf2ba5420e99231e6f3",
-    "name": "Default",
+    "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/default": "enabled",
-      "brand/emr-blue": "disabled",
-      "generation/filament": "disabled"
+      "typography/small": "enabled",
+      "density/confortable": "disabled",
+      "brand/legacy-blue": "disabled",
+      "brand/blue": "disabled",
+      "brand/pink": "disabled",
+      "brand/purple": "disabled",
+      "brand/custom": "disabled",
+      "components/lable": "disabled",
+      "components/popover": "disabled",
+      "components/tag": "disabled",
+      "components/informational-bar": "disabled"
+    },
+    "group": "Typography"
+  },
+  {
+    "id": "d6f112a0580c9e582fea6424b139f166de13a064",
+    "name": "Medium",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "typography/medium": "enabled",
+      "density/confortable": "disabled",
+      "brand/legacy-blue": "disabled",
+      "brand/blue": "disabled",
+      "brand/pink": "disabled",
+      "brand/purple": "disabled",
+      "brand/custom": "disabled",
+      "components/lable": "disabled",
+      "components/popover": "disabled",
+      "components/tag": "disabled",
+      "components/informational-bar": "disabled"
+    },
+    "group": "Typography"
+  },
+  {
+    "id": "f34404183cf192e445ce28d384f5e02a58878d48",
+    "name": "Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "typography/large": "enabled",
+      "density/confortable": "disabled",
+      "brand/legacy-blue": "disabled",
+      "brand/blue": "disabled",
+      "brand/pink": "disabled",
+      "brand/purple": "disabled",
+      "brand/custom": "disabled",
+      "components/lable": "disabled",
+      "components/popover": "disabled",
+      "components/tag": "disabled",
+      "components/informational-bar": "disabled"
     },
     "group": "Typography"
   },
@@ -105,10 +277,30 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "components/button": "enabled",
-      "components/tag": "enabled",
-      "brand/emr-blue": "disabled",
-      "generation/filament": "disabled"
+      "typography/small": "disabled",
+      "typography/medium": "disabled",
+      "typography/large": "disabled",
+      "density/confortable": "disabled",
+      "brand/legacy-blue": "disabled",
+      "brand/blue": "disabled",
+      "brand/pink": "disabled",
+      "brand/purple": "disabled",
+      "brand/custom": "disabled",
+      "components/lable": "enabled",
+      "components/popover": "disabled",
+      "components/tag": "disabled",
+      "components/informational-bar": "disabled"
     },
     "group": "Components"
+  },
+  {
+    "id": "de18c2ad6a06b502c4c2f2eb1146281797288204",
+    "name": "Filament",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation": "enabled",
+      "generation/filament": "enabled"
+    },
+    "group": "Generation"
   }
 ]

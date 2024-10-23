@@ -6,14 +6,23 @@
     "generation/filament",
     "mode/light",
     "mode/dark",
-    "brand/emr-blue",
+    "brand/legacy-blue",
+    "brand/blue",
     "brand/green",
+    "brand/pink",
+    "brand/purple",
+    "brand/custom",
     "localization/default",
-    "localization/germany",
     "density/dense",
     "density/regular",
-    "typography/default",
+    "density/confortable",
+    "typography/small",
+    "typography/medium",
+    "typography/large",
     "components/button",
-    "components/tag"
+    "components/lable",
+    "components/popover",
+    "components/tag",
+    "components/informational-bar"
   ]
 }
