@@ -25,8 +25,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "localization/default": "enabled",
-      "mode/light": "enabled",
-      "primitives/foundation": "disabled"
+      "mode/light": "enabled"
     },
     "group": "Mode"
   },
@@ -35,8 +34,7 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/dark": "enabled",
-      "primitives/foundation": "disabled"
+      "mode/dark": "enabled"
     },
     "group": "Mode"
   },
@@ -45,8 +43,7 @@
     "name": "Legacy-Blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/legacy-blue": "enabled",
-      "primitives/foundation": "disabled"
+      "brand/legacy-blue": "enabled"
     },
     "group": "Brand"
   },
@@ -55,8 +52,7 @@
     "name": "Blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/blue": "enabled",
-      "primitives/foundation": "disabled"
+      "brand/blue": "enabled"
     },
     "group": "Brand"
   },
@@ -65,8 +61,7 @@
     "name": "Green",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/green": "enabled",
-      "primitives/foundation": "disabled"
+      "brand/green": "enabled"
     },
     "group": "Brand"
   },
@@ -75,8 +70,7 @@
     "name": "Pink",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/pink": "enabled",
-      "primitives/foundation": "disabled"
+      "brand/pink": "enabled"
     },
     "group": "Brand"
   },
@@ -85,8 +79,7 @@
     "name": "Purple",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/purple": "enabled",
-      "primitives/foundation": "disabled"
+      "brand/purple": "enabled"
     },
     "group": "Brand"
   },
@@ -95,8 +88,7 @@
     "name": "Custom",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/custom": "enabled",
-      "primitives/foundation": "disabled"
+      "brand/custom": "enabled"
     },
     "group": "Brand"
   },
@@ -105,8 +97,7 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/default": "enabled",
-      "primitives/foundation": "disabled"
+      "localization/default": "enabled"
     },
     "group": "Localization"
   },
@@ -115,8 +106,7 @@
     "name": "Dense",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/dense": "enabled",
-      "primitives/foundation": "disabled"
+      "density/dense": "enabled"
     },
     "group": "Density"
   },
@@ -125,8 +115,7 @@
     "name": "Regular",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/regular": "enabled",
-      "primitives/foundation": "disabled"
+      "density/regular": "enabled"
     },
     "group": "Density"
   },
@@ -135,8 +124,7 @@
     "name": "Confortable",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/confortable": "enabled",
-      "primitives/foundation": "disabled"
+      "density/confortable": "enabled"
     },
     "group": "Density"
   },
@@ -145,8 +133,7 @@
     "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/small": "enabled",
-      "primitives/foundation": "disabled"
+      "typography/small": "enabled"
     },
     "group": "Typography"
   },
@@ -155,8 +142,7 @@
     "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/medium": "enabled",
-      "primitives/foundation": "disabled"
+      "typography/medium": "enabled"
     },
     "group": "Typography"
   },
@@ -165,8 +151,7 @@
     "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/large": "enabled",
-      "primitives/foundation": "disabled"
+      "typography/large": "enabled"
     },
     "group": "Typography"
   },
@@ -179,8 +164,7 @@
       "components/lable": "enabled",
       "components/popover": "enabled",
       "components/tag": "enabled",
-      "components/informational-bar": "enabled",
-      "primitives/foundation": "disabled"
+      "components/informational-bar": "enabled"
     },
     "group": "Components"
   },
