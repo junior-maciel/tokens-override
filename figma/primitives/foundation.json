@@ -3791,6 +3791,210 @@
         "type": "fontFamilies"
       }
     },
+    "font-size": {
+      "1": {
+        "value": "0.625rem",
+        "type": "fontSizes"
+      },
+      "2": {
+        "value": "0.75rem",
+        "type": "fontSizes"
+      },
+      "3": {
+        "value": "0.875rem",
+        "type": "fontSizes"
+      },
+      "4": {
+        "value": "1rem",
+        "type": "fontSizes"
+      },
+      "5": {
+        "value": "1.125rem",
+        "type": "fontSizes"
+      },
+      "6": {
+        "value": "1.25rem",
+        "type": "fontSizes"
+      },
+      "7": {
+        "value": "1.375rem",
+        "type": "fontSizes"
+      },
+      "8": {
+        "value": "1.5rem",
+        "type": "fontSizes"
+      },
+      "9": {
+        "value": "1.625rem",
+        "type": "fontSizes"
+      },
+      "10": {
+        "value": "1.75rem",
+        "type": "fontSizes"
+      },
+      "11": {
+        "value": "1.875rem",
+        "type": "fontSizes"
+      },
+      "12": {
+        "value": "2rem",
+        "type": "fontSizes"
+      },
+      "13": {
+        "value": "2.125rem",
+        "type": "fontSizes"
+      },
+      "14": {
+        "value": "2.25rem",
+        "type": "fontSizes"
+      },
+      "15": {
+        "value": "2.375rem",
+        "type": "fontSizes"
+      },
+      "16": {
+        "value": "2.5rem",
+        "type": "fontSizes"
+      },
+      "17": {
+        "value": "2.75rem",
+        "type": "fontSizes"
+      },
+      "18": {
+        "value": "3rem",
+        "type": "fontSizes"
+      },
+      "19": {
+        "value": "3.25rem",
+        "type": "fontSizes"
+      },
+      "20": {
+        "value": "3.5rem",
+        "type": "fontSizes"
+      },
+      "21": {
+        "value": "3.75rem",
+        "type": "fontSizes"
+      },
+      "22": {
+        "value": "4rem",
+        "type": "fontSizes"
+      },
+      "23": {
+        "value": "4.25rem",
+        "type": "fontSizes"
+      },
+      "24": {
+        "value": "4.5rem",
+        "type": "fontSizes"
+      },
+      "25": {
+        "value": "4.75rem",
+        "type": "fontSizes"
+      },
+      "26": {
+        "value": "5rem",
+        "type": "fontSizes"
+      },
+      "27": {
+        "value": "5.5rem",
+        "type": "fontSizes"
+      },
+      "28": {
+        "value": "6rem",
+        "type": "fontSizes"
+      },
+      "29": {
+        "value": "6.5rem",
+        "type": "fontSizes"
+      },
+      "30": {
+        "value": "7rem",
+        "type": "fontSizes"
+      },
+      "31": {
+        "value": "7.5rem",
+        "type": "fontSizes"
+      },
+      "32": {
+        "value": "8rem",
+        "type": "fontSizes"
+      },
+      "33": {
+        "value": "8.5rem",
+        "type": "fontSizes"
+      },
+      "34": {
+        "value": "9rem",
+        "type": "fontSizes"
+      },
+      "35": {
+        "value": "9.5rem",
+        "type": "fontSizes"
+      },
+      "36": {
+        "value": "10rem",
+        "type": "fontSizes"
+      },
+      "37": {
+        "value": "10.5rem",
+        "type": "fontSizes"
+      },
+      "38": {
+        "value": "11rem",
+        "type": "fontSizes"
+      },
+      "39": {
+        "value": "11.5rem",
+        "type": "fontSizes"
+      },
+      "40": {
+        "value": "12rem",
+        "type": "fontSizes"
+      },
+      "05": {
+        "value": "14px",
+        "type": "fontSizes"
+      },
+      "025": {
+        "value": "12px",
+        "type": "fontSizes"
+      }
+    },
+    "font-weight": {
+      "light": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
+      "light-italic": {
+        "value": "Light Italic",
+        "type": "fontWeights"
+      },
+      "book": {
+        "value": "Book",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "Bold",
+        "type": "fontWeights"
+      },
+      "book-italic": {
+        "value": "Book Italic",
+        "type": "fontWeights"
+      },
+      "medium-italic": {
+        "value": "Medium Italic",
+        "type": "fontWeights"
+      },
+      "bold-italic": {
+        "value": "Bold Italic",
+        "type": "fontWeights"
+      }
+    },
     "border-radius": {
       "1": {
         "value": "2px",
@@ -3853,6 +4057,42 @@
       "circle": {
         "value": "50%",
         "type": "borderRadius"
+      }
+    },
+    "text-decoration": {
+      "underline": {
+        "value": "underline",
+        "type": "textDecoration"
+      },
+      "none": {
+        "value": "none",
+        "type": "textDecoration"
+      },
+      "line-through": {
+        "value": "line-through",
+        "type": "textDecoration"
+      }
+    },
+    "line-height": {
+      "dense": {
+        "value": "100%",
+        "type": "lineHeights"
+      },
+      "small": {
+        "value": "120%",
+        "type": "lineHeights"
+      },
+      "medium": {
+        "value": "140%",
+        "type": "lineHeights"
+      },
+      "large": {
+        "value": "160%",
+        "type": "lineHeights"
+      },
+      "high": {
+        "value": "180%",
+        "type": "lineHeights"
       }
     }
   }

@@ -1,1 +1,90 @@
-{}
+{
+  "label": {
+    "font-family": {
+      "value": "{generation.font-family}",
+      "type": "fontFamilies"
+    },
+    "font-size": {
+      "large": {
+        "value": "{foundation.font-size.4}",
+        "type": "fontSizes"
+      },
+      "xlarge": {
+        "value": "{foundation.font-size.5}",
+        "type": "fontSizes"
+      },
+      "xxlarge": {
+        "value": "{foundation.font-size.6}",
+        "type": "fontSizes"
+      },
+      "medium": {
+        "value": "{foundation.font-size.3}",
+        "type": "fontSizes"
+      },
+      "small": {
+        "value": "{foundation.font-size.2}",
+        "type": "fontSizes"
+      }
+    },
+    "font-weight": {
+      "regular": {
+        "value": "{foundation.font-weight.book}",
+        "type": "fontWeights"
+      },
+      "emphasis": {
+        "value": "{foundation.font-weight.bold}",
+        "type": "fontWeights"
+      },
+      "low-emphasis": {
+        "value": "{foundation.font-weight.book}",
+        "type": "fontWeights"
+      }
+    },
+    "color": {
+      "regular": {
+        "value": "{mode.text.color.tertiary}",
+        "type": "color"
+      },
+      "emphasis": {
+        "value": "{mode.text.color.tertiary}",
+        "type": "color"
+      },
+      "low-emphasis": {
+        "value": "{mode.text.color.placeholder}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{mode.text.color.disabled}",
+        "type": "color"
+      }
+    },
+    "line-height": {
+      "regular": {
+        "value": "{foundation.line-height.small}",
+        "type": "lineHeights"
+      },
+      "emphasis": {
+        "value": "{foundation.line-height.small}",
+        "type": "lineHeights"
+      },
+      "low-emphasis": {
+        "value": "{foundation.line-height.small}",
+        "type": "lineHeights"
+      }
+    },
+    "text-decoration": {
+      "underline": {
+        "value": "{foundation.text-decoration.underline}",
+        "type": "textDecoration"
+      },
+      "strikethrough": {
+        "value": "{foundation.text-decoration.line-through}",
+        "type": "textDecoration"
+      },
+      "none": {
+        "value": "{foundation.text-decoration.none}",
+        "type": "textDecoration"
+      }
+    }
+  }
+}
