@@ -3,6 +3,126 @@
     "font-family": {
       "value": "{foundation.font-family.condensed}",
       "type": "fontFamilies"
+    },
+    "on-light": {
+      "surface": {
+        "primary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.gray.10}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.emr.color.gray.20}",
+          "type": "color"
+        },
+        "static": {
+          "value": "{foundation.emr.color.neutral.black}",
+          "type": "color"
+        }
+      },
+      "text": {
+        "primary": {
+          "value": "{foundation.emr.color.gray.75}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.gray.65}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.emr.color.gray.55}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{foundation.emr.color.gray.25}",
+          "type": "color"
+        },
+        "on-signal": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color"
+        },
+        "inverse": {
+          "primary": {
+            "value": "{foundation.emr.color.neutral.white}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{foundation.emr.color.gray.15}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{foundation.emr.color.gray.25}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{foundation.emr.color.gray.40}",
+            "type": "color"
+          },
+          "on-signal": {
+            "value": "{foundation.emr.color.neutral.black}",
+            "type": "color"
+          }
+        }
+      },
+      "alert": {
+        "global": {
+          "danger": {
+            "value": "{foundation.emr.signal.red.70}",
+            "type": "color"
+          },
+          "information": {
+            "value": "{foundation.emr.signal.blue.45}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{foundation.emr.signal.green.45}",
+            "type": "color"
+          },
+          "caution": {
+            "value": "{foundation.emr.signal.yellow.45}",
+            "type": "color"
+          },
+          "on-danger": {
+            "value": "{generation.on-light.text.on-signal}",
+            "type": "color"
+          },
+          "on-information": {
+            "value": "{generation.on-light.text.inverse.on-signal}",
+            "type": "color"
+          },
+          "on-success": {
+            "value": "{generation.on-light.text.inverse.on-signal}",
+            "type": "color"
+          },
+          "on-caution": {
+            "value": "{generation.on-light.text.inverse.on-signal}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "on-dark": {
+      "surface": {
+        "primary": {
+          "value": "{foundation.emr.color.gray.60}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.gray.65}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.emr.color.gray.75}",
+          "type": "color"
+        },
+        "static": {
+          "value": "{foundation.emr.color.neutral.black}",
+          "type": "color"
+        }
+      }
     }
   }
 }
