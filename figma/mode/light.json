@@ -1,1 +1,10 @@
-{}
+{
+  "mode": {
+    "surface": {
+      "static": {
+        "value": "{generation.on-light.surface.static}",
+        "type": "color"
+      }
+    }
+  }
+}

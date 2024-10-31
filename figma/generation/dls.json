@@ -3,6 +3,234 @@
     "font-family": {
       "value": "{foundation.font-family.sans}",
       "type": "fontFamilies"
+    },
+    "on-light": {
+      "surface": {
+        "primary": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.05}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.dls.color.gray.10}",
+          "type": "color"
+        },
+        "static": {
+          "value": "{foundation.dls.color.neutral.black}",
+          "type": "color"
+        },
+        "inverse": {
+          "primary": {
+            "value": "{generation.on-dark.surface.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{generation.on-dark.surface.secondary}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{generation.on-dark.surface.tertiary}",
+            "type": "color"
+          }
+        }
+      },
+      "text": {
+        "primary": {
+          "value": "{foundation.dls.color.gray.75}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.60}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.dls.color.gray.45}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{foundation.dls.color.gray.30}",
+          "type": "color"
+        },
+        "on-signal": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color"
+        },
+        "inverse": {
+          "primary": {
+            "value": "{generation.on-dark.text.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{generation.on-dark.text.secondary}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{generation.on-dark.text.tertiary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{generation.on-dark.text.disabled}",
+            "type": "color"
+          },
+          "on-signal": {
+            "value": "{foundation.dls.color.neutral.black}",
+            "type": "color"
+          }
+        }
+      },
+      "alert": {
+        "global": {
+          "danger": {
+            "value": "{foundation.dls.signal.red.70}",
+            "type": "color"
+          },
+          "information": {
+            "value": "{foundation.dls.signal.blue.45}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{foundation.dls.signal.green.45}",
+            "type": "color"
+          },
+          "caution": {
+            "value": "{foundation.dls.signal.yellow.45}",
+            "type": "color"
+          },
+          "on-danger": {
+            "value": "{generation.on-light.text.on-signal}",
+            "type": "color"
+          },
+          "on-information": {
+            "value": "{generation.on-light.text.inverse.on-signal}",
+            "type": "color"
+          },
+          "on-success": {
+            "value": "{generation.on-light.text.inverse.on-signal}",
+            "type": "color"
+          },
+          "on-caution": {
+            "value": "{generation.on-light.text.inverse.on-signal}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "on-dark": {
+      "surface": {
+        "primary": {
+          "value": "{foundation.dls.color.gray.80}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.75}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.dls.color.gray.90}",
+          "type": "color"
+        },
+        "static": {
+          "value": "{foundation.dls.color.neutral.black}",
+          "type": "color"
+        },
+        "inverse": {
+          "primary": {
+            "value": "{generation.on-light.surface.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{generation.on-light.surface.secondary}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{generation.on-light.surface.tertiary}",
+            "type": "color"
+          }
+        }
+      },
+      "text": {
+        "primary": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.15}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.dls.color.gray.25}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{foundation.dls.color.gray.40}",
+          "type": "color"
+        },
+        "on-signal": {
+          "value": "{foundation.dls.color.neutral.black}",
+          "type": "color"
+        },
+        "inverse": {
+          "primary": {
+            "value": "{generation.on-light.text.primary}",
+            "type": "color"
+          },
+          "secondary": {
+            "value": "{generation.on-light.text.secondary}",
+            "type": "color"
+          },
+          "tertiary": {
+            "value": "{generation.on-light.text.tertiary}",
+            "type": "color"
+          },
+          "disabled": {
+            "value": "{generation.on-light.text.disabled}",
+            "type": "color"
+          },
+          "on-signal": {
+            "value": "{foundation.dls.color.neutral.white}",
+            "type": "color"
+          }
+        }
+      },
+      "alert": {
+        "global": {
+          "danger": {
+            "value": "{foundation.dls.signal.red.40}",
+            "type": "color"
+          },
+          "information": {
+            "value": "{foundation.dls.signal.blue.30}",
+            "type": "color"
+          },
+          "success": {
+            "value": "{foundation.dls.signal.green.30}",
+            "type": "color"
+          },
+          "caution": {
+            "value": "{foundation.dls.signal.yellow.30}",
+            "type": "color"
+          },
+          "on-danger": {
+            "value": "{generation.on-light.text.inverse.on-signal}",
+            "type": "color"
+          },
+          "on-information": {
+            "value": "{generation.on-light.text.inverse.on-signal}",
+            "type": "color"
+          },
+          "on-success": {
+            "value": "{generation.on-light.text.inverse.on-signal}",
+            "type": "color"
+          },
+          "on-caution": {
+            "value": "{generation.on-light.text.inverse.on-signal}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }

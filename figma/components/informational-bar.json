@@ -3,7 +3,7 @@
     "primary-area": {
       "background": {
         "default": {
-          "value": "#",
+          "value": "{mode.surface.static}",
           "type": "color"
         }
       }
