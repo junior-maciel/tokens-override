@@ -1,1 +1,40 @@
-{}
+{
+  "tag": {
+    "container": {
+      "background": {
+        "default": {
+          "value": "#",
+          "type": "color"
+        },
+        "severity": {
+          "danger": {
+            "value": "#",
+            "type": "color"
+          },
+          "caution": {
+            "value": "#",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "label": {
+      "color": {
+        "default": {
+          "value": "#",
+          "type": "color"
+        },
+        "severity": {
+          "danger": {
+            "value": "#",
+            "type": "color"
+          },
+          "caution": {
+            "value": "#",
+            "type": "color"
+          }
+        }
+      }
+    }
+  }
+}

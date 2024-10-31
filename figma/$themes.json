@@ -5,7 +5,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "generation/emr": "enabled",
-      "primitives/foundation": "enabled"
+      "primitives/foundation": "enabled",
+      "components/label": "disabled"
     },
     "group": "Generation"
   },
@@ -15,7 +16,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "generation/dls": "enabled",
-      "primitives/foundation": "enabled"
+      "primitives/foundation": "enabled",
+      "components/label": "disabled"
     },
     "group": "Generation"
   },
@@ -25,7 +27,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "localization/default": "enabled",
-      "mode/light": "enabled"
+      "mode/light": "enabled",
+      "components/label": "disabled"
     },
     "group": "Mode"
   },
@@ -34,7 +37,8 @@
     "name": "Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/dark": "enabled"
+      "mode/dark": "enabled",
+      "components/label": "disabled"
     },
     "group": "Mode"
   },
@@ -43,7 +47,8 @@
     "name": "Legacy-Blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/legacy-blue": "enabled"
+      "brand/legacy-blue": "enabled",
+      "components/label": "disabled"
     },
     "group": "Brand"
   },
@@ -52,7 +57,8 @@
     "name": "Blue",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/blue": "enabled"
+      "brand/blue": "enabled",
+      "components/label": "disabled"
     },
     "group": "Brand"
   },
@@ -61,7 +67,8 @@
     "name": "Green",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/green": "enabled"
+      "brand/green": "enabled",
+      "components/label": "disabled"
     },
     "group": "Brand"
   },
@@ -70,7 +77,8 @@
     "name": "Pink",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/pink": "enabled"
+      "brand/pink": "enabled",
+      "components/label": "disabled"
     },
     "group": "Brand"
   },
@@ -79,7 +87,8 @@
     "name": "Purple",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/purple": "enabled"
+      "brand/purple": "enabled",
+      "components/label": "disabled"
     },
     "group": "Brand"
   },
@@ -88,7 +97,8 @@
     "name": "Custom",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/custom": "enabled"
+      "brand/custom": "enabled",
+      "components/label": "disabled"
     },
     "group": "Brand"
   },
@@ -97,7 +107,8 @@
     "name": "Default",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/default": "enabled"
+      "localization/default": "enabled",
+      "components/label": "disabled"
     },
     "group": "Localization"
   },
@@ -106,7 +117,8 @@
     "name": "Dense",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/dense": "enabled"
+      "density/dense": "enabled",
+      "components/label": "disabled"
     },
     "group": "Density"
   },
@@ -115,7 +127,8 @@
     "name": "Regular",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/regular": "enabled"
+      "density/regular": "enabled",
+      "components/label": "disabled"
     },
     "group": "Density"
   },
@@ -124,7 +137,8 @@
     "name": "Confortable",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/confortable": "enabled"
+      "density/confortable": "enabled",
+      "components/label": "disabled"
     },
     "group": "Density"
   },
@@ -133,7 +147,8 @@
     "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/small": "enabled"
+      "typography/small": "enabled",
+      "components/label": "disabled"
     },
     "group": "Typography"
   },
@@ -142,7 +157,8 @@
     "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/medium": "enabled"
+      "typography/medium": "enabled",
+      "components/label": "disabled"
     },
     "group": "Typography"
   },
@@ -151,7 +167,8 @@
     "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/large": "enabled"
+      "typography/large": "enabled",
+      "components/label": "disabled"
     },
     "group": "Typography"
   },
@@ -161,10 +178,10 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "components/button": "enabled",
-      "components/lable": "enabled",
       "components/popover": "enabled",
       "components/tag": "enabled",
-      "components/informational-bar": "enabled"
+      "components/informational-bar": "enabled",
+      "components/label": "enabled"
     },
     "group": "Components"
   },
@@ -174,7 +191,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "generation/filament": "enabled",
-      "primitives/foundation": "enabled"
+      "primitives/foundation": "enabled",
+      "components/label": "disabled"
     },
     "group": "Generation"
   }

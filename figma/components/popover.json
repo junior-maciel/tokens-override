@@ -1,1 +1,12 @@
-{}
+{
+  "popover": {
+    "container": {
+      "background": {
+        "default": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

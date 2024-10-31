@@ -3,11 +3,55 @@
     "container": {
       "background": {
         "danger": {
-          "value": "{color.alert.danger}",
+          "value": "#",
           "type": "color"
         },
         "caution": {
-          "value": "{color.alert.caution}",
+          "value": "#",
+          "type": "color"
+        },
+        "primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    },
+    "label": {
+      "color": {
+        "on-danger": {
+          "value": "#",
+          "type": "color"
+        },
+        "on-caution": {
+          "value": "#",
+          "type": "color"
+        },
+        "on-primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "on-secondary": {
+          "value": "#",
+          "type": "color"
+        },
+        "danger": {
+          "value": "#",
+          "type": "color"
+        },
+        "caution": {
+          "value": "#",
+          "type": "color"
+        },
+        "primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "#",
           "type": "color"
         }
       }

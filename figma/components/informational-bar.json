@@ -1,1 +1,20 @@
-{}
+{
+  "informational-bar": {
+    "primary-area": {
+      "background": {
+        "default": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    },
+    "secondary-area": {
+      "background": {
+        "default": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
