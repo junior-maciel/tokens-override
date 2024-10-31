@@ -3,16 +3,16 @@
     "container": {
       "background": {
         "default": {
-          "value": "#",
+          "value": "{mode.surface.inverse.primary}",
           "type": "color"
         },
         "severity": {
           "danger": {
-            "value": "#",
+            "value": "{mode.alert.danger}",
             "type": "color"
           },
           "caution": {
-            "value": "#",
+            "value": "{mode.alert.caution}",
             "type": "color"
           }
         }
@@ -21,16 +21,16 @@
     "label": {
       "color": {
         "default": {
-          "value": "#",
+          "value": "{mode.text.inverse.primary}",
           "type": "color"
         },
         "severity": {
           "danger": {
-            "value": "#",
+            "value": "{mode.alert.on-danger}",
             "type": "color"
           },
           "caution": {
-            "value": "#",
+            "value": "{mode.alert.on-caution}",
             "type": "color"
           }
         }

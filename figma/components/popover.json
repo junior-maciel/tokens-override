@@ -3,7 +3,7 @@
     "container": {
       "background": {
         "default": {
-          "value": "#",
+          "value": "{mode.surface.primary}",
           "type": "color"
         }
       }

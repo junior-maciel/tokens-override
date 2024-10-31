@@ -42,19 +42,19 @@
     },
     "color": {
       "regular": {
-        "value": "{mode.text.color.tertiary}",
+        "value": "{mode.text.primary}",
         "type": "color"
       },
       "emphasis": {
-        "value": "{mode.text.color.tertiary}",
+        "value": "{mode.text.primary}",
         "type": "color"
       },
       "low-emphasis": {
-        "value": "{mode.text.color.placeholder}",
+        "value": "{mode.text.tertiary}",
         "type": "color"
       },
       "disabled": {
-        "value": "{mode.text.color.disabled}",
+        "value": "{mode.text.disabled}",
         "type": "color"
       }
     },

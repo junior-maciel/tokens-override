@@ -3,19 +3,19 @@
     "container": {
       "background": {
         "danger": {
-          "value": "#",
+          "value": "{mode.alert.danger}",
           "type": "color"
         },
         "caution": {
-          "value": "#",
+          "value": "{mode.alert.caution}",
           "type": "color"
         },
         "primary": {
-          "value": "#",
+          "value": "{mode.brand.primary}",
           "type": "color"
         },
         "secondary": {
-          "value": "#",
+          "value": "{mode.brand.secondary}",
           "type": "color"
         }
       }
@@ -23,35 +23,19 @@
     "label": {
       "color": {
         "on-danger": {
-          "value": "#",
+          "value": "{mode.alert.on-danger}",
           "type": "color"
         },
         "on-caution": {
-          "value": "#",
+          "value": "{mode.alert.on-caution}",
           "type": "color"
         },
         "on-primary": {
-          "value": "#",
+          "value": "{mode.brand.on-primary}",
           "type": "color"
         },
         "on-secondary": {
-          "value": "#",
-          "type": "color"
-        },
-        "danger": {
-          "value": "#",
-          "type": "color"
-        },
-        "caution": {
-          "value": "#",
-          "type": "color"
-        },
-        "primary": {
-          "value": "#",
-          "type": "color"
-        },
-        "secondary": {
-          "value": "#",
+          "value": "{mode.brand.on-secondary}",
           "type": "color"
         }
       }
