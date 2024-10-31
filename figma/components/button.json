@@ -11,11 +11,11 @@
           "type": "color"
         },
         "primary": {
-          "value": "#",
+          "value": "{color.brand.primary}",
           "type": "color"
         },
         "secondary": {
-          "value": "#",
+          "value": "{color.brand.secondary}",
           "type": "color"
         }
       }
@@ -31,11 +31,11 @@
           "type": "color"
         },
         "on-primary": {
-          "value": "#",
+          "value": "{color.brand.on-primary}",
           "type": "color"
         },
         "on-secondary": {
-          "value": "#",
+          "value": "{color.brand.on-secondary}",
           "type": "color"
         },
         "danger": {

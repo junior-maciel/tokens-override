@@ -1,6 +1,17 @@
 {
   "tokenSetOrder": [
-    "primitives/foundation",
+    "primitives",
+    "emr",
+    "dls",
+    "brand/tasy-blue",
+    "brand/green",
+    "brand/pink",
+    "mode/light",
+    "mode/dark",
+    "mode/high-contrast",
+    "localization/global",
+    "localization/japan",
+    "localization/alemanha",
     "components/button",
     "components/label",
     "components/popover",
