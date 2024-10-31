@@ -1,1 +1,44 @@
-{}
+{
+  "brand": {
+    "on-light": {
+      "color": {
+        "primary": {
+          "value": "{foundation.emr.color.purple.45}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.purple.10}",
+          "type": "color"
+        },
+        "on-primary": {
+          "value": "{foundation.emr.color.purple.05}",
+          "type": "color"
+        },
+        "on-secondary": {
+          "value": "{foundation.emr.color.purple.75}",
+          "type": "color"
+        }
+      }
+    },
+    "on-dark": {
+      "color": {
+        "primary": {
+          "value": "{foundation.emr.color.purple.20}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.purple.60}",
+          "type": "color"
+        },
+        "on-primary": {
+          "value": "{foundation.emr.color.purple.75}",
+          "type": "color"
+        },
+        "on-secondary": {
+          "value": "{foundation.emr.color.purple.05}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

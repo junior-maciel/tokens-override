@@ -1,8 +1,130 @@
 {
   "mode": {
     "surface": {
+      "primary": {
+        "value": "{generation.on-light.surface.primary}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{generation.on-light.surface.secondary}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{generation.on-light.surface.tertiary}",
+        "type": "color"
+      },
       "static": {
         "value": "{generation.on-light.surface.static}",
+        "type": "color"
+      },
+      "inverse": {
+        "primary": {
+          "value": "{generation.on-light.surface.inverse.primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{generation.on-light.surface.inverse.secondary}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{generation.on-light.surface.inverse.tertiary}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "{generation.on-light.text.primary}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{generation.on-light.text.secondary}",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "{generation.on-light.text.tertiary}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{generation.on-light.text.disabled}",
+        "type": "color"
+      },
+      "on-signal": {
+        "value": "{generation.on-light.text.on-signal}",
+        "type": "color"
+      },
+      "inverse": {
+        "primary": {
+          "value": "{generation.on-light.text.inverse.primary}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{generation.on-light.text.inverse.secondary}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{generation.on-light.text.inverse.tertiary}",
+          "type": "color"
+        },
+        "disabled": {
+          "value": "{generation.on-light.text.inverse.disabled}",
+          "type": "color"
+        },
+        "on-signal": {
+          "value": "{generation.on-light.text.inverse.on-signal}",
+          "type": "color"
+        }
+      }
+    },
+    "brand": {
+      "primary": {
+        "value": "{brand.on-light.color.primary}",
+        "type": "color"
+      },
+      "on-primary": {
+        "value": "{brand.on-light.color.on-primary}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{brand.on-light.color.secondary}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{brand.on-light.color.on-secondary}",
+        "type": "color"
+      }
+    },
+    "alert": {
+      "caution": {
+        "value": "{localization.on-light.alert.caution}",
+        "type": "color"
+      },
+      "danger": {
+        "value": "{localization.on-light.alert.danger}",
+        "type": "color"
+      },
+      "information": {
+        "value": "{localization.on-light.alert.information}",
+        "type": "color"
+      },
+      "sucess": {
+        "value": "{localization.on-light.alert.success}",
+        "type": "color"
+      },
+      "on-caution": {
+        "value": "{localization.on-light.alert.on-caution}",
+        "type": "color"
+      },
+      "on-danger": {
+        "value": "{localization.on-light.alert.on-danger}",
+        "type": "color"
+      },
+      "on-information": {
+        "value": "{localization.on-light.alert.on-information}",
+        "type": "color"
+      },
+      "on-success": {
+        "value": "{localization.on-light.alert.on-success}",
         "type": "color"
       }
     }

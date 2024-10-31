@@ -1,9 +1,75 @@
 {
-  "color": {
-    "alert": {
-      "danger": {
-        "value": "{red.500}",
-        "type": "color"
+  "localization": {
+    "on-light": {
+      "alert": {
+        "caution": {
+          "value": "{generation.on-light.alert.global.caution}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{generation.on-light.alert.global.danger}",
+          "type": "color"
+        },
+        "information": {
+          "value": "{generation.on-light.alert.global.information}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{generation.on-light.alert.global.success}",
+          "type": "color"
+        },
+        "on-caution": {
+          "value": "{generation.on-light.alert.global.on-caution}",
+          "type": "color"
+        },
+        "on-danger": {
+          "value": "{generation.on-light.alert.global.on-danger}",
+          "type": "color"
+        },
+        "on-information": {
+          "value": "{generation.on-light.alert.global.on-information}",
+          "type": "color"
+        },
+        "on-success": {
+          "value": "{generation.on-light.alert.global.on-success}",
+          "type": "color"
+        }
+      }
+    },
+    "on-dark": {
+      "alert": {
+        "caution": {
+          "value": "{generation.on-dark.alert.global.caution}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{generation.on-dark.alert.global.danger}",
+          "type": "color"
+        },
+        "information": {
+          "value": "{generation.on-dark.alert.global.information}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{generation.on-dark.alert.global.success}",
+          "type": "color"
+        },
+        "on-caution": {
+          "value": "{generation.on-dark.alert.global.on-caution}",
+          "type": "color"
+        },
+        "on-danger": {
+          "value": "{generation.on-dark.alert.global.on-danger}",
+          "type": "color"
+        },
+        "on-information": {
+          "value": "{generation.on-dark.alert.global.on-information}",
+          "type": "color"
+        },
+        "on-success": {
+          "value": "{generation.on-dark.alert.global.on-success}",
+          "type": "color"
+        }
       }
     }
   }

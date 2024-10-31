@@ -3,19 +3,19 @@
     "on-light": {
       "color": {
         "primary": {
-          "value": "{foundation.emr.color.green.45}",
+          "value": "{foundation.emr.color.group-blue.45}",
           "type": "color"
         },
         "secondary": {
-          "value": "{foundation.emr.color.green.10}",
+          "value": "{foundation.emr.color.group-blue.10}",
           "type": "color"
         },
         "on-primary": {
-          "value": "{foundation.emr.color.green.05}",
+          "value": "{foundation.emr.color.group-blue.05}",
           "type": "color"
         },
         "on-secondary": {
-          "value": "{foundation.emr.color.green.75}",
+          "value": "{foundation.emr.color.group-blue.75}",
           "type": "color"
         }
       }
@@ -23,19 +23,19 @@
     "on-dark": {
       "color": {
         "primary": {
-          "value": "{foundation.emr.color.green.20}",
+          "value": "{foundation.emr.color.group-blue.20}",
           "type": "color"
         },
         "secondary": {
-          "value": "{foundation.emr.color.green.60}",
+          "value": "{foundation.emr.color.group-blue.60}",
           "type": "color"
         },
         "on-primary": {
-          "value": "{foundation.emr.color.green.75}",
+          "value": "{foundation.emr.color.group-blue.75}",
           "type": "color"
         },
         "on-secondary": {
-          "value": "{foundation.emr.color.green.05}",
+          "value": "{foundation.emr.color.group-blue.05}",
           "type": "color"
         }
       }

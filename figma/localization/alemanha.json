@@ -1,9 +1,15 @@
 {
-  "color": {
-    "alert": {
-      "danger": {
-        "value": "{red.500}",
-        "type": "color"
+  "localization": {
+    "on-light": {
+      "alert": {
+        "danger": {
+          "value": "{foundation.dls.signal.pink.50}",
+          "type": "color"
+        },
+        "on-danger": {
+          "value": "{foundation.emr.color.neutral.black}",
+          "type": "color"
+        }
       }
     }
   }
