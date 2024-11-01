@@ -1,31 +1,37 @@
 [
   {
-    "id": "807bf8c6968cab228d6d74c25b00b4c6a0ff888e",
-    "name": "EMR-Light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "foundation/primitives": "enabled",
-      "generation/emr/light": "enabled"
-    },
-    "group": "Generation"
-  },
-  {
     "id": "cbcd2aa2408135e5973bc79e996d829769cd7279",
     "name": "EMR-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "generation/emr/dark": "enabled"
+      "generation/emr/dark": "enabled",
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
     "group": "Generation"
   },
   {
-    "id": "ee0b4bf0cd0078603d1e5300048a4d6aa410b75a",
-    "name": "DLS-Light",
+    "id": "807bf8c6968cab228d6d74c25b00b4c6a0ff888e",
+    "name": "EMR-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "generation/dls/light": "enabled"
+      "generation/emr/light": "enabled",
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
     "group": "Generation"
   },
@@ -35,49 +41,35 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "generation/dls/dark": "enabled"
+      "generation/dls/dark": "enabled",
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
     "group": "Generation"
   },
   {
-    "id": "fa81ed99d0c788ae77ce7489dcfd8f820c7edf19",
-    "name": "HighContrast",
+    "id": "ee0b4bf0cd0078603d1e5300048a4d6aa410b75a",
+    "name": "DLS-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/high-contrast": "enabled",
-      "localization/japan/light": "disabled",
-      "localization/japan/dark": "disabled",
-      "brand/tasy-blue/japan/light": "disabled",
-      "brand/tasy-blue/japan/dark": "disabled",
-      "brand/tasy-blue/global/light": "disabled",
-      "brand/tasy-blue/global/dark": "disabled",
-      "brand/green/global/light": "disabled",
-      "brand/green/global/dark": "disabled",
-      "brand/pink/global/light": "disabled",
-      "brand/pink/global/dark": "disabled",
-      "brand/green/japan/light": "disabled",
-      "brand/green/japan/dark": "disabled",
-      "foundation/primitives": "disabled",
-      "generation/emr/light": "disabled",
-      "generation/dls/light": "disabled",
-      "generation/emr/dark": "disabled",
-      "generation/dls/dark": "disabled"
+      "foundation/primitives": "enabled",
+      "generation/dls/light": "enabled",
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
-    "group": "Mode"
-  },
-  {
-    "id": "a5246a9af208c607def109ea45e2e9d46486d906",
-    "name": "Tasy-Blue Light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand/tasy-blue/global/light": "enabled",
-      "foundation/primitives": "disabled",
-      "generation/emr/light": "disabled",
-      "generation/dls/light": "disabled",
-      "generation/emr/dark": "disabled",
-      "generation/dls/dark": "disabled"
-    },
-    "group": "Brand"
+    "group": "Generation"
   },
   {
     "id": "c738bb3f23d02ab456b890b58b100900c2d869e0",
@@ -85,11 +77,48 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/tasy-blue/global/dark": "enabled",
-      "foundation/primitives": "disabled",
-      "generation/emr/light": "disabled",
-      "generation/dls/light": "disabled",
-      "generation/emr/dark": "disabled",
-      "generation/dls/dark": "disabled"
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "a5246a9af208c607def109ea45e2e9d46486d906",
+    "name": "Tasy-Blue Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/tasy-blue/global/light": "enabled",
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "0db372b5cd642be9a4d0a2a5c8ffc77d781587d0",
+    "name": "Green-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/green/global/dark": "enabled",
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
     "group": "Brand"
   },
@@ -99,20 +128,31 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/green/global/light": "enabled",
-      "foundation/primitives": "disabled",
-      "generation/emr/light": "disabled",
-      "generation/dls/light": "disabled",
-      "generation/emr/dark": "disabled",
-      "generation/dls/dark": "disabled"
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
     "group": "Brand"
   },
   {
-    "id": "0db372b5cd642be9a4d0a2a5c8ffc77d781587d0",
-    "name": "Green-Dark",
+    "id": "8eec969908d1ff723632610ae9d285fba2e7fdc7",
+    "name": "Pink-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/green/global/dark": "enabled"
+      "brand/pink/global/dark": "enabled",
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
     "group": "Brand"
   },
@@ -121,7 +161,15 @@
     "name": "Pink-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/pink/global/light": "enabled"
+      "brand/pink/global/light": "enabled",
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
     "group": "Brand"
   },
@@ -130,7 +178,14 @@
     "name": "Global-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/global": "enabled"
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "enabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
     "group": "Localization"
   },
@@ -139,24 +194,14 @@
     "name": "Alemanha",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/alemanha": "enabled",
-      "localization/japan/light": "disabled",
-      "localization/japan/dark": "disabled",
-      "brand/tasy-blue/japan/light": "disabled",
-      "brand/tasy-blue/japan/dark": "disabled",
-      "brand/tasy-blue/global/light": "disabled",
-      "brand/tasy-blue/global/dark": "disabled",
-      "brand/green/global/light": "disabled",
-      "brand/green/global/dark": "disabled",
-      "brand/pink/global/light": "disabled",
-      "brand/pink/global/dark": "disabled",
-      "brand/green/japan/light": "disabled",
-      "brand/green/japan/dark": "disabled",
-      "foundation/primitives": "disabled",
-      "generation/emr/light": "disabled",
-      "generation/dls/light": "disabled",
-      "generation/emr/dark": "disabled",
-      "generation/dls/dark": "disabled"
+      "localization/alemanha/light": "enabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
     "group": "Localization"
   },
@@ -166,22 +211,14 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "localization/japan/light": "enabled",
-      "localization/japan/dark": "disabled",
-      "brand/tasy-blue/japan/light": "disabled",
-      "brand/tasy-blue/japan/dark": "disabled",
-      "brand/tasy-blue/global/light": "disabled",
-      "brand/tasy-blue/global/dark": "disabled",
-      "brand/green/global/light": "disabled",
-      "brand/green/global/dark": "disabled",
-      "brand/pink/global/light": "disabled",
-      "brand/pink/global/dark": "disabled",
-      "brand/green/japan/light": "disabled",
-      "brand/green/japan/dark": "disabled",
-      "foundation/primitives": "disabled",
-      "generation/emr/light": "disabled",
-      "generation/dls/light": "disabled",
-      "generation/emr/dark": "disabled",
-      "generation/dls/dark": "disabled"
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
     "group": "Localization"
   },
@@ -195,33 +232,15 @@
       "components/tag": "enabled",
       "components/informational-bar": "enabled",
       "components/label": "enabled",
-      "localization/japan/light": "disabled",
-      "localization/japan/dark": "disabled",
-      "brand/tasy-blue/japan/light": "disabled",
-      "brand/tasy-blue/japan/dark": "disabled",
-      "brand/tasy-blue/global/light": "disabled",
-      "brand/tasy-blue/global/dark": "disabled",
-      "brand/green/global/light": "disabled",
-      "brand/green/global/dark": "disabled",
-      "brand/pink/global/light": "disabled",
-      "brand/pink/global/dark": "disabled",
-      "brand/green/japan/light": "disabled",
-      "brand/green/japan/dark": "disabled",
-      "foundation/primitives": "disabled",
-      "generation/emr/light": "disabled",
-      "generation/dls/light": "disabled",
-      "generation/emr/dark": "disabled",
-      "generation/dls/dark": "disabled"
+      "localization/alemanha/light": "disabled",
+      "localization/alemanha/dark": "disabled",
+      "localization/global/dark": "disabled",
+      "localization/global/light": "disabled",
+      "mode/hight-contrast-light": "disabled",
+      "mode/hight-contrast-dark": "disabled",
+      "brand/group-blue/global/light": "disabled",
+      "brand/group-blue/global/dark": "disabled"
     },
     "group": "Components"
-  },
-  {
-    "id": "8eec969908d1ff723632610ae9d285fba2e7fdc7",
-    "name": "Pink-Dark",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand/pink/global/dark": "enabled"
-    },
-    "group": "Brand"
   }
 ]
