@@ -1,1 +1,14 @@
-{}
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "value": "{foundation.emr.color.gray.90}",
+        "type": "color"
+      },
+      "on-primary": {
+        "value": "{foundation.emr.signal.yellow.30}",
+        "type": "color"
+      }
+    }
+  }
+}

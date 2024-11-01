@@ -82,16 +82,18 @@
     "name": "TasyBlue-Japan-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/tasy-blue/japan/dark": "enabled"
+      "brand/tasy-blue/japan/dark": "enabled",
+      "brand/tasy-blue/global/dark": "enabled"
     },
     "group": "Brand"
   },
   {
     "id": "bc7a59e6b4e919304ab8f42ffb76214b38cdc08e",
-    "name": "TasyBlue-Japan-Ligth",
+    "name": "TasyBlue-Japan-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/tasy-blue/japan/light": "enabled"
+      "brand/tasy-blue/japan/light": "enabled",
+      "brand/tasy-blue/global/light": "enabled"
     },
     "group": "Brand"
   },
@@ -118,7 +120,8 @@
     "name": "Aqua-Japan-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/aqua/japan/dark": "enabled"
+      "brand/aqua/japan/dark": "enabled",
+      "brand/aqua/global/dark": "enabled"
     },
     "group": "Brand"
   },
@@ -127,7 +130,8 @@
     "name": "Aqua-Japan-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/aqua/japan/light": "enabled"
+      "brand/aqua/japan/light": "enabled",
+      "brand/aqua/global/light": "enabled"
     },
     "group": "Brand"
   },
@@ -154,7 +158,8 @@
     "name": "Blue-Japan-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/blue/japan/dark": "enabled"
+      "brand/blue/japan/dark": "enabled",
+      "brand/blue/global/dark": "enabled"
     },
     "group": "Brand"
   },
@@ -163,7 +168,8 @@
     "name": "Blue-Japan-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/blue/japan/light": "enabled"
+      "brand/blue/japan/light": "enabled",
+      "brand/blue/global/light": "enabled"
     },
     "group": "Brand"
   },
@@ -190,7 +196,8 @@
     "name": "Gray-Japan-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/gray/japan/dark": "enabled"
+      "brand/gray/japan/dark": "enabled",
+      "brand/gray/global/dark": "enabled"
     },
     "group": "Brand"
   },
@@ -199,7 +206,8 @@
     "name": "Gray-Japan-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/gray/japan/light": "enabled"
+      "brand/gray/japan/light": "enabled",
+      "brand/gray/global/light": "enabled"
     },
     "group": "Brand"
   },
@@ -226,7 +234,8 @@
     "name": "Green-Japan-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/green/japan/dark": "enabled"
+      "brand/green/japan/dark": "enabled",
+      "brand/green/global/dark": "enabled"
     },
     "group": "Brand"
   },
@@ -235,7 +244,8 @@
     "name": "Green-Japan-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/green/japan/light": "enabled"
+      "brand/green/japan/light": "enabled",
+      "brand/green/global/light": "enabled"
     },
     "group": "Brand"
   },
@@ -262,7 +272,8 @@
     "name": "GroupBlue-Japan-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/group-blue/japan/dark": "enabled"
+      "brand/group-blue/japan/dark": "enabled",
+      "brand/group-blue/global/dark": "enabled"
     },
     "group": "Brand"
   },
@@ -271,7 +282,8 @@
     "name": "GroupBlue-Japan-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/group-blue/japan/light": "enabled"
+      "brand/group-blue/japan/light": "enabled",
+      "brand/group-blue/global/light": "enabled"
     },
     "group": "Brand"
   },
@@ -298,7 +310,8 @@
     "name": "Orange-Japan-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/orange/japan/dark": "enabled"
+      "brand/orange/japan/dark": "enabled",
+      "brand/orange/global/dark": "enabled"
     },
     "group": "Brand"
   },
@@ -307,7 +320,8 @@
     "name": "Orange-Japan-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/orange/japan/light": "enabled"
+      "brand/orange/japan/light": "enabled",
+      "brand/orange/global/light": "enabled"
     },
     "group": "Brand"
   },
@@ -334,7 +348,8 @@
     "name": "Pink-Japan-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/pink/japan/dark": "enabled"
+      "brand/pink/japan/dark": "enabled",
+      "brand/pink/global/dark": "enabled"
     },
     "group": "Brand"
   },
@@ -343,7 +358,8 @@
     "name": "Pink-Japan-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/pink/japan/light": "enabled"
+      "brand/pink/japan/light": "enabled",
+      "brand/pink/global/light": "enabled"
     },
     "group": "Brand"
   },
@@ -370,7 +386,8 @@
     "name": "Purple-Japan-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/purple/japan/dark": "enabled"
+      "brand/purple/japan/dark": "enabled",
+      "brand/purple/global/dark": "enabled"
     },
     "group": "Brand"
   },
@@ -379,7 +396,8 @@
     "name": "Purple-Japan-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/purple/japan/light": "enabled"
+      "brand/purple/japan/light": "enabled",
+      "brand/purple/global/light": "enabled"
     },
     "group": "Brand"
   },

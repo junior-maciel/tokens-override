@@ -1,1 +1,22 @@
-{}
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "value": "{foundation.emr.color.group-blue.10}",
+        "type": "color"
+      },
+      "on-primary": {
+        "value": "{foundation.emr.color.group-blue.75}",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "{foundation.emr.color.group-blue.60}",
+        "type": "color"
+      },
+      "on-secondary": {
+        "value": "{foundation.emr.color.group-blue.05}",
+        "type": "color"
+      }
+    }
+  }
+}
