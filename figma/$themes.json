@@ -96,6 +96,114 @@
     "group": "Brand"
   },
   {
+    "id": "6216bc4820de9fd01e3f9745e413a0d6fda9f1ec",
+    "name": "Aqua-Global-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/aqua/global/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "bd960f02561774478f6d20a520866f7d5f1cc60f",
+    "name": "Aqua-Global-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/aqua/global/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "9d2d8b09bcda25a98c375f0818d280a8d6b0ebb8",
+    "name": "Aqua-Japan-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/aqua/japan/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "8030d021147b35d59ca9575559d17d42e80df311",
+    "name": "Aqua-Japan-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/aqua/japan/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "f690993be8e8c5ec403fad55eb66eaeefdaa0a7d",
+    "name": "Blue-Global-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/blue/global/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "63d0c73decad84a7cf46444a3f59ddb2eee240ff",
+    "name": "Blue-Global-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/blue/global/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "cc5a312262c1abdf10377769aac9d1627730265a",
+    "name": "Blue-Japan-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/blue/japan/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "7fad51c4891509c2c56081b5e1280a9e8d5ed132",
+    "name": "Blue-Japan-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/blue/japan/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "b3cb1aad8b2dd9be2cb8bae563ae462b2082ec6c",
+    "name": "Gray-Global-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/gray/global/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "354e22df532a48b69e923012f499a1314f17d82c",
+    "name": "Gray-Global-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/gray/global/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "05c80ac2fe3d7431cf9106cdb1d55f9566f4b9fb",
+    "name": "Gray-Japan-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/gray/japan/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "f6d465a32bd498b1e41964ca6d69737d8daacff2",
+    "name": "Gray-Japan-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/gray/japan/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
     "id": "0db372b5cd642be9a4d0a2a5c8ffc77d781587d0",
     "name": "Green-Global-Dark",
     "$figmaStyleReferences": {},
@@ -114,8 +222,98 @@
     "group": "Brand"
   },
   {
+    "id": "7605ac164cd56660cacfee07089637a342c53cf1",
+    "name": "Green-Japan-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/green/japan/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "1be881c17b7c9d9fbf9efdef0efcc0a57c3204a3",
+    "name": "Green-Japan-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/green/japan/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "134a49d6963011b01b732de88a43352e6ec083a1",
+    "name": "GroupBlue-Global-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/group-blue/global/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "b487db227de8646d4b701d3c5a5c46c171a825d0",
+    "name": "GroupBlue-Global-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/group-blue/global/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "488cc44a66a05f93376fa86d091e4082504cebc5",
+    "name": "GroupBlue-Japan-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/group-blue/japan/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "73720ba2064e78bc95ad304504d51b91a3991a58",
+    "name": "GroupBlue-Japan-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/group-blue/japan/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "a8f62e9d7daa2d72a3ff8e988a1c1d29cea9614f",
+    "name": "Orange-Global-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/orange/global/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "8740acabda1a418a1d4a51bb87d242198ea29296",
+    "name": "Orange-Global-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/orange/global/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "0a516ee5c5183491d22dc2469b0403257f0b3469",
+    "name": "Orange-Japan-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/orange/japan/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "f02b22ef10c084bd98ae0728d2bf180af547de3a",
+    "name": "Orange-Japan-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/orange/japan/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
     "id": "8eec969908d1ff723632610ae9d285fba2e7fdc7",
-    "name": "Pink-Dark",
+    "name": "Pink-Global-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/pink/global/dark": "enabled"
@@ -124,7 +322,7 @@
   },
   {
     "id": "0bb7993b0b334d9b0b43fcf9a66081ad8a8ccdf5",
-    "name": "Pink-Light",
+    "name": "Pink-Global-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/pink/global/light": "enabled"
@@ -132,26 +330,62 @@
     "group": "Brand"
   },
   {
-    "id": "6216bc4820de9fd01e3f9745e413a0d6fda9f1ec",
-    "name": "Aqua-Dark",
+    "id": "578fca8894890ff1e3c5de0c36ccfccd92fddd72",
+    "name": "Pink-Japan-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/aqua/global/dark": "enabled"
+      "brand/pink/japan/dark": "enabled"
     },
     "group": "Brand"
   },
   {
-    "id": "bd960f02561774478f6d20a520866f7d5f1cc60f",
-    "name": "Aqua-Light",
+    "id": "1263567ccc555a5316cfe716232547920b924dfd",
+    "name": "Pink-Japan-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/aqua/global/light": "enabled"
+      "brand/pink/japan/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "bde683d92ed303f16a5622901d5a3b65e2125645",
+    "name": "Purple-Global-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/purple/global/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "3c7b3377a0c4cfcd382f14e0e90d4bbe8a0a28e3",
+    "name": "Purple-Global-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/purple/global/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "d679dab7dce9a720f8eed4860838f391a4e0f6ad",
+    "name": "Purple-Japan-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/purple/japan/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "b700ae82aed7e059c4e15347b17095844727d648",
+    "name": "Purple-Japan-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/purple/japan/light": "enabled"
     },
     "group": "Brand"
   },
   {
     "id": "50326b5501f786e3d2f60c7bb463c380f6ff60b5",
-    "name": "Global-Light",
+    "name": "Global-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "localization/global/dark": "enabled"
@@ -159,8 +393,26 @@
     "group": "Localization"
   },
   {
+    "id": "de287fa7f724ce8e2223c31bc04a94bc10aa43f6",
+    "name": "Global-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/global/light": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "efc82ed6e7ba53e8cf90179bb94cc98a68c112a1",
+    "name": "Alemanha-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/alemanha/dark": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
     "id": "77ae97ed46c42124a1f5c121358c610bfa942f66",
-    "name": "Alemanha",
+    "name": "Alemanha-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "localization/alemanha/light": "enabled"
@@ -168,8 +420,17 @@
     "group": "Localization"
   },
   {
+    "id": "d265fec1bc44f626bc0ddc503dedb90f19e1d03d",
+    "name": "Japan-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/japan/dark": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
     "id": "20b9e9201fd1cc9b9ed258eec64011b4359b0904",
-    "name": "Japan",
+    "name": "Japan-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "localization/japan/light": "enabled"
