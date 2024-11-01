@@ -1,14 +1,1 @@
-{
-  "color": {
-    "brand": {
-      "primary": {
-        "value": "{foundation.emr.signal.purple.45}",
-        "type": "color"
-      },
-      "on-primary": {
-        "value": "{foundation.emr.color.purple.05}",
-        "type": "color"
-      }
-    }
-  }
-}
+{}
