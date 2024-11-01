@@ -5,6 +5,8 @@
     "generation/emr/light",
     "generation/dls/dark",
     "generation/dls/light",
+    "generation/filament/dark",
+    "generation/filament/light",
     "brand/tasy-blue/global/dark",
     "brand/tasy-blue/global/light",
     "brand/tasy-blue/japan/dark",
