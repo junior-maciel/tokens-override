@@ -40,8 +40,28 @@
     "group": "Generation"
   },
   {
+    "id": "f5f9081ca5a3129e277442f8812b3d6e00316e88",
+    "name": "Filament-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation/primitives": "enabled",
+      "generation/filament/dark": "enabled"
+    },
+    "group": "Generation"
+  },
+  {
+    "id": "04008dc7feb8060bf03c915c21d748421c382a74",
+    "name": "Filament-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation/primitives": "enabled",
+      "generation/filament/light": "enabled"
+    },
+    "group": "Generation"
+  },
+  {
     "id": "c738bb3f23d02ab456b890b58b100900c2d869e0",
-    "name": "Tasy-Blue Dark",
+    "name": "TasyBlue-Global-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/tasy-blue/global/dark": "enabled"
@@ -50,7 +70,7 @@
   },
   {
     "id": "a5246a9af208c607def109ea45e2e9d46486d906",
-    "name": "Tasy-Blue Light",
+    "name": "TasyBlue-Global-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/tasy-blue/global/light": "enabled"
@@ -58,8 +78,26 @@
     "group": "Brand"
   },
   {
+    "id": "78f8232c63d51e12f9217f4e548e3b0183b48f83",
+    "name": "TasyBlue-Japan-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/tasy-blue/japan/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "bc7a59e6b4e919304ab8f42ffb76214b38cdc08e",
+    "name": "TasyBlue-Japan-Ligth",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/tasy-blue/japan/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
     "id": "0db372b5cd642be9a4d0a2a5c8ffc77d781587d0",
-    "name": "Green-Dark",
+    "name": "Green-Global-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/green/global/dark": "enabled"
@@ -68,7 +106,7 @@
   },
   {
     "id": "498c6a5b3505b7c20948f307e2681fce3664be8f",
-    "name": "Green-Light",
+    "name": "Green-Global-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/green/global/light": "enabled"
@@ -90,6 +128,24 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "brand/pink/global/light": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "6216bc4820de9fd01e3f9745e413a0d6fda9f1ec",
+    "name": "Aqua-Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/aqua/global/dark": "enabled"
+    },
+    "group": "Brand"
+  },
+  {
+    "id": "bd960f02561774478f6d20a520866f7d5f1cc60f",
+    "name": "Aqua-Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/aqua/global/light": "enabled"
     },
     "group": "Brand"
   },
