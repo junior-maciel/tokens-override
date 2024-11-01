@@ -5,15 +5,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "generation/emr/dark": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "generation/emr/dark": "enabled"
     },
     "group": "Generation"
   },
@@ -23,15 +15,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "generation/emr/light": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "generation/emr/light": "enabled"
     },
     "group": "Generation"
   },
@@ -41,15 +25,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "generation/dls/dark": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "generation/dls/dark": "enabled"
     },
     "group": "Generation"
   },
@@ -59,15 +35,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "generation/dls/light": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "generation/dls/light": "enabled"
     },
     "group": "Generation"
   },
@@ -76,15 +44,7 @@
     "name": "Tasy-Blue Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/tasy-blue/global/dark": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "brand/tasy-blue/global/dark": "enabled"
     },
     "group": "Brand"
   },
@@ -93,15 +53,7 @@
     "name": "Tasy-Blue Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/tasy-blue/global/light": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "brand/tasy-blue/global/light": "enabled"
     },
     "group": "Brand"
   },
@@ -110,15 +62,7 @@
     "name": "Green-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/green/global/dark": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "brand/green/global/dark": "enabled"
     },
     "group": "Brand"
   },
@@ -127,15 +71,7 @@
     "name": "Green-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/green/global/light": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "brand/green/global/light": "enabled"
     },
     "group": "Brand"
   },
@@ -144,15 +80,7 @@
     "name": "Pink-Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/pink/global/dark": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "brand/pink/global/dark": "enabled"
     },
     "group": "Brand"
   },
@@ -161,15 +89,7 @@
     "name": "Pink-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/pink/global/light": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "brand/pink/global/light": "enabled"
     },
     "group": "Brand"
   },
@@ -178,14 +98,7 @@
     "name": "Global-Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "enabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "localization/global/dark": "enabled"
     },
     "group": "Localization"
   },
@@ -194,14 +107,7 @@
     "name": "Alemanha",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/alemanha/light": "enabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "localization/alemanha/light": "enabled"
     },
     "group": "Localization"
   },
@@ -210,15 +116,7 @@
     "name": "Japan",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/japan/light": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "localization/japan/light": "enabled"
     },
     "group": "Localization"
   },
@@ -231,15 +129,7 @@
       "components/popover": "enabled",
       "components/tag": "enabled",
       "components/informational-bar": "enabled",
-      "components/label": "enabled",
-      "localization/alemanha/light": "disabled",
-      "localization/alemanha/dark": "disabled",
-      "localization/global/dark": "disabled",
-      "localization/global/light": "disabled",
-      "mode/hight-contrast-light": "disabled",
-      "mode/hight-contrast-dark": "disabled",
-      "brand/group-blue/global/light": "disabled",
-      "brand/group-blue/global/dark": "disabled"
+      "components/label": "enabled"
     },
     "group": "Components"
   }
