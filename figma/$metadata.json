@@ -49,7 +49,7 @@
     "localization/japan/light",
     "localization/alemanha/dark",
     "localization/alemanha/light",
-    "mode/hight-contrast-light",
+    "high-contrast/light",
     "mode/hight-contrast-dark",
     "components/button",
     "components/label",
