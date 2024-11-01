@@ -2,19 +2,19 @@
   "color": {
     "brand": {
       "primary": {
-        "value": "{foundation.emr.signal.purple.45}",
+        "value": "{foundation.emr.color.green.10}",
         "type": "color"
       },
       "on-primary": {
-        "value": "{foundation.emr.color.purple.05}",
+        "value": "{foundation.emr.color.green.05}",
         "type": "color"
       },
       "secondary": {
-        "value": "{foundation.emr.color.purple.10}",
+        "value": "{foundation.emr.color.green.10}",
         "type": "color"
       },
       "on-secondary": {
-        "value": "{foundation.emr.color.purple.75}",
+        "value": "{foundation.emr.color.green.75}",
         "type": "color"
       }
     }
