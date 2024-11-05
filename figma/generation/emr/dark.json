@@ -23,6 +23,10 @@
         "value": "{foundation.emr.color.neutral.black}",
         "type": "color"
       },
+      "static-secondary": {
+        "value": "{foundation.emr.color.gray.80}",
+        "type": "color"
+      },
       "inverse": {
         "primary": {
           "value": "{foundation.emr.color.neutral.white}",
