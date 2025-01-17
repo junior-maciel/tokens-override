@@ -9,219 +9,759 @@
       "components/tag": "enabled",
       "components/informational-bar": "enabled",
       "components/label": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "disabled"
+      "semantic/mode/emr/dark": "disabled",
+      "semantic/mode/emr/light": "disabled",
+      "semantic/mode/dls/dark": "disabled",
+      "semantic/mode/dls/light": "disabled",
+      "semantic/mode/filament/dark": "disabled",
+      "semantic/mode/filament/light": "disabled",
+      "semantic/brand/emr/legacy-blue/dark": "disabled",
+      "semantic/brand/emr/legacy-blue/light": "disabled",
+      "semantic/brand/dls/aqua/dark": "disabled",
+      "semantic/brand/dls/aqua/light": "disabled",
+      "semantic/brand/dls/blue/dark": "disabled",
+      "semantic/brand/dls/blue/light": "disabled",
+      "semantic/brand/dls/green/dark": "disabled",
+      "semantic/brand/dls/green/light": "disabled",
+      "semantic/brand/dls/group-blue/dark": "disabled",
+      "semantic/brand/dls/group-blue/light": "disabled",
+      "semantic/brand/dls/orange/dark": "disabled",
+      "semantic/brand/dls/orange/light": "disabled",
+      "semantic/brand/dls/pink/dark": "disabled",
+      "semantic/brand/dls/pink/light": "disabled",
+      "semantic/brand/dls/purple/dark": "disabled",
+      "semantic/brand/dls/purple/light": "disabled",
+      "semantic/brand/filament/aqua/dark": "disabled",
+      "semantic/brand/filament/aqua/light": "disabled",
+      "semantic/brand/filament/blue/dark": "disabled",
+      "semantic/brand/filament/blue/light": "disabled",
+      "semantic/brand/filament/green/dark": "disabled",
+      "semantic/brand/filament/green/light": "disabled",
+      "semantic/brand/filament/magenta/dark": "disabled",
+      "semantic/brand/filament/magenta/light": "disabled",
+      "semantic/brand/filament/purple/dark": "disabled",
+      "semantic/brand/filament/purple/light": "disabled",
+      "semantic/localization/emr/global/dark": "disabled",
+      "semantic/localization/emr/global/light": "disabled",
+      "semantic/localization/dls/global/dark": "disabled",
+      "semantic/localization/dls/global/light": "disabled",
+      "semantic/localization/filament/global/dark": "disabled",
+      "semantic/localization/filament/global/light": "disabled",
+      "semantic/ai/default/dark": "disabled",
+      "semantic/ai/default/light": "disabled",
+      "semantic/density/dense": "disabled",
+      "semantic/density/regular": "disabled",
+      "semantic/density/confortable": "disabled",
+      "semantic/breakpoints/xx-small": "disabled",
+      "semantic/breakpoints/x-small": "disabled",
+      "semantic/breakpoints/small": "disabled",
+      "semantic/breakpoints/medium": "disabled",
+      "semantic/breakpoints/large": "disabled",
+      "semantic/breakpoints/x-large": "disabled",
+      "semantic/breakpoints/xx-large": "disabled",
+      "semantic/breakpoints/xxx-large": "disabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
     },
     "group": "Components"
   },
   {
-    "id": "cbcd2aa2408135e5973bc79e996d829769cd7279",
-    "name": "EMR-Dark",
+    "id": "42b49d53f47ff24f098607b7c1d85364eb622637",
+    "name": "Light Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "enabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "disabled"
+      "semantic/mode/emr/dark": "disabled",
+      "semantic/mode/emr/light": "enabled",
+      "semantic/mode/dls/dark": "disabled",
+      "semantic/mode/dls/light": "disabled",
+      "semantic/mode/filament/dark": "disabled",
+      "semantic/mode/filament/light": "disabled",
+      "semantic/brand/emr/legacy-blue/dark": "disabled",
+      "semantic/brand/emr/legacy-blue/light": "enabled",
+      "semantic/brand/dls/aqua/dark": "disabled",
+      "semantic/brand/dls/aqua/light": "disabled",
+      "semantic/brand/dls/blue/dark": "disabled",
+      "semantic/brand/dls/blue/light": "disabled",
+      "semantic/brand/dls/green/dark": "disabled",
+      "semantic/brand/dls/green/light": "disabled",
+      "semantic/brand/dls/group-blue/dark": "disabled",
+      "semantic/brand/dls/group-blue/light": "disabled",
+      "semantic/brand/dls/orange/dark": "disabled",
+      "semantic/brand/dls/orange/light": "disabled",
+      "semantic/brand/dls/pink/dark": "disabled",
+      "semantic/brand/dls/pink/light": "disabled",
+      "semantic/brand/dls/purple/dark": "disabled",
+      "semantic/brand/dls/purple/light": "disabled",
+      "semantic/brand/filament/aqua/dark": "disabled",
+      "semantic/brand/filament/aqua/light": "disabled",
+      "semantic/brand/filament/blue/dark": "disabled",
+      "semantic/brand/filament/blue/light": "disabled",
+      "semantic/brand/filament/green/dark": "disabled",
+      "semantic/brand/filament/green/light": "disabled",
+      "semantic/brand/filament/magenta/dark": "disabled",
+      "semantic/brand/filament/magenta/light": "disabled",
+      "semantic/brand/filament/purple/dark": "disabled",
+      "semantic/brand/filament/purple/light": "disabled",
+      "semantic/localization/emr/global/dark": "disabled",
+      "semantic/localization/emr/global/light": "enabled",
+      "semantic/localization/dls/global/dark": "disabled",
+      "semantic/localization/dls/global/light": "disabled",
+      "semantic/localization/filament/global/dark": "disabled",
+      "semantic/localization/filament/global/light": "disabled",
+      "semantic/ai/default/dark": "disabled",
+      "semantic/ai/default/light": "enabled",
+      "semantic/density/dense": "disabled",
+      "semantic/density/regular": "disabled",
+      "semantic/density/confortable": "disabled",
+      "semantic/breakpoints/xx-small": "disabled",
+      "semantic/breakpoints/x-small": "disabled",
+      "semantic/breakpoints/small": "disabled",
+      "semantic/breakpoints/medium": "disabled",
+      "semantic/breakpoints/large": "disabled",
+      "semantic/breakpoints/x-large": "disabled",
+      "semantic/breakpoints/xx-large": "disabled",
+      "semantic/breakpoints/xxx-large": "disabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
     },
-    "group": "Generation"
+    "group": "EMR Localization"
   },
   {
-    "id": "807bf8c6968cab228d6d74c25b00b4c6a0ff888e",
-    "name": "EMR-Light",
+    "id": "79a7dbc0c2ef8e68d09c45f15e256dcdf55f8bb9",
+    "name": "Dark Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "enabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "disabled"
+      "semantic/mode/emr/dark": "enabled",
+      "semantic/mode/emr/light": "disabled",
+      "semantic/mode/dls/dark": "disabled",
+      "semantic/mode/dls/light": "disabled",
+      "semantic/mode/filament/dark": "disabled",
+      "semantic/mode/filament/light": "disabled",
+      "semantic/brand/emr/legacy-blue/dark": "enabled",
+      "semantic/brand/emr/legacy-blue/light": "disabled",
+      "semantic/brand/dls/aqua/dark": "disabled",
+      "semantic/brand/dls/aqua/light": "disabled",
+      "semantic/brand/dls/blue/dark": "disabled",
+      "semantic/brand/dls/blue/light": "disabled",
+      "semantic/brand/dls/green/dark": "disabled",
+      "semantic/brand/dls/green/light": "disabled",
+      "semantic/brand/dls/group-blue/dark": "disabled",
+      "semantic/brand/dls/group-blue/light": "disabled",
+      "semantic/brand/dls/orange/dark": "disabled",
+      "semantic/brand/dls/orange/light": "disabled",
+      "semantic/brand/dls/pink/dark": "disabled",
+      "semantic/brand/dls/pink/light": "disabled",
+      "semantic/brand/dls/purple/dark": "disabled",
+      "semantic/brand/dls/purple/light": "disabled",
+      "semantic/brand/filament/aqua/dark": "disabled",
+      "semantic/brand/filament/aqua/light": "disabled",
+      "semantic/brand/filament/blue/dark": "disabled",
+      "semantic/brand/filament/blue/light": "disabled",
+      "semantic/brand/filament/green/dark": "disabled",
+      "semantic/brand/filament/green/light": "disabled",
+      "semantic/brand/filament/magenta/dark": "disabled",
+      "semantic/brand/filament/magenta/light": "disabled",
+      "semantic/brand/filament/purple/dark": "disabled",
+      "semantic/brand/filament/purple/light": "disabled",
+      "semantic/localization/emr/global/dark": "enabled",
+      "semantic/localization/emr/global/light": "disabled",
+      "semantic/localization/dls/global/dark": "disabled",
+      "semantic/localization/dls/global/light": "disabled",
+      "semantic/localization/filament/global/dark": "disabled",
+      "semantic/localization/filament/global/light": "disabled",
+      "semantic/ai/default/dark": "enabled",
+      "semantic/ai/default/light": "disabled",
+      "semantic/density/dense": "disabled",
+      "semantic/density/regular": "disabled",
+      "semantic/density/confortable": "disabled",
+      "semantic/breakpoints/xx-small": "disabled",
+      "semantic/breakpoints/x-small": "disabled",
+      "semantic/breakpoints/small": "disabled",
+      "semantic/breakpoints/medium": "disabled",
+      "semantic/breakpoints/large": "disabled",
+      "semantic/breakpoints/x-large": "disabled",
+      "semantic/breakpoints/xx-large": "disabled",
+      "semantic/breakpoints/xxx-large": "disabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
     },
-    "group": "Generation"
+    "group": "EMR Localization"
   },
   {
-    "id": "cf09d1605631defc59721996eda113721d510907",
-    "name": "DLS-Dark",
+    "id": "95b2bf0e204c1688d2984c7a54b74e69535609da",
+    "name": "Dark Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "enabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "disabled"
+      "semantic/mode/emr/dark": "disabled",
+      "semantic/mode/emr/light": "disabled",
+      "semantic/mode/dls/dark": "disabled",
+      "semantic/mode/dls/light": "enabled",
+      "semantic/mode/filament/dark": "disabled",
+      "semantic/mode/filament/light": "disabled",
+      "semantic/brand/emr/legacy-blue/dark": "disabled",
+      "semantic/brand/emr/legacy-blue/light": "disabled",
+      "semantic/brand/dls/aqua/dark": "disabled",
+      "semantic/brand/dls/aqua/light": "disabled",
+      "semantic/brand/dls/blue/dark": "disabled",
+      "semantic/brand/dls/blue/light": "disabled",
+      "semantic/brand/dls/green/dark": "disabled",
+      "semantic/brand/dls/green/light": "disabled",
+      "semantic/brand/dls/group-blue/dark": "disabled",
+      "semantic/brand/dls/group-blue/light": "disabled",
+      "semantic/brand/dls/orange/dark": "disabled",
+      "semantic/brand/dls/orange/light": "disabled",
+      "semantic/brand/dls/pink/dark": "disabled",
+      "semantic/brand/dls/pink/light": "disabled",
+      "semantic/brand/dls/purple/dark": "disabled",
+      "semantic/brand/dls/purple/light": "disabled",
+      "semantic/brand/filament/aqua/dark": "disabled",
+      "semantic/brand/filament/aqua/light": "disabled",
+      "semantic/brand/filament/blue/dark": "disabled",
+      "semantic/brand/filament/blue/light": "disabled",
+      "semantic/brand/filament/green/dark": "disabled",
+      "semantic/brand/filament/green/light": "disabled",
+      "semantic/brand/filament/magenta/dark": "disabled",
+      "semantic/brand/filament/magenta/light": "disabled",
+      "semantic/brand/filament/purple/dark": "disabled",
+      "semantic/brand/filament/purple/light": "disabled",
+      "semantic/localization/emr/global/dark": "disabled",
+      "semantic/localization/emr/global/light": "disabled",
+      "semantic/localization/dls/global/dark": "disabled",
+      "semantic/localization/dls/global/light": "enabled",
+      "semantic/localization/filament/global/dark": "disabled",
+      "semantic/localization/filament/global/light": "disabled",
+      "semantic/ai/default/dark": "disabled",
+      "semantic/ai/default/light": "enabled",
+      "semantic/density/dense": "disabled",
+      "semantic/density/regular": "disabled",
+      "semantic/density/confortable": "disabled",
+      "semantic/breakpoints/xx-small": "disabled",
+      "semantic/breakpoints/x-small": "disabled",
+      "semantic/breakpoints/small": "disabled",
+      "semantic/breakpoints/medium": "disabled",
+      "semantic/breakpoints/large": "disabled",
+      "semantic/breakpoints/x-large": "disabled",
+      "semantic/breakpoints/xx-large": "disabled",
+      "semantic/breakpoints/xxx-large": "disabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
     },
-    "group": "Generation"
+    "group": "DLS Localization"
   },
   {
-    "id": "ee0b4bf0cd0078603d1e5300048a4d6aa410b75a",
-    "name": "DLS-Light",
+    "id": "72466f71350a7553fb3af6e3a30d457e9921a269",
+    "name": "Light Global",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "enabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "disabled"
+      "semantic/mode/emr/dark": "disabled",
+      "semantic/mode/emr/light": "disabled",
+      "semantic/mode/dls/dark": "disabled",
+      "semantic/mode/dls/light": "enabled",
+      "semantic/mode/filament/dark": "disabled",
+      "semantic/mode/filament/light": "disabled",
+      "semantic/brand/emr/legacy-blue/dark": "disabled",
+      "semantic/brand/emr/legacy-blue/light": "disabled",
+      "semantic/brand/dls/aqua/dark": "disabled",
+      "semantic/brand/dls/aqua/light": "disabled",
+      "semantic/brand/dls/blue/dark": "disabled",
+      "semantic/brand/dls/blue/light": "disabled",
+      "semantic/brand/dls/green/dark": "disabled",
+      "semantic/brand/dls/green/light": "disabled",
+      "semantic/brand/dls/group-blue/dark": "disabled",
+      "semantic/brand/dls/group-blue/light": "disabled",
+      "semantic/brand/dls/orange/dark": "disabled",
+      "semantic/brand/dls/orange/light": "disabled",
+      "semantic/brand/dls/pink/dark": "disabled",
+      "semantic/brand/dls/pink/light": "disabled",
+      "semantic/brand/dls/purple/dark": "disabled",
+      "semantic/brand/dls/purple/light": "disabled",
+      "semantic/brand/filament/aqua/dark": "disabled",
+      "semantic/brand/filament/aqua/light": "disabled",
+      "semantic/brand/filament/blue/dark": "disabled",
+      "semantic/brand/filament/blue/light": "disabled",
+      "semantic/brand/filament/green/dark": "disabled",
+      "semantic/brand/filament/green/light": "disabled",
+      "semantic/brand/filament/magenta/dark": "disabled",
+      "semantic/brand/filament/magenta/light": "disabled",
+      "semantic/brand/filament/purple/dark": "disabled",
+      "semantic/brand/filament/purple/light": "disabled",
+      "semantic/localization/emr/global/dark": "disabled",
+      "semantic/localization/emr/global/light": "enabled",
+      "semantic/localization/dls/global/dark": "disabled",
+      "semantic/localization/dls/global/light": "disabled",
+      "semantic/localization/filament/global/dark": "disabled",
+      "semantic/localization/filament/global/light": "disabled",
+      "semantic/ai/default/dark": "disabled",
+      "semantic/ai/default/light": "enabled",
+      "semantic/density/dense": "disabled",
+      "semantic/density/regular": "disabled",
+      "semantic/density/confortable": "disabled",
+      "semantic/breakpoints/xx-small": "disabled",
+      "semantic/breakpoints/x-small": "disabled",
+      "semantic/breakpoints/small": "disabled",
+      "semantic/breakpoints/medium": "disabled",
+      "semantic/breakpoints/large": "disabled",
+      "semantic/breakpoints/x-large": "disabled",
+      "semantic/breakpoints/xx-large": "disabled",
+      "semantic/breakpoints/xxx-large": "disabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
     },
-    "group": "Generation"
+    "group": "DLS Localization"
   },
   {
-    "id": "f5f9081ca5a3129e277442f8812b3d6e00316e88",
-    "name": "Filament-Dark",
+    "id": "86aae78cd57394d8aac13abada9afd60478f0751",
+    "name": "Dense",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "foundation/primitives": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "enabled",
-      "mode/filament/light": "disabled"
+      "semantic/density/dense": "enabled"
     },
-    "group": "Generation"
+    "group": "Density"
   },
   {
-    "id": "04008dc7feb8060bf03c915c21d748421c382a74",
-    "name": "Filament-Light",
+    "id": "deecab8b28ed67955d82e6ff459610deb95f3eea",
+    "name": "Regular",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "foundation/primitives": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "enabled"
+      "semantic/density/regular": "enabled"
     },
-    "group": "Generation"
+    "group": "Density"
   },
   {
-    "id": "50326b5501f786e3d2f60c7bb463c380f6ff60b5",
-    "name": "Global-Dark",
+    "id": "a77d801cf88c11d51a5bf74862b5c673c937b48b",
+    "name": "Confortable",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/emr/global/dark": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "disabled"
+      "semantic/density/confortable": "enabled"
     },
-    "group": "Localization"
+    "group": "Density"
   },
   {
-    "id": "de287fa7f724ce8e2223c31bc04a94bc10aa43f6",
-    "name": "Global-Light",
+    "id": "59b2fc29b263b592a66612e637d18d21919c0f2b",
+    "name": "xx-Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/emr/global/light": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "disabled"
+      "semantic/breakpoints/xx-small": "enabled"
     },
-    "group": "Localization"
+    "group": "Breakpoint"
   },
   {
-    "id": "efc82ed6e7ba53e8cf90179bb94cc98a68c112a1",
-    "name": "Alemanha-Dark",
+    "id": "e1cccecda3347fea3179476a8eeac7917864cdc5",
+    "name": "Aqua Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/filament/global/dark": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "disabled"
+      "semantic/mode/emr/dark": "disabled",
+      "semantic/mode/emr/light": "disabled",
+      "semantic/mode/dls/dark": "disabled",
+      "semantic/mode/dls/light": "disabled",
+      "semantic/mode/filament/dark": "disabled",
+      "semantic/mode/filament/light": "disabled",
+      "semantic/brand/emr/legacy-blue/dark": "disabled",
+      "semantic/brand/emr/legacy-blue/light": "disabled",
+      "semantic/brand/dls/aqua/dark": "enabled",
+      "semantic/brand/dls/aqua/light": "disabled",
+      "semantic/brand/dls/blue/dark": "disabled",
+      "semantic/brand/dls/blue/light": "disabled",
+      "semantic/brand/dls/green/dark": "disabled",
+      "semantic/brand/dls/green/light": "disabled",
+      "semantic/brand/dls/group-blue/dark": "disabled",
+      "semantic/brand/dls/group-blue/light": "disabled",
+      "semantic/brand/dls/orange/dark": "disabled",
+      "semantic/brand/dls/orange/light": "disabled",
+      "semantic/brand/dls/pink/dark": "disabled",
+      "semantic/brand/dls/pink/light": "disabled",
+      "semantic/brand/dls/purple/dark": "disabled",
+      "semantic/brand/dls/purple/light": "disabled",
+      "semantic/brand/filament/aqua/dark": "disabled",
+      "semantic/brand/filament/aqua/light": "disabled",
+      "semantic/brand/filament/blue/dark": "disabled",
+      "semantic/brand/filament/blue/light": "disabled",
+      "semantic/brand/filament/green/dark": "disabled",
+      "semantic/brand/filament/green/light": "disabled",
+      "semantic/brand/filament/magenta/dark": "disabled",
+      "semantic/brand/filament/magenta/light": "disabled",
+      "semantic/brand/filament/purple/dark": "disabled",
+      "semantic/brand/filament/purple/light": "disabled",
+      "semantic/localization/emr/global/dark": "disabled",
+      "semantic/localization/emr/global/light": "disabled",
+      "semantic/localization/dls/global/dark": "disabled",
+      "semantic/localization/dls/global/light": "disabled",
+      "semantic/localization/filament/global/dark": "disabled",
+      "semantic/localization/filament/global/light": "disabled",
+      "semantic/ai/default/dark": "disabled",
+      "semantic/ai/default/light": "disabled",
+      "semantic/density/dense": "disabled",
+      "semantic/density/regular": "disabled",
+      "semantic/density/confortable": "disabled",
+      "semantic/breakpoints/xx-small": "disabled",
+      "semantic/breakpoints/x-small": "disabled",
+      "semantic/breakpoints/small": "disabled",
+      "semantic/breakpoints/medium": "disabled",
+      "semantic/breakpoints/large": "disabled",
+      "semantic/breakpoints/x-large": "disabled",
+      "semantic/breakpoints/xx-large": "disabled",
+      "semantic/breakpoints/xxx-large": "disabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
     },
-    "group": "Localization"
+    "group": "DLS Brand"
   },
   {
-    "id": "77ae97ed46c42124a1f5c121358c610bfa942f66",
-    "name": "Alemanha-Light",
+    "id": "b80e89a1178dbdb53b9416f2c138ff554b5bc362",
+    "name": "Aqua Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/filament/global/light": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "disabled"
+      "semantic/brand/dls/aqua/light": "enabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
     },
-    "group": "Localization"
+    "group": "DLS Brand"
   },
   {
-    "id": "d265fec1bc44f626bc0ddc503dedb90f19e1d03d",
-    "name": "Japan-Dark",
+    "id": "397dacca7208800018974ded67dba99c4981991e",
+    "name": "Blue Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/dls/global/dark": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "disabled"
+      "semantic/mode/emr/dark": "disabled",
+      "semantic/mode/emr/light": "disabled",
+      "semantic/mode/dls/dark": "disabled",
+      "semantic/mode/dls/light": "disabled",
+      "semantic/mode/filament/dark": "disabled",
+      "semantic/mode/filament/light": "disabled",
+      "semantic/brand/emr/legacy-blue/dark": "disabled",
+      "semantic/brand/emr/legacy-blue/light": "disabled",
+      "semantic/brand/dls/aqua/dark": "disabled",
+      "semantic/brand/dls/aqua/light": "disabled",
+      "semantic/brand/dls/blue/dark": "enabled",
+      "semantic/brand/dls/blue/light": "disabled",
+      "semantic/brand/dls/green/dark": "disabled",
+      "semantic/brand/dls/green/light": "disabled",
+      "semantic/brand/dls/group-blue/dark": "disabled",
+      "semantic/brand/dls/group-blue/light": "disabled",
+      "semantic/brand/dls/orange/dark": "disabled",
+      "semantic/brand/dls/orange/light": "disabled",
+      "semantic/brand/dls/pink/dark": "disabled",
+      "semantic/brand/dls/pink/light": "disabled",
+      "semantic/brand/dls/purple/dark": "disabled",
+      "semantic/brand/dls/purple/light": "disabled",
+      "semantic/brand/filament/aqua/dark": "disabled",
+      "semantic/brand/filament/aqua/light": "disabled",
+      "semantic/brand/filament/blue/dark": "disabled",
+      "semantic/brand/filament/blue/light": "disabled",
+      "semantic/brand/filament/green/dark": "disabled",
+      "semantic/brand/filament/green/light": "disabled",
+      "semantic/brand/filament/magenta/dark": "disabled",
+      "semantic/brand/filament/magenta/light": "disabled",
+      "semantic/brand/filament/purple/dark": "disabled",
+      "semantic/brand/filament/purple/light": "disabled",
+      "semantic/localization/emr/global/dark": "disabled",
+      "semantic/localization/emr/global/light": "disabled",
+      "semantic/localization/dls/global/dark": "disabled",
+      "semantic/localization/dls/global/light": "disabled",
+      "semantic/localization/filament/global/dark": "disabled",
+      "semantic/localization/filament/global/light": "disabled",
+      "semantic/ai/default/dark": "disabled",
+      "semantic/ai/default/light": "disabled",
+      "semantic/density/dense": "disabled",
+      "semantic/density/regular": "disabled",
+      "semantic/density/confortable": "disabled",
+      "semantic/breakpoints/xx-small": "disabled",
+      "semantic/breakpoints/x-small": "disabled",
+      "semantic/breakpoints/small": "disabled",
+      "semantic/breakpoints/medium": "disabled",
+      "semantic/breakpoints/large": "disabled",
+      "semantic/breakpoints/x-large": "disabled",
+      "semantic/breakpoints/xx-large": "disabled",
+      "semantic/breakpoints/xxx-large": "disabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
     },
-    "group": "Localization"
+    "group": "DLS Brand"
   },
   {
-    "id": "20b9e9201fd1cc9b9ed258eec64011b4359b0904",
-    "name": "Japan-Light",
+    "id": "18552d60542fd4b2bf6ce2bc96c0ce5892082f47",
+    "name": "Blue Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/dls/global/light": "enabled",
-      "ai/default/dark": "disabled",
-      "ai/default/light": "disabled",
-      "mode/emr/dark": "disabled",
-      "mode/emr/light": "disabled",
-      "mode/dls/dark": "disabled",
-      "mode/dls/light": "disabled",
-      "mode/filament/dark": "disabled",
-      "mode/filament/light": "disabled"
+      "semantic/brand/dls/blue/light": "enabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
     },
-    "group": "Localization"
+    "group": "DLS Brand"
+  },
+  {
+    "id": "b2856bfd0fe53c5ebef5ad2edebb70e89ed06e72",
+    "name": "Gray Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/gray/dark": "enabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "5d30f63ba1a5b08791d2e230cdba1567af62200f",
+    "name": "Gray Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/gray/light": "enabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "ffe3a3eb616a7d35f74e0e4e648deba72573d152",
+    "name": "Green Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/green/dark": "enabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "814832dad639638060b7787c0ea6f8db882c5565",
+    "name": "Green Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/green/light": "enabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "1e4b45f20b4bbde0de4338535596526338e3269a",
+    "name": "GroupBlue Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/group-blue/dark": "enabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "a0a05785add034f87417223f91abd50c0b47d82f",
+    "name": "GroupBlue Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/group-blue/light": "enabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "6cfd6822dd62ba467a7f74f58cf95bdc6ea81a3e",
+    "name": "Orange Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/orange/dark": "enabled",
+      "semantic/brand/dls/gray/dark": "disabled",
+      "semantic/brand/dls/gray/light": "disabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "7f183093513841e0ae773100dc36e1a0fe7d7320",
+    "name": "Orange Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/orange/light": "enabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "12b4f9362c0387a4614e3ae2d30b72d399d18fc3",
+    "name": "Pink Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/pink/dark": "enabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "25ab85f681ba7ec71f6115f486c95b2577345747",
+    "name": "Pink Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/pink/light": "enabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "dbb3df5cd4d000239ef8956819fc6e782808c01a",
+    "name": "Purple Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/purple/dark": "enabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "1dfe98b5d0e78c868a1b5ae7542c6ed54c43b703",
+    "name": "Purple Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/dls/purple/light": "enabled"
+    },
+    "group": "DLS Brand"
+  },
+  {
+    "id": "55d5fe90228944f0c636b16228f5e4d99027342f",
+    "name": "Aqua Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/filament/aqua/dark": "enabled"
+    },
+    "group": "Filament Brand"
+  },
+  {
+    "id": "7226d03fa3e395af0171c48fe74cdab057e3b952",
+    "name": "Aqua Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/filament/aqua/light": "enabled"
+    },
+    "group": "Filament Brand"
+  },
+  {
+    "id": "4d154e9f24b465451c65ef5d08f4a576b4f400d9",
+    "name": "Blue Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/filament/blue/dark": "enabled"
+    },
+    "group": "Filament Brand"
+  },
+  {
+    "id": "9ecaf52affa66ab8b8f71821ce17d05438982c80",
+    "name": "Blue Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/filament/blue/light": "enabled"
+    },
+    "group": "Filament Brand"
+  },
+  {
+    "id": "279369c849640a038e53c680cb808e527455df68",
+    "name": "Green Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/filament/green/dark": "enabled"
+    },
+    "group": "Filament Brand"
+  },
+  {
+    "id": "e146a98b89381bc7291adc2a6b04b7d1ec92125f",
+    "name": "Green Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/filament/green/light": "enabled"
+    },
+    "group": "Filament Brand"
+  },
+  {
+    "id": "444ae3f3d6bc1bdb97ed0122126279c5e1d04398",
+    "name": "Magenta Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/filament/magenta/dark": "enabled"
+    },
+    "group": "Filament Brand"
+  },
+  {
+    "id": "7f9fe56c3f79e8a3cbcf5332e9c14d2703ff0a57",
+    "name": "Magenta Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/filament/magenta/light": "enabled"
+    },
+    "group": "Filament Brand"
+  },
+  {
+    "id": "17e6327c6e4ee7eba3445cb4a81950eb95854975",
+    "name": "Purple Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/filament/purple/dark": "enabled"
+    },
+    "group": "Filament Brand"
+  },
+  {
+    "id": "96973c270ff27b13d2e953829f5043a5f2f902bb",
+    "name": "Purple Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/brand/filament/purple/light": "enabled"
+    },
+    "group": "Filament Brand"
+  },
+  {
+    "id": "cbbc1554aec09046c82c97db703a96646d15f1e5",
+    "name": "x-Small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/breakpoints/x-small": "enabled"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "25839397f257063553b51dcf0c9d1f980050c1e9",
+    "name": "Small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/breakpoints/small": "enabled"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "fd9b053c00710889f09b283173a5565d6332809f",
+    "name": "Medium",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/breakpoints/medium": "enabled"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "e537bbf55a042cb3b84fb0f77583e14567886c35",
+    "name": "Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/breakpoints/large": "enabled"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "8e949f3fe7fa73fa4f67e96b6fc7295e0fa27883",
+    "name": "x-Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/breakpoints/x-large": "enabled"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "78f9a82d408b2d301e69a4d252cba8e1b9a090c2",
+    "name": "xx-Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/breakpoints/xx-large": "enabled"
+    },
+    "group": "Breakpoint"
+  },
+  {
+    "id": "bc02bef7b4984562231023eddf0331c2276a377d",
+    "name": "xxx-Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "semantic/breakpoints/xxx-large": "enabled"
+    },
+    "group": "Breakpoint"
   }
 ]
