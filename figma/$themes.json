@@ -8,11 +8,7 @@
       "components/popover": "enabled",
       "components/tag": "enabled",
       "components/informational-bar": "enabled",
-      "components/label": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "components/label": "enabled"
     },
     "group": "Components"
   },
@@ -25,11 +21,7 @@
       "semantic/mode/emr/light": "enabled",
       "semantic/brand/emr/legacy-blue/light": "enabled",
       "semantic/localization/emr/global/light": "enabled",
-      "semantic/ai/default/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/ai/default/light": "enabled"
     },
     "group": "EMR Localization"
   },
@@ -42,11 +34,7 @@
       "semantic/mode/emr/dark": "enabled",
       "semantic/brand/emr/legacy-blue/dark": "enabled",
       "semantic/localization/emr/global/dark": "enabled",
-      "semantic/ai/default/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/ai/default/dark": "enabled"
     },
     "group": "EMR Localization"
   },
@@ -58,11 +46,7 @@
       "foundation/primitives": "enabled",
       "semantic/mode/dls/light": "enabled",
       "semantic/localization/dls/global/light": "enabled",
-      "semantic/ai/default/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/ai/default/light": "enabled"
     },
     "group": "DLS Localization"
   },
@@ -74,11 +58,7 @@
       "foundation/primitives": "enabled",
       "semantic/mode/dls/light": "enabled",
       "semantic/localization/emr/global/light": "enabled",
-      "semantic/ai/default/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/ai/default/light": "enabled"
     },
     "group": "DLS Localization"
   },
@@ -87,11 +67,7 @@
     "name": "Dense",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/density/dense": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/density/dense": "enabled"
     },
     "group": "Density"
   },
@@ -100,11 +76,7 @@
     "name": "Regular",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/density/regular": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/density/regular": "enabled"
     },
     "group": "Density"
   },
@@ -113,11 +85,7 @@
     "name": "Confortable",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/density/confortable": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/density/confortable": "enabled"
     },
     "group": "Density"
   },
@@ -126,11 +94,7 @@
     "name": "xx-Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/breakpoints/xx-small": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/breakpoints/xx-small": "enabled"
     },
     "group": "Breakpoint"
   },
@@ -139,11 +103,7 @@
     "name": "x-Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/breakpoints/x-small": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/breakpoints/x-small": "enabled"
     },
     "group": "Breakpoint"
   },
@@ -152,11 +112,7 @@
     "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/breakpoints/small": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/breakpoints/small": "enabled"
     },
     "group": "Breakpoint"
   },
@@ -165,11 +121,7 @@
     "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/breakpoints/medium": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/breakpoints/medium": "enabled"
     },
     "group": "Breakpoint"
   },
@@ -178,11 +130,7 @@
     "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/breakpoints/large": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/breakpoints/large": "enabled"
     },
     "group": "Breakpoint"
   },
@@ -191,11 +139,7 @@
     "name": "x-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/breakpoints/x-large": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/breakpoints/x-large": "enabled"
     },
     "group": "Breakpoint"
   },
@@ -204,11 +148,7 @@
     "name": "xx-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/breakpoints/xx-large": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/breakpoints/xx-large": "enabled"
     },
     "group": "Breakpoint"
   },
@@ -217,11 +157,7 @@
     "name": "xxx-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/breakpoints/xxx-large": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/breakpoints/xxx-large": "enabled"
     },
     "group": "Breakpoint"
   },
@@ -239,11 +175,7 @@
     "name": "Aqua Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/aqua/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/aqua/dark": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -252,11 +184,7 @@
     "name": "Aqua Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/aqua/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/aqua/light": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -265,11 +193,7 @@
     "name": "Blue Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/blue/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/blue/dark": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -278,11 +202,7 @@
     "name": "Blue Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/blue/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/blue/light": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -291,11 +211,7 @@
     "name": "Gray Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/gray/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/gray/dark": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -304,11 +220,7 @@
     "name": "Gray Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/gray/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/gray/light": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -317,11 +229,7 @@
     "name": "Green Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/green/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/green/dark": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -330,11 +238,7 @@
     "name": "Green Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/green/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/green/light": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -343,11 +247,7 @@
     "name": "GroupBlue Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/group-blue/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/group-blue/dark": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -356,11 +256,7 @@
     "name": "GroupBlue Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/group-blue/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/group-blue/light": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -369,11 +265,7 @@
     "name": "Orange Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/orange/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/orange/dark": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -382,11 +274,7 @@
     "name": "Orange Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/orange/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/orange/light": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -395,11 +283,7 @@
     "name": "Pink Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/pink/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/pink/dark": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -408,11 +292,7 @@
     "name": "Pink Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/pink/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/pink/light": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -421,11 +301,7 @@
     "name": "Purple Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/purple/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/purple/dark": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -434,11 +310,7 @@
     "name": "Purple Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/dls/purple/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/dls/purple/light": "enabled"
     },
     "group": "DLS Brand"
   },
@@ -447,11 +319,7 @@
     "name": "Aqua Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/filament/aqua/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/filament/aqua/dark": "enabled"
     },
     "group": "Filament Brand"
   },
@@ -460,11 +328,7 @@
     "name": "Aqua Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/filament/aqua/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/filament/aqua/light": "enabled"
     },
     "group": "Filament Brand"
   },
@@ -473,11 +337,7 @@
     "name": "Blue Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/filament/blue/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/filament/blue/dark": "enabled"
     },
     "group": "Filament Brand"
   },
@@ -486,11 +346,7 @@
     "name": "Blue Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/filament/blue/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/filament/blue/light": "enabled"
     },
     "group": "Filament Brand"
   },
@@ -499,11 +355,7 @@
     "name": "Green Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/filament/green/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/filament/green/dark": "enabled"
     },
     "group": "Filament Brand"
   },
@@ -512,11 +364,7 @@
     "name": "Green Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/filament/green/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/filament/green/light": "enabled"
     },
     "group": "Filament Brand"
   },
@@ -525,11 +373,7 @@
     "name": "Magenta Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/filament/magenta/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/filament/magenta/dark": "enabled"
     },
     "group": "Filament Brand"
   },
@@ -538,11 +382,7 @@
     "name": "Magenta Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/filament/magenta/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/filament/magenta/light": "enabled"
     },
     "group": "Filament Brand"
   },
@@ -551,11 +391,7 @@
     "name": "Purple Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/filament/purple/dark": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/filament/purple/dark": "enabled"
     },
     "group": "Filament Brand"
   },
@@ -564,11 +400,7 @@
     "name": "Purple Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "semantic/brand/filament/purple/light": "enabled",
-      "semantic/typography/small": "disabled",
-      "semantic/typography/medium": "disabled",
-      "semantic/typography/large": "disabled",
-      "semantic/typography/x-large": "disabled"
+      "semantic/brand/filament/purple/light": "enabled"
     },
     "group": "Filament Brand"
   },
