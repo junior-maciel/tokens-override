@@ -8,16 +8,12 @@
   "color": {
     "surface": {
       "content": {
-        "primary": {
-          "value": "{foundation.emr.color.gray.65}",
-          "type": "color"
-        },
         "secondary": {
-          "value": "{foundation.emr.color.gray.55}",
+          "value": "{foundation.emr.color.gray.05}",
           "type": "color"
         },
         "tertiary": {
-          "value": "{foundation.emr.color.gray.75}",
+          "value": "{foundation.emr.color.gray.20}",
           "type": "color"
         }
       },
@@ -37,7 +33,7 @@
       },
       "inverse": {
         "primary": {
-          "value": "{foundation.emr.color.gray.10}",
+          "value": "{foundation.emr.color.gray.55}",
           "type": "color"
         }
       }

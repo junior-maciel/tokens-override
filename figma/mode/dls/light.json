@@ -4,5 +4,43 @@
       "value": "{foundation.font-family.sans}",
       "type": "fontFamilies"
     }
+  },
+  "color": {
+    "surface": {
+      "content": {
+        "primary": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.05}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.dls.color.gray.10}",
+          "type": "color"
+        }
+      },
+      "static": {
+        "primary": {
+          "value": "{foundation.dls.color.gray.75}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.70}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.dls.color.neutral.black}",
+          "type": "color"
+        }
+      },
+      "inverse": {
+        "primary": {
+          "value": "{foundation.dls.color.gray.75}",
+          "type": "color"
+        }
+      }
+    }
   }
 }

@@ -111,14 +111,46 @@
       }
     },
     "quiet": {
+      "normal": {
+        "value": "{foundation.dls.color.neutral.transparent}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{foundation.dls.color.gray.05}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{foundation.dls.color.gray.10}",
+        "type": "color"
+      },
       "selected": {
         "value": "{foundation.dls.color.blue.10}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{foundation.dls.color.neutral.transparent}",
         "type": "color"
       }
     },
     "on-quiet": {
+      "normal": {
+        "value": "{foundation.dls.color.blue.75}",
+        "type": "color"
+      },
+      "hover": {
+        "value": "{foundation.dls.color.blue.75}",
+        "type": "color"
+      },
+      "active": {
+        "value": "{foundation.dls.color.blue.75}",
+        "type": "color"
+      },
       "selected": {
         "value": "{foundation.dls.color.blue.75}",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "{foundation.dls.color.gray.25}",
         "type": "color"
       }
     }

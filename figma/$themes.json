@@ -8,10 +8,16 @@
       "components/popover": "enabled",
       "components/tag": "enabled",
       "components/informational-bar": "enabled",
-      "components/label": "enabled"
+      "components/label": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
     },
-    "group": "Components",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "Components"
   },
   {
     "id": "42b49d53f47ff24f098607b7c1d85364eb622637",
@@ -20,7 +26,13 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "brand-color/emr/legacy-blue/light": "enabled",
-      "mode/emr/light": "enabled"
+      "mode/emr/light": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -32,7 +44,29 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "brand-color/emr/legacy-blue/dark": "enabled",
-      "mode/emr/dark": "enabled"
+      "mode/emr/dark": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Mode"
+  },
+  {
+    "id": "3aa43b0e54f9356dc98e6fb68b929c4cbf23caa3",
+    "name": "EMR Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation/primitives": "enabled",
+      "mode/emr/expressive": "enabled",
+      "brand-color/emr/legacy-blue/expressive": "enabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -44,7 +78,13 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/dls/light": "enabled",
-      "brand-color/dls/blue/light": "enabled"
+      "brand-color/dls/blue/light": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -56,9 +96,26 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/dls/dark": "enabled",
-      "brand-color/dls/blue/dark": "enabled"
+      "brand-color/dls/blue/dark": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
     },
     "$figmaVariableReferences": {},
+    "group": "Mode"
+  },
+  {
+    "id": "ae33f2eb21097c6f85b3030c99e026c76a162036",
+    "name": "DLS Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "foundation/primitives": "enabled",
+      "mode/dls/expressive": "enabled",
+      "brand-color/dls/blue/expressive": "enabled"
+    },
     "group": "Mode"
   },
   {
@@ -68,7 +125,13 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/filament/light": "enabled",
-      "brand-color/filament/blue/light": "enabled"
+      "brand-color/filament/blue/light": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -80,7 +143,13 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/filament/dark": "enabled",
-      "brand-color/filament/blue/dark": "enabled"
+      "brand-color/filament/blue/dark": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -92,178 +161,336 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "assistant-color/dls/purple/dark": "enabled",
-      "mode/filament/expressive": "enabled"
+      "mode/filament/expressive": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
     },
-    "group": "Mode",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "Mode"
   },
   {
     "id": "cda96be53868c83d7a542e894c57887b9911ffa2",
     "name": "EMR Purple Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/emr/purple/light": "enabled"
+      "assistant-color/emr/purple/light": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
     },
-    "group": "AI-Assistant",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "86aae78cd57394d8aac13abada9afd60478f0751",
-    "name": "Dense",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "density/dense": "enabled"
-    },
-    "group": "Density",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "deecab8b28ed67955d82e6ff459610deb95f3eea",
-    "name": "Regular",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "density/regular": "enabled"
-    },
-    "group": "Density",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "a77d801cf88c11d51a5bf74862b5c673c937b48b",
-    "name": "Confortable",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "density/confortable": "enabled"
-    },
-    "group": "Density",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "59b2fc29b263b592a66612e637d18d21919c0f2b",
-    "name": "xx-Small",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/xx-small": "enabled"
-    },
-    "group": "Breakpoint",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "cbbc1554aec09046c82c97db703a96646d15f1e5",
-    "name": "x-Small",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/x-small": "enabled"
-    },
-    "group": "Breakpoint",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "25839397f257063553b51dcf0c9d1f980050c1e9",
-    "name": "Small",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/small": "enabled"
-    },
-    "group": "Breakpoint",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "fd9b053c00710889f09b283173a5565d6332809f",
-    "name": "Medium",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/medium": "enabled"
-    },
-    "group": "Breakpoint",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "e537bbf55a042cb3b84fb0f77583e14567886c35",
-    "name": "Large",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/large": "enabled"
-    },
-    "group": "Breakpoint",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "8e949f3fe7fa73fa4f67e96b6fc7295e0fa27883",
-    "name": "x-Large",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/x-large": "enabled"
-    },
-    "group": "Breakpoint",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "78f9a82d408b2d301e69a4d252cba8e1b9a090c2",
-    "name": "xx-Large",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/xx-large": "enabled"
-    },
-    "group": "Breakpoint",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "bc02bef7b4984562231023eddf0331c2276a377d",
-    "name": "xxx-Large",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "breakpoints/xxx-large": "enabled"
-    },
-    "group": "Breakpoint",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "5e38cc966433da9806c5770003979da96ece8cf3",
-    "name": "Small",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "font-size/small": "enabled"
-    },
-    "group": "Typography",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "69258bbed1b93c614d214aaf62ca902c1147c995",
-    "name": "Medium",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "font-size/medium": "enabled"
-    },
-    "group": "Typography",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "4016e7cc257beaa749d8807ba0c1760d3a365cb8",
-    "name": "Large",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "font-size/large": "enabled"
-    },
-    "group": "Typography",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "ab8a6c7d190470fd5b7eb5a03af766f13df557cf",
-    "name": "xLarge",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "font-size/x-large": "enabled"
-    },
-    "group": "Typography",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "AI-Assistant"
   },
   {
     "id": "7e2c76c8c024b08cd7f940b5f81798d8ce9f0363",
     "name": "EMR Purple Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/emr/purple/dark": "enabled"
+      "assistant-color/emr/purple/dark": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
     },
+    "$figmaVariableReferences": {},
     "group": "AI-Assistant"
+  },
+  {
+    "id": "86256022255117b56d579439a5762c0339a8c61c",
+    "name": "EMR Purple Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "assistant-color/emr/purple/expressive": "enabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "AI-Assistant"
+  },
+  {
+    "id": "d3dd9aa4b76768b809e34ea40f7eb2249e46a91d",
+    "name": "DLS Purple Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "assistant-color/dls/purple/light": "enabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "AI-Assistant"
+  },
+  {
+    "id": "ed41fac1b4c0226954349309721d12305bd5d2f8",
+    "name": "DLS Purple Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "assistant-color/dls/purple/dark": "enabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "AI-Assistant"
+  },
+  {
+    "id": "de3681df9fa36b03b5e6e086be3c0c5a582a7e88",
+    "name": "DLS Purple Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "assistant-color/dls/purple/expressive": "enabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "AI-Assistant"
+  },
+  {
+    "id": "86aae78cd57394d8aac13abada9afd60478f0751",
+    "name": "Dense",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "density/dense": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Density"
+  },
+  {
+    "id": "deecab8b28ed67955d82e6ff459610deb95f3eea",
+    "name": "Regular",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "density/regular": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Density"
+  },
+  {
+    "id": "a77d801cf88c11d51a5bf74862b5c673c937b48b",
+    "name": "Confortable",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "density/confortable": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Density"
+  },
+  {
+    "id": "59b2fc29b263b592a66612e637d18d21919c0f2b",
+    "name": "xx-Small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/xx-small": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "cbbc1554aec09046c82c97db703a96646d15f1e5",
+    "name": "x-Small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/x-small": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "25839397f257063553b51dcf0c9d1f980050c1e9",
+    "name": "Small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/small": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "fd9b053c00710889f09b283173a5565d6332809f",
+    "name": "Medium",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/medium": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "e537bbf55a042cb3b84fb0f77583e14567886c35",
+    "name": "Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/large": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "8e949f3fe7fa73fa4f67e96b6fc7295e0fa27883",
+    "name": "x-Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/x-large": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "78f9a82d408b2d301e69a4d252cba8e1b9a090c2",
+    "name": "xx-Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/xx-large": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "bc02bef7b4984562231023eddf0331c2276a377d",
+    "name": "xxx-Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/xxx-large": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "5e38cc966433da9806c5770003979da96ece8cf3",
+    "name": "Small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "font-size/small": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Typography"
+  },
+  {
+    "id": "69258bbed1b93c614d214aaf62ca902c1147c995",
+    "name": "Medium",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "font-size/medium": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Typography"
+  },
+  {
+    "id": "4016e7cc257beaa749d8807ba0c1760d3a365cb8",
+    "name": "Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "font-size/large": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Typography"
+  },
+  {
+    "id": "ab8a6c7d190470fd5b7eb5a03af766f13df557cf",
+    "name": "xLarge",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "font-size/x-large": "enabled",
+      "mode/emr/expressive": "disabled",
+      "brand-color/emr/legacy-blue/expressive": "disabled",
+      "assistant-color/emr/purple/expressive": "disabled",
+      "assistant-color/dls/purple/expressive": "disabled",
+      "mode/dls/expressive": "disabled",
+      "brand-color/dls/blue/expressive": "disabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Typography"
   }
 ]
