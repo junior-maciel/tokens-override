@@ -3311,6 +3311,110 @@
         }
       }
     },
+    "ai": {
+      "purple": {
+        "2": {
+          "value": "#0c0712",
+          "type": "color"
+        },
+        "6": {
+          "value": "#201230",
+          "type": "color"
+        },
+        "10": {
+          "value": "#2d1943",
+          "type": "color"
+        },
+        "14": {
+          "value": "#3a2055",
+          "type": "color"
+        },
+        "18": {
+          "value": "#442664",
+          "type": "color"
+        },
+        "22": {
+          "value": "#4f2b73",
+          "type": "color"
+        },
+        "26": {
+          "value": "#593181",
+          "type": "color"
+        },
+        "30": {
+          "value": "#633790",
+          "type": "color"
+        },
+        "34": {
+          "value": "#6f3c9f",
+          "type": "color"
+        },
+        "38": {
+          "value": "#7741aa",
+          "type": "color"
+        },
+        "42": {
+          "value": "#8146b9",
+          "type": "color"
+        },
+        "46": {
+          "value": "#8b51bd",
+          "type": "color"
+        },
+        "50": {
+          "value": "#925cc1",
+          "type": "color"
+        },
+        "54": {
+          "value": "#9a67c5",
+          "type": "color"
+        },
+        "58": {
+          "value": "#a272ca",
+          "type": "color"
+        },
+        "62": {
+          "value": "#aa7ece",
+          "type": "color"
+        },
+        "66": {
+          "value": "#b189d2",
+          "type": "color"
+        },
+        "70": {
+          "value": "#b994d6",
+          "type": "color"
+        },
+        "74": {
+          "value": "#c19fdb",
+          "type": "color"
+        },
+        "78": {
+          "value": "#caaee0",
+          "type": "color"
+        },
+        "82": {
+          "value": "#d2b9e4",
+          "type": "color"
+        },
+        "86": {
+          "value": "#dcc8ea",
+          "type": "color"
+        },
+        "90": {
+          "value": "#e5d6f0",
+          "type": "color"
+        },
+        "94": {
+          "value": "#efe5f5",
+          "type": "color"
+        },
+        "98": {
+          "value": "#f8f4fb",
+          "type": "color"
+        }
+      }
+    },
     "size": {
       "1": {
         "value": "4px",

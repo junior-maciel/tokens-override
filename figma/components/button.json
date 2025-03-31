@@ -11,7 +11,7 @@
           "type": "color"
         },
         "primary": {
-          "value": "{color.brand.primary}",
+          "value": "{color.primary.normal}",
           "type": "color"
         },
         "secondary": {
@@ -31,7 +31,7 @@
           "type": "color"
         },
         "on-primary": {
-          "value": "{color.brand.on-primary}",
+          "value": "{color.on-primary.normal}",
           "type": "color"
         },
         "on-secondary": {
