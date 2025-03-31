@@ -2,44 +2,36 @@
   "button": {
     "container": {
       "background": {
-        "danger": {
-          "value": "#",
-          "type": "color"
-        },
-        "caution": {
-          "value": "#",
-          "type": "color"
-        },
         "primary": {
           "value": "{color.primary.normal}",
           "type": "color"
         },
         "secondary": {
-          "value": "{color.brand.secondary}",
+          "value": "{color.secondary.normal}",
+          "type": "color"
+        },
+        "quiet": {
+          "value": "{color.quiet.normal}",
           "type": "color"
         }
       }
     },
     "label": {
       "color": {
-        "on-danger": {
-          "value": "#",
-          "type": "color"
-        },
-        "on-caution": {
-          "value": "#",
-          "type": "color"
-        },
         "on-primary": {
           "value": "{color.on-primary.normal}",
           "type": "color"
         },
         "on-secondary": {
-          "value": "{color.brand.on-secondary}",
+          "value": "{color.on-secondary.normal}",
+          "type": "color"
+        },
+        "on-quiet": {
+          "value": "{color.on-quiet.normal}",
           "type": "color"
         },
         "on-quiet-emphasis": {
-          "value": "{color.brand.primary}",
+          "value": "{color.on-quiet-emphasis.normal}",
           "type": "color"
         }
       }

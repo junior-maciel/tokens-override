@@ -24,19 +24,19 @@
     },
     "on-primary": {
       "normal": {
-        "value": "{foundation.dls.color.neutral.white}",
+        "value": "{foundation.dls.color.blue.05}",
         "type": "color"
       },
       "hover": {
-        "value": "{foundation.dls.color.neutral.white}",
+        "value": "{foundation.dls.color.blue.05}",
         "type": "color"
       },
       "active": {
-        "value": "{foundation.dls.color.neutral.white}",
+        "value": "{foundation.dls.color.blue.05}",
         "type": "color"
       },
       "selected": {
-        "value": "{foundation.dls.color.neutral.white}",
+        "value": "{foundation.dls.color.blue.05}",
         "type": "color"
       },
       "disabled": {
@@ -44,7 +44,7 @@
         "type": "color"
       }
     },
-    "primary-signal": {
+    "on-quiet-emphasis": {
       "normal": {
         "value": "{foundation.dls.color.blue.45}",
         "type": "color"
