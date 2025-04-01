@@ -41,6 +41,34 @@
           "type": "color"
         }
       }
+    },
+    "foreground": {
+      "content": {
+        "primary": {
+          "value": "{foundation.dls.color.gray.75}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.60}",
+          "type": "color"
+        }
+      },
+      "static": {
+        "primary": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.35}",
+          "type": "color"
+        }
+      },
+      "inverse": {
+        "primary": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color"
+        }
+      }
     }
   }
 }

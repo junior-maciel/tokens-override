@@ -1,7 +1,7 @@
 {
   "generation": {
     "font-family": {
-      "value": "{foundation.font-family.condensed}",
+      "value": "{foundation.font-family.sans}",
       "type": "fontFamilies"
     }
   },
@@ -34,6 +34,52 @@
       "inverse": {
         "primary": {
           "value": "{foundation.emr.color.gray.55}",
+          "type": "color"
+        }
+      }
+    },
+    "foreground": {
+      "content": {
+        "primary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      },
+      "static": {
+        "primary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      },
+      "inverse": {
+        "primary": {
+          "value": "{foundation.emr.color.neutral.white}",
           "type": "color"
         }
       }

@@ -294,6 +294,10 @@
         "primary": {
           "value": "{foundation.dls.color.blue.45}",
           "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.blue.40}",
+          "type": "color"
         }
       }
     }
