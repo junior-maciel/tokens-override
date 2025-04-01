@@ -19,6 +19,10 @@
         "tertiary": {
           "value": "{foundation.emr.color.gray.20}",
           "type": "color"
+        },
+        "color": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color"
         }
       },
       "static": {

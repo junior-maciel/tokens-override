@@ -12,6 +12,10 @@
           "value": "{foundation.dls.color.neutral.white}",
           "type": "color"
         },
+        "color": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color"
+        },
         "secondary": {
           "value": "{foundation.dls.color.gray.05}",
           "type": "color"

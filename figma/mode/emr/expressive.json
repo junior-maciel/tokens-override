@@ -9,7 +9,7 @@
     "surface": {
       "content": {
         "primary": {
-          "value": "linear-gradient(-45deg, {foundation.emr.color.blue.45} 0%, {foundation.emr.color.blue.75} 100%)",
+          "value": "linear-gradient(-90deg, {foundation.emr.color.blue.45} 0%, {foundation.emr.color.blue.75} 100%)",
           "type": "color"
         },
         "secondary": {
@@ -18,6 +18,10 @@
         },
         "tertiary": {
           "value": "{foundation.emr.color.blue.55}",
+          "type": "color"
+        },
+        "color": {
+          "value": "linear-gradient(-90deg, {foundation.emr.color.blue.45} 0%, {foundation.emr.color.blue.75} 100%)",
           "type": "color"
         }
       },

@@ -35,6 +35,12 @@
         "value": "{foundation.emr.color.gray.10}",
         "type": "color"
       }
+    },
+    "on-primary": {
+      "normal": {
+        "value": "{foundation.emr.color.neutral.white}",
+        "type": "color"
+      }
     }
   }
 }

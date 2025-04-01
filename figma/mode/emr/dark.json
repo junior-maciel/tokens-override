@@ -17,7 +17,11 @@
           "type": "color"
         },
         "tertiary": {
-          "value": "{foundation.emr.color.gray.75}",
+          "value": "{foundation.emr.color.gray.70}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{foundation.emr.color.gray.65}",
           "type": "color"
         }
       },
@@ -27,7 +31,7 @@
           "type": "color"
         },
         "secondary": {
-          "value": "{foundation.emr.color.gray.70}",
+          "value": "{foundation.emr.color.gray.65}",
           "type": "color"
         },
         "tertiary": {

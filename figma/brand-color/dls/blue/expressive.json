@@ -298,6 +298,14 @@
         "secondary": {
           "value": "{foundation.dls.color.blue.40}",
           "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.dls.color.blue.50}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{foundation.dls.color.blue.45}",
+          "type": "color"
         }
       }
     }
