@@ -3,7 +3,7 @@
     "primary-area": {
       "background": {
         "default": {
-          "value": "{color.surface.static.tertiary}",
+          "value": "{color.surface.static.primary}",
           "type": "color"
         }
       }
@@ -19,11 +19,11 @@
     "label": {
       "color": {
         "primary": {
-          "value": "{foundation.emr.color.neutral.white}",
+          "value": "{color.foreground.static.primary}",
           "type": "color"
         },
         "secondary": {
-          "value": "{foundation.emr.color.gray.15}",
+          "value": "{color.foreground.static.secondary}",
           "type": "color"
         }
       }

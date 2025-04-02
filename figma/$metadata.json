@@ -78,6 +78,7 @@
     "components/label",
     "components/popover",
     "components/tag",
+    "components/tooltip",
     "components/informational-bar"
   ]
 }

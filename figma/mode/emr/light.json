@@ -72,6 +72,20 @@
           "value": "{foundation.emr.color.neutral.white}",
           "type": "color"
         }
+      },
+      "accent": {
+        "normal": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color"
+        }
+      }
+    },
+    "background": {
+      "accent": {
+        "normal": {
+          "value": "{foundation.emr.color.green.55}",
+          "type": "color"
+        }
       }
     }
   }

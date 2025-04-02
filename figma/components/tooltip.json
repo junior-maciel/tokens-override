@@ -1,0 +1,16 @@
+{
+  "tooltip": {
+    "background": {
+      "default": {
+        "value": "{color.surface.inverse.primary}",
+        "type": "color"
+      }
+    },
+    "foreground": {
+      "default": {
+        "value": "{color.foreground.inverse.primary}",
+        "type": "color"
+      }
+    }
+  }
+}

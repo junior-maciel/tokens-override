@@ -13,6 +13,10 @@
         "quiet": {
           "value": "{color.quiet.normal}",
           "type": "color"
+        },
+        "accent": {
+          "value": "{color.background.accent.normal}",
+          "type": "color"
         }
       }
     },
@@ -32,6 +36,10 @@
         },
         "on-quiet-emphasis": {
           "value": "{color.on-quiet-emphasis.normal}",
+          "type": "color"
+        },
+        "on-accent": {
+          "value": "{color.foreground.accent.normal}",
           "type": "color"
         }
       }
