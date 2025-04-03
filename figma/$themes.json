@@ -11,18 +11,7 @@
       "components/label": "enabled",
       "components/tooltip": "enabled",
       "components/info-icon": "enabled",
-      "components/notification": "enabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "components/notification": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Components"
@@ -34,19 +23,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "brand-color/emr/legacy-blue/light": "enabled",
-      "mode/emr/light": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "mode/emr/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -58,19 +35,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "brand-color/emr/legacy-blue/dark": "enabled",
-      "mode/emr/dark": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "mode/emr/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -82,19 +47,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/emr/expressive": "enabled",
-      "brand-color/emr/legacy-blue/expressive": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "brand-color/emr/legacy-blue/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -106,19 +59,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/dls/light": "enabled",
-      "brand-color/dls/blue/light": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "brand-color/dls/blue/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -130,19 +71,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/dls/dark": "enabled",
-      "brand-color/dls/blue/dark": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "brand-color/dls/blue/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -154,19 +83,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/dls/expressive": "enabled",
-      "brand-color/dls/blue/expressive": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "brand-color/dls/blue/expressive": "enabled"
     },
     "group": "Mode",
     "$figmaVariableReferences": {}
@@ -178,19 +95,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/filament/light": "enabled",
-      "brand-color/filament/blue/light": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "brand-color/filament/blue/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -202,19 +107,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/filament/dark": "enabled",
-      "brand-color/filament/blue/dark": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "brand-color/filament/blue/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -226,19 +119,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "assistant-color/dls/purple/dark": "enabled",
-      "mode/filament/expressive": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "mode/filament/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -248,19 +129,7 @@
     "name": "DLS Aqua Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/dls/aqua/light": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "brand-color/dls/aqua/light": "enabled"
     },
     "group": "Main Color",
     "$figmaVariableReferences": {}
@@ -270,19 +139,7 @@
     "name": "EMR Purple Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/emr/purple/light": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "assistant-color/emr/purple/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -292,19 +149,7 @@
     "name": "EMR Purple Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/emr/purple/dark": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "assistant-color/emr/purple/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -314,19 +159,7 @@
     "name": "EMR Purple Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/emr/purple/expressive": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "assistant-color/emr/purple/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -336,19 +169,7 @@
     "name": "DLS Purple Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/dls/purple/light": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "assistant-color/dls/purple/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -358,19 +179,7 @@
     "name": "DLS Purple Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/dls/purple/dark": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "assistant-color/dls/purple/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -380,19 +189,7 @@
     "name": "DLS Purple Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/dls/purple/expressive": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "assistant-color/dls/purple/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -402,19 +199,7 @@
     "name": "Dense",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/dense": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "density/dense": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Density"
@@ -424,19 +209,7 @@
     "name": "Regular",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/regular": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "density/regular": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Density"
@@ -446,19 +219,7 @@
     "name": "Confortable",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/confortable": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "density/confortable": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Density"
@@ -468,19 +229,7 @@
     "name": "xx-Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/xx-small": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "breakpoints/xx-small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -490,19 +239,7 @@
     "name": "x-Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/x-small": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "breakpoints/x-small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -512,19 +249,7 @@
     "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/small": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "breakpoints/small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -534,19 +259,7 @@
     "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/medium": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "breakpoints/medium": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -556,19 +269,7 @@
     "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/large": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "breakpoints/large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -578,19 +279,7 @@
     "name": "x-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/x-large": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "breakpoints/x-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -600,19 +289,7 @@
     "name": "xx-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/xx-large": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "breakpoints/xx-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -622,19 +299,7 @@
     "name": "xxx-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/xxx-large": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "breakpoints/xxx-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -644,19 +309,7 @@
     "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/small": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "font-size/small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
@@ -666,19 +319,7 @@
     "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/medium": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "font-size/medium": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
@@ -688,19 +329,7 @@
     "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/large": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "font-size/large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
@@ -710,19 +339,7 @@
     "name": "xLarge",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/x-large": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "font-size/x-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
@@ -732,19 +349,7 @@
     "name": "DLS Aqua Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/dls/aqua/dark": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "brand-color/dls/aqua/dark": "enabled"
     },
     "group": "Main Color",
     "$figmaVariableReferences": {}
@@ -754,19 +359,7 @@
     "name": "DLS Aqua Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/dls/aqua/expressive": "enabled",
-      "components/notification": "disabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "brand-color/dls/aqua/expressive": "enabled"
     },
     "group": "Main Color",
     "$figmaVariableReferences": {}
@@ -776,18 +369,7 @@
     "name": "EMR Japan Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/emr/japan/light": "enabled",
-      "localization/emr/japan/expressive": "disabled",
-      "localization/dls/japan/expressive": "disabled",
-      "localization/filament/japan/expressive": "disabled",
-      "brand-color/filament/blue/expressive": "disabled",
-      "brand-color/filament/aqua/expressive": "disabled",
-      "brand-color/filament/green/expressive": "disabled",
-      "brand-color/filament/magenta/expressive": "disabled",
-      "brand-color/filament/purple/expressive": "disabled",
-      "assistant-color/filament/purple/dark": "disabled",
-      "assistant-color/filament/purple/light": "disabled",
-      "assistant-color/filament/purple/expressive": "disabled"
+      "localization/emr/japan/light": "enabled"
     },
     "group": "Localization",
     "$figmaVariableReferences": {}
