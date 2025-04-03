@@ -22,8 +22,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "brand-color/emr/legacy-blue/light": "enabled",
-      "mode/emr/light": "enabled",
-      "components/info-icon": "disabled"
+      "mode/emr/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -35,8 +34,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "brand-color/emr/legacy-blue/dark": "enabled",
-      "mode/emr/dark": "enabled",
-      "components/info-icon": "disabled"
+      "mode/emr/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -48,8 +46,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/emr/expressive": "enabled",
-      "brand-color/emr/legacy-blue/expressive": "enabled",
-      "components/info-icon": "disabled"
+      "brand-color/emr/legacy-blue/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -61,8 +58,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/dls/light": "enabled",
-      "brand-color/dls/blue/light": "enabled",
-      "components/info-icon": "disabled"
+      "brand-color/dls/blue/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -74,8 +70,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/dls/dark": "enabled",
-      "brand-color/dls/blue/dark": "enabled",
-      "components/info-icon": "disabled"
+      "brand-color/dls/blue/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -87,8 +82,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/dls/expressive": "enabled",
-      "brand-color/dls/blue/expressive": "enabled",
-      "components/info-icon": "disabled"
+      "brand-color/dls/blue/expressive": "enabled"
     },
     "group": "Mode"
   },
@@ -99,8 +93,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/filament/light": "enabled",
-      "brand-color/filament/blue/light": "enabled",
-      "components/info-icon": "disabled"
+      "brand-color/filament/blue/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -112,8 +105,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/filament/dark": "enabled",
-      "brand-color/filament/blue/dark": "enabled",
-      "components/info-icon": "disabled"
+      "brand-color/filament/blue/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -125,8 +117,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "assistant-color/dls/purple/dark": "enabled",
-      "mode/filament/expressive": "enabled",
-      "components/info-icon": "disabled"
+      "mode/filament/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -136,8 +127,7 @@
     "name": "DLS Aqua Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/dls/aqua/light": "enabled",
-      "components/info-icon": "disabled"
+      "brand-color/dls/aqua/light": "enabled"
     },
     "group": "Main Color"
   },
@@ -146,8 +136,7 @@
     "name": "EMR Purple Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/emr/purple/light": "enabled",
-      "components/info-icon": "disabled"
+      "assistant-color/emr/purple/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -157,8 +146,7 @@
     "name": "EMR Purple Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/emr/purple/dark": "enabled",
-      "components/info-icon": "disabled"
+      "assistant-color/emr/purple/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -168,8 +156,7 @@
     "name": "EMR Purple Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/emr/purple/expressive": "enabled",
-      "components/info-icon": "disabled"
+      "assistant-color/emr/purple/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -179,8 +166,7 @@
     "name": "DLS Purple Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/dls/purple/light": "enabled",
-      "components/info-icon": "disabled"
+      "assistant-color/dls/purple/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -190,8 +176,7 @@
     "name": "DLS Purple Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/dls/purple/dark": "enabled",
-      "components/info-icon": "disabled"
+      "assistant-color/dls/purple/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -201,8 +186,7 @@
     "name": "DLS Purple Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant-color/dls/purple/expressive": "enabled",
-      "components/info-icon": "disabled"
+      "assistant-color/dls/purple/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -212,8 +196,7 @@
     "name": "Dense",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/dense": "enabled",
-      "components/info-icon": "disabled"
+      "density/dense": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Density"
@@ -223,8 +206,7 @@
     "name": "Regular",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/regular": "enabled",
-      "components/info-icon": "disabled"
+      "density/regular": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Density"
@@ -234,8 +216,7 @@
     "name": "Confortable",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/confortable": "enabled",
-      "components/info-icon": "disabled"
+      "density/confortable": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Density"
@@ -245,8 +226,7 @@
     "name": "xx-Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/xx-small": "enabled",
-      "components/info-icon": "disabled"
+      "breakpoints/xx-small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -256,8 +236,7 @@
     "name": "x-Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/x-small": "enabled",
-      "components/info-icon": "disabled"
+      "breakpoints/x-small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -267,8 +246,7 @@
     "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/small": "enabled",
-      "components/info-icon": "disabled"
+      "breakpoints/small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -278,8 +256,7 @@
     "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/medium": "enabled",
-      "components/info-icon": "disabled"
+      "breakpoints/medium": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -289,8 +266,7 @@
     "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/large": "enabled",
-      "components/info-icon": "disabled"
+      "breakpoints/large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -300,8 +276,7 @@
     "name": "x-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/x-large": "enabled",
-      "components/info-icon": "disabled"
+      "breakpoints/x-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -311,8 +286,7 @@
     "name": "xx-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/xx-large": "enabled",
-      "components/info-icon": "disabled"
+      "breakpoints/xx-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -322,8 +296,7 @@
     "name": "xxx-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/xxx-large": "enabled",
-      "components/info-icon": "disabled"
+      "breakpoints/xxx-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -333,8 +306,7 @@
     "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/small": "enabled",
-      "components/info-icon": "disabled"
+      "font-size/small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
@@ -344,8 +316,7 @@
     "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/medium": "enabled",
-      "components/info-icon": "disabled"
+      "font-size/medium": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
@@ -355,8 +326,7 @@
     "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/large": "enabled",
-      "components/info-icon": "disabled"
+      "font-size/large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
@@ -366,8 +336,7 @@
     "name": "xLarge",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/x-large": "enabled",
-      "components/info-icon": "disabled"
+      "font-size/x-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
@@ -377,8 +346,7 @@
     "name": "DLS Aqua Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/dls/aqua/dark": "enabled",
-      "components/info-icon": "disabled"
+      "brand-color/dls/aqua/dark": "enabled"
     },
     "group": "Main Color"
   },
@@ -387,8 +355,7 @@
     "name": "DLS Aqua Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand-color/dls/aqua/expressive": "enabled",
-      "components/info-icon": "disabled"
+      "brand-color/dls/aqua/expressive": "enabled"
     },
     "group": "Main Color"
   }
