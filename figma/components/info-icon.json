@@ -1,0 +1,12 @@
+{
+  "info-icon": {
+    "icon": {
+      "color": {
+        "default": {
+          "value": "{color.foreground.alert.neutral}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -46,6 +46,14 @@
         }
       }
     },
+    "background": {
+      "accent": {
+        "normal": {
+          "value": "{foundation.emr.signal.lime.60}",
+          "type": "color"
+        }
+      }
+    },
     "foreground": {
       "content": {
         "primary": {
@@ -94,14 +102,6 @@
       "accent": {
         "normal": {
           "value": "{foundation.emr.color.gray.75}",
-          "type": "color"
-        }
-      }
-    },
-    "background": {
-      "accent": {
-        "normal": {
-          "value": "{foundation.emr.signal.lime.60}",
           "type": "color"
         }
       }
