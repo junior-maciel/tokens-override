@@ -17,6 +17,10 @@
         "accent": {
           "value": "{color.background.accent.normal}",
           "type": "color"
+        },
+        "danger": {
+          "value": "{color.background.alert.high.danger}",
+          "type": "color"
         }
       }
     },
@@ -40,6 +44,10 @@
         },
         "on-accent": {
           "value": "{color.foreground.accent.normal}",
+          "type": "color"
+        },
+        "on-danger": {
+          "value": "{color.foreground.alert.high.on-danger}",
           "type": "color"
         }
       }
