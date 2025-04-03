@@ -72,6 +72,20 @@
           "value": "{foundation.dls.color.neutral.white}",
           "type": "color"
         }
+      },
+      "accent": {
+        "normal": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color"
+        }
+      }
+    },
+    "background": {
+      "accent": {
+        "normal": {
+          "value": "{foundation.dls.color.green.55}",
+          "type": "color"
+        }
       }
     }
   }
