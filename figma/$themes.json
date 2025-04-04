@@ -85,8 +85,8 @@
       "mode/dls/expressive": "enabled",
       "brand-color/dls/blue/expressive": "enabled"
     },
-    "group": "Mode",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "Mode"
   },
   {
     "id": "f5588f3d20b50476a0c32850a754cfba0a4dbad2",
@@ -131,8 +131,28 @@
     "selectedTokenSets": {
       "brand-color/dls/aqua/light": "enabled"
     },
-    "group": "Main Color",
-    "$figmaVariableReferences": {}
+    "$figmaVariableReferences": {},
+    "group": "Main Color"
+  },
+  {
+    "id": "4a16c9a36c4714ebf8cbc5f6801262c0b8ab2228",
+    "name": "DLS Aqua Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand-color/dls/aqua/dark": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Main Color"
+  },
+  {
+    "id": "e4ff9780cff8be706a205eb940d266f373a5687b",
+    "name": "DLS Aqua Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand-color/dls/aqua/expressive": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Main Color"
   },
   {
     "id": "cda96be53868c83d7a542e894c57887b9911ffa2",
@@ -193,6 +213,16 @@
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
+  },
+  {
+    "id": "edd5dd39ac8fa3ce4f9d5f77bf4f443a414f7593",
+    "name": "EMR Japan Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/emr/japan/light": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Localization"
   },
   {
     "id": "86aae78cd57394d8aac13abada9afd60478f0751",
@@ -343,35 +373,5 @@
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
-  },
-  {
-    "id": "4a16c9a36c4714ebf8cbc5f6801262c0b8ab2228",
-    "name": "DLS Aqua Dark",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand-color/dls/aqua/dark": "enabled"
-    },
-    "group": "Main Color",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "e4ff9780cff8be706a205eb940d266f373a5687b",
-    "name": "DLS Aqua Expressive",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand-color/dls/aqua/expressive": "enabled"
-    },
-    "group": "Main Color",
-    "$figmaVariableReferences": {}
-  },
-  {
-    "id": "edd5dd39ac8fa3ce4f9d5f77bf4f443a414f7593",
-    "name": "EMR Japan Light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "localization/emr/japan/light": "enabled"
-    },
-    "group": "Localization",
-    "$figmaVariableReferences": {}
   }
 ]
