@@ -1,0 +1,102 @@
+{
+  "generation": {
+    "font-family": {
+      "value": "{foundation.font-family.sans}",
+      "type": "fontFamilies"
+    }
+  },
+  "color": {
+    "surface": {
+      "content": {
+        "secondary": {
+          "value": "{foundation.emr.color.gray.05}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.emr.color.gray.20}",
+          "type": "color"
+        }
+      },
+      "static": {
+        "primary": {
+          "value": "{foundation.emr.color.gray.75}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.gray.70}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.emr.color.neutral.black}",
+          "type": "color"
+        }
+      },
+      "inverse": {
+        "primary": {
+          "value": "{foundation.emr.color.gray.55}",
+          "type": "color"
+        }
+      }
+    },
+    "background": {
+      "accent": {
+        "normal": {
+          "value": "{foundation.dls.signal.lime.60}",
+          "type": "color"
+        }
+      }
+    },
+    "foreground": {
+      "content": {
+        "primary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      },
+      "static": {
+        "primary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      },
+      "inverse": {
+        "primary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "normal": {
+          "value": "{foundation.dls.color.gray.75}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "popover": {
+    "background": {
+      "default": {
+        "value": "{color.surface.content.primary}",
+        "type": "color"
+      }
+    },
+    "foreground": {
+      "heading": {
+        "default": {
+          "value": "{color.foreground.content.primary}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

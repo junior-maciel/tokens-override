@@ -1,188 +1,432 @@
 [
   {
-    "id": "57f705d73e2f9ef714baf18aa2504a4ee726b520",
-    "name": "EMR",
+    "id": "82e9036d08070796ff9f082904d90d4a5b745f9a",
+    "name": "All components",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "generation/emr": "enabled",
-      "primitives/foundation": "enabled"
+      "design-system/components/button": "enabled",
+      "design-system/base-components/base-bar": "enabled",
+      "design-system/layout/grid-layout": "enabled",
+      "design-system/components/label": "enabled",
+      "design-system/components/popover": "enabled",
+      "design-system/components/tag": "enabled",
+      "design-system/components/tooltip": "enabled",
+      "design-system/components/info-icon": "enabled",
+      "design-system/components/notification": "enabled",
+      "design-system/components/informational-bar": "enabled"
     },
-    "group": "Generation"
+    "$figmaVariableReferences": {},
+    "group": "Components"
   },
   {
-    "id": "6a2fff7ac1c2cac90af054906e83b5fec911b8da",
-    "name": "DLS",
+    "id": "42b49d53f47ff24f098607b7c1d85364eb622637",
+    "name": "EMR Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "generation/dls": "enabled",
-      "primitives/foundation": "enabled"
+      "foundation/primitives": "enabled",
+      "mode/emr/light": "enabled",
+      "brand/emr/legacy-blue/light": "enabled",
+      "foundation/emr": "enabled"
     },
-    "group": "Generation"
-  },
-  {
-    "id": "baba4c728387d293748947cbfefa8692f9d6fccf",
-    "name": "Light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "mode/light": "enabled"
-    },
+    "$figmaVariableReferences": {},
     "group": "Mode"
   },
   {
-    "id": "b45317ce17fa307664291110f789abfc1dc13309",
-    "name": "Dark",
+    "id": "79a7dbc0c2ef8e68d09c45f15e256dcdf55f8bb9",
+    "name": "EMR Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "mode/dark": "enabled"
+      "foundation/primitives": "enabled",
+      "mode/emr/dark": "enabled",
+      "brand/emr/legacy-blue/dark": "enabled",
+      "foundation/emr": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "Mode"
   },
   {
-    "id": "8aae83959e1e1128e084e8fba4fc47f61ee62cee",
-    "name": "Legacy-Blue",
+    "id": "3aa43b0e54f9356dc98e6fb68b929c4cbf23caa3",
+    "name": "EMR Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/legacy-blue": "enabled"
+      "foundation/primitives": "enabled",
+      "mode/emr/expressive": "enabled",
+      "brand/emr/legacy-blue/expressive": "enabled",
+      "foundation/emr": "enabled"
     },
-    "group": "Brand"
+    "$figmaVariableReferences": {},
+    "group": "Mode"
   },
   {
-    "id": "31ccdde0d956c78b542ebe2bec68f9f88abaa0ab",
-    "name": "Blue",
+    "id": "72466f71350a7553fb3af6e3a30d457e9921a269",
+    "name": "DLS Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/blue": "enabled"
+      "foundation/primitives": "enabled",
+      "mode/dls/light": "enabled",
+      "brand/dls/blue/light": "enabled",
+      "foundation/dls": "enabled"
     },
-    "group": "Brand"
+    "$figmaVariableReferences": {},
+    "group": "Mode"
   },
   {
-    "id": "fd5876f212a8b1fae14f9174a4b14d219f567d11",
-    "name": "Green",
+    "id": "95b2bf0e204c1688d2984c7a54b74e69535609da",
+    "name": "DLS Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/green": "enabled"
+      "foundation/primitives": "enabled",
+      "mode/dls/dark": "enabled",
+      "brand/dls/blue/dark": "enabled",
+      "foundation/dls": "enabled"
     },
-    "group": "Brand"
+    "$figmaVariableReferences": {},
+    "group": "Mode"
   },
   {
-    "id": "ba464a22f1a043b08be570d981085108591c5609",
-    "name": "Pink",
+    "id": "ae33f2eb21097c6f85b3030c99e026c76a162036",
+    "name": "DLS Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/pink": "enabled"
+      "foundation/primitives": "enabled",
+      "mode/dls/expressive": "enabled",
+      "brand/dls/blue/expressive": "enabled",
+      "foundation/dls": "enabled"
     },
-    "group": "Brand"
+    "$figmaVariableReferences": {},
+    "group": "Mode"
   },
   {
-    "id": "63ca48d76e9fc87446f147bbbddf275cbf0ec124",
-    "name": "Purple",
+    "id": "f5588f3d20b50476a0c32850a754cfba0a4dbad2",
+    "name": "FIL Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/purple": "enabled"
+      "foundation/primitives": "enabled",
+      "mode/filament/light": "enabled",
+      "brand/filament/blue/light": "enabled",
+      "foundation/filament": "enabled"
     },
-    "group": "Brand"
+    "$figmaVariableReferences": {},
+    "group": "Mode"
   },
   {
-    "id": "ed7437c41aa1f51970fda42decd2efd6d8d66de3",
-    "name": "Custom",
+    "id": "022211a6c77183428ef6093b96f93098bb0e4e5e",
+    "name": "FIL Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/custom": "enabled"
+      "foundation/primitives": "enabled",
+      "mode/filament/dark": "enabled",
+      "brand/filament/blue/dark": "enabled",
+      "foundation/filament": "enabled"
     },
-    "group": "Brand"
+    "$figmaVariableReferences": {},
+    "group": "Mode"
   },
   {
-    "id": "9185a140420d4816d1f4c10d1b5df78242f05b3d",
-    "name": "Global",
+    "id": "c99a78354a226d818c5c2489c2377f7e280843de",
+    "name": "FIL Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/global": "enabled"
+      "foundation/primitives": "enabled",
+      "mode/filament/expressive": "enabled",
+      "assistant/dls/purple/dark": "enabled",
+      "foundation/filament": "enabled"
     },
+    "$figmaVariableReferences": {},
+    "group": "Mode"
+  },
+  {
+    "id": "3c3dcf178732e43b4d1be68f2ebbf996d3b60176",
+    "name": "DLS Aqua Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/dls/aqua/light": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Main Color"
+  },
+  {
+    "id": "4a16c9a36c4714ebf8cbc5f6801262c0b8ab2228",
+    "name": "DLS Aqua Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/dls/aqua/dark": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Main Color"
+  },
+  {
+    "id": "e4ff9780cff8be706a205eb940d266f373a5687b",
+    "name": "DLS Aqua Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "brand/dls/aqua/expressive": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Main Color"
+  },
+  {
+    "id": "cda96be53868c83d7a542e894c57887b9911ffa2",
+    "name": "EMR Purple Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "assistant/emr/purple/light": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "AI-Assistant"
+  },
+  {
+    "id": "7e2c76c8c024b08cd7f940b5f81798d8ce9f0363",
+    "name": "EMR Purple Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "assistant/emr/purple/dark": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "AI-Assistant"
+  },
+  {
+    "id": "86256022255117b56d579439a5762c0339a8c61c",
+    "name": "EMR Purple Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "assistant/emr/purple/expressive": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "AI-Assistant"
+  },
+  {
+    "id": "d3dd9aa4b76768b809e34ea40f7eb2249e46a91d",
+    "name": "DLS Purple Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "assistant/dls/purple/light": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "AI-Assistant"
+  },
+  {
+    "id": "ed41fac1b4c0226954349309721d12305bd5d2f8",
+    "name": "DLS Purple Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "assistant/dls/purple/dark": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "AI-Assistant"
+  },
+  {
+    "id": "de3681df9fa36b03b5e6e086be3c0c5a582a7e88",
+    "name": "DLS Purple Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "assistant/dls/purple/expressive": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "AI-Assistant"
+  },
+  {
+    "id": "edd5dd39ac8fa3ce4f9d5f77bf4f443a414f7593",
+    "name": "EMR Japan Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/emr/japan/light": "enabled"
+    },
+    "$figmaVariableReferences": {},
     "group": "Localization"
   },
   {
-    "id": "bad9d40ca30536ad9880e736f9199eb7c9cbe38f",
+    "id": "86aae78cd57394d8aac13abada9afd60478f0751",
     "name": "Dense",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "density/dense": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "Density"
   },
   {
-    "id": "d0601be410d29b7224828afc0012927e83f3d23e",
+    "id": "deecab8b28ed67955d82e6ff459610deb95f3eea",
     "name": "Regular",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "density/regular": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "Density"
   },
   {
-    "id": "adcc9aca02eb100e21b75be33fce18582cfc0083",
+    "id": "a77d801cf88c11d51a5bf74862b5c673c937b48b",
     "name": "Confortable",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "density/confortable": "enabled"
     },
+    "$figmaVariableReferences": {},
     "group": "Density"
   },
   {
-    "id": "6b5da912876d7aec7a2a6cf2ba5420e99231e6f3",
+    "id": "59b2fc29b263b592a66612e637d18d21919c0f2b",
+    "name": "xx-Small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/xx-small": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "cbbc1554aec09046c82c97db703a96646d15f1e5",
+    "name": "x-Small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/x-small": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "25839397f257063553b51dcf0c9d1f980050c1e9",
     "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/small": "enabled"
+      "breakpoints/small": "enabled"
     },
-    "group": "Typography"
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
   },
   {
-    "id": "d6f112a0580c9e582fea6424b139f166de13a064",
+    "id": "fd9b053c00710889f09b283173a5565d6332809f",
     "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/medium": "enabled"
+      "breakpoints/medium": "enabled"
     },
-    "group": "Typography"
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
   },
   {
-    "id": "f34404183cf192e445ce28d384f5e02a58878d48",
+    "id": "e537bbf55a042cb3b84fb0f77583e14567886c35",
     "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "typography/large": "enabled"
+      "breakpoints/large": "enabled"
     },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "8e949f3fe7fa73fa4f67e96b6fc7295e0fa27883",
+    "name": "x-Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/x-large": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "78f9a82d408b2d301e69a4d252cba8e1b9a090c2",
+    "name": "xx-Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/xx-large": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "bc02bef7b4984562231023eddf0331c2276a377d",
+    "name": "xxx-Large",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "breakpoints/xxx-large": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Breakpoint"
+  },
+  {
+    "id": "5e38cc966433da9806c5770003979da96ece8cf3",
+    "name": "Small",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "font-size/small": "enabled"
+    },
+    "$figmaVariableReferences": {},
     "group": "Typography"
   },
   {
-    "id": "82e9036d08070796ff9f082904d90d4a5b745f9a",
-    "name": "All components",
+    "id": "69258bbed1b93c614d214aaf62ca902c1147c995",
+    "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "components/button": "enabled",
-      "components/popover": "enabled",
-      "components/tag": "enabled",
-      "components/informational-bar": "enabled",
-      "components/label": "enabled"
+      "font-size/medium": "enabled"
     },
-    "group": "Components"
+    "$figmaVariableReferences": {},
+    "group": "Typography"
   },
   {
-    "id": "de18c2ad6a06b502c4c2f2eb1146281797288204",
-    "name": "Filament",
+    "id": "4016e7cc257beaa749d8807ba0c1760d3a365cb8",
+    "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "generation/filament": "enabled",
-      "primitives/foundation": "enabled"
+      "font-size/large": "enabled"
     },
-    "group": "Generation"
+    "$figmaVariableReferences": {},
+    "group": "Typography"
   },
   {
-    "id": "b7d0fddc56d95a691d73b02bb75f92d8911a273b",
-    "name": "Alemanha",
+    "id": "ab8a6c7d190470fd5b7eb5a03af766f13df557cf",
+    "name": "xLarge",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/alemanha": "enabled"
+      "font-size/x-large": "enabled"
+    },
+    "$figmaVariableReferences": {},
+    "group": "Typography"
+  },
+  {
+    "id": "d17468e317307c006b5b2477c5eab9954ec37604",
+    "name": "EMR Japan Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/emr/japan/dark": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "4c290e1f36e85888fced1c5cf8236fe31a0e975b",
+    "name": "EMR Japan Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/emr/japan/expressive": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "441c8ac0a5713731499232a03767091a573041c4",
+    "name": "DLS Japan Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/dls/japan/light": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "941aa7f5bccdd6b23a6699636e78b9f65a2a0105",
+    "name": "DLS Japan Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/dls/japan/dark": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "62f37996b1afef7e66a788de235a88b65f352b16",
+    "name": "DLS Japan Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/dls/japan/expressive": "enabled"
     },
     "group": "Localization"
   }

@@ -1,0 +1,324 @@
+{
+  "generation": {
+    "font-family": {
+      "value": "{foundation.font-family.condensed}",
+      "type": "fontFamilies"
+    }
+  },
+  "color": {
+    "surface": {
+      "content": {
+        "primary": {
+          "value": "linear-gradient(-90deg, {foundation.emr.color.blue.45} 0%, {foundation.emr.color.blue.75} 100%)",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.blue.50}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.emr.color.blue.55}",
+          "type": "color"
+        },
+        "color": {
+          "value": "linear-gradient(-90deg, {foundation.emr.color.blue.45} 0%, {foundation.emr.color.blue.75} 100%)",
+          "type": "color"
+        }
+      },
+      "static": {
+        "primary": {
+          "value": "{foundation.emr.color.gray.75}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.gray.70}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.emr.color.neutral.black}",
+          "type": "color"
+        }
+      },
+      "inverse": {
+        "primary": {
+          "value": "{foundation.emr.color.gray.05}",
+          "type": "color"
+        }
+      }
+    },
+    "background": {
+      "accent": {
+        "normal": {
+          "value": "{foundation.emr.signal.lime.60}",
+          "type": "color"
+        }
+      },
+      "alert": {
+        "high": {
+          "danger": {
+            "value": "{foundation.emr.signal.red.40}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{foundation.emr.signal.orange.45}",
+            "type": "color"
+          },
+          "caution": {
+            "value": "{foundation.emr.signal.yellow.45}",
+            "type": "color"
+          },
+          "safety": {
+            "value": "{foundation.emr.signal.green.40}",
+            "type": "color"
+          },
+          "information": {
+            "value": "{foundation.emr.signal.blue.30}",
+            "type": "color"
+          },
+          "neutral": {
+            "value": "{foundation.emr.color.gray.55}",
+            "type": "color"
+          }
+        },
+        "low": {
+          "danger": {
+            "value": "{foundation.emr.signal.red.40}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "warning": {
+            "value": "{foundation.emr.signal.orange.45}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "caution": {
+            "value": "{foundation.emr.signal.yellow.45}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "safety": {
+            "value": "{foundation.emr.signal.green.40}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "information": {
+            "value": "{foundation.emr.signal.blue.30}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "neutral": {
+            "value": "{foundation.emr.color.gray.75}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "foreground": {
+      "content": {
+        "primary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      },
+      "static": {
+        "primary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      },
+      "inverse": {
+        "primary": {
+          "value": "{foundation.emr.color.gray.75}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "normal": {
+          "value": "{foundation.emr.color.gray.75}",
+          "type": "color"
+        }
+      },
+      "alert": {
+        "danger": {
+          "value": "{foundation.emr.signal.red.40}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{foundation.emr.signal.orange.45}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{foundation.emr.signal.yellow.45}",
+          "type": "color"
+        },
+        "safety": {
+          "value": "{foundation.emr.signal.green.40}",
+          "type": "color"
+        },
+        "information": {
+          "value": "{foundation.emr.signal.blue.30}",
+          "type": "color"
+        },
+        "neutral": {
+          "value": "{foundation.emr.color.gray.05}",
+          "type": "color"
+        },
+        "high": {
+          "on-danger": {
+            "value": "{foundation.emr.color.gray.75}",
+            "type": "color"
+          },
+          "on-warning": {
+            "value": "{foundation.emr.color.gray.75}",
+            "type": "color"
+          },
+          "on-caution": {
+            "value": "{foundation.emr.color.gray.75}",
+            "type": "color"
+          },
+          "on-safety": {
+            "value": "{foundation.emr.color.gray.75}",
+            "type": "color"
+          },
+          "on-information": {
+            "value": "{foundation.emr.color.gray.75}",
+            "type": "color"
+          },
+          "on-neutral": {
+            "value": "{foundation.emr.color.neutral.white}",
+            "type": "color"
+          }
+        },
+        "low": {
+          "on-danger": {
+            "value": "{foundation.emr.color.neutral.white}",
+            "type": "color"
+          },
+          "on-warning": {
+            "value": "{foundation.emr.color.neutral.white}",
+            "type": "color"
+          },
+          "on-caution": {
+            "value": "{foundation.emr.color.neutral.white}",
+            "type": "color"
+          },
+          "on-safety": {
+            "value": "{foundation.emr.color.neutral.white}",
+            "type": "color"
+          },
+          "on-information": {
+            "value": "{foundation.emr.color.neutral.white}",
+            "type": "color"
+          },
+          "on-neutral": {
+            "value": "{foundation.emr.color.neutral.white}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "border": {
+      "alert": {
+        "danger": {
+          "value": "{foundation.emr.signal.red.40}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{foundation.emr.signal.orange.45}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{foundation.emr.signal.yellow.45}",
+          "type": "color"
+        },
+        "safety": {
+          "value": "{foundation.emr.signal.green.40}",
+          "type": "color"
+        },
+        "information": {
+          "value": "{foundation.emr.signal.blue.30}",
+          "type": "color"
+        },
+        "neutral": {
+          "value": "{foundation.emr.color.neutral.white}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

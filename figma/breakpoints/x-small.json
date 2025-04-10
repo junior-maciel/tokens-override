@@ -1,40 +1,40 @@
 {
-  "density": {
-    "space": {
-      "10": {
+  "breakpoint": {
+    "gap": {
+      "xxxsmall": {
+        "value": "{foundation.space.025}",
+        "type": "spacing"
+      },
+      "xxsmall": {
+        "value": "{foundation.space.05}",
+        "type": "spacing"
+      },
+      "xsmall": {
         "value": "{foundation.space.1}",
         "type": "spacing"
       },
-      "20": {
+      "small": {
         "value": "{foundation.space.2}",
         "type": "spacing"
       },
-      "30": {
+      "medium": {
         "value": "{foundation.space.3}",
         "type": "spacing"
       },
-      "40": {
+      "large": {
         "value": "{foundation.space.4}",
         "type": "spacing"
       },
-      "50": {
+      "xlarge": {
         "value": "{foundation.space.5}",
         "type": "spacing"
       },
-      "60": {
+      "xxlarge": {
         "value": "{foundation.space.6}",
         "type": "spacing"
       },
-      "70": {
+      "xxxlarge": {
         "value": "{foundation.space.7}",
-        "type": "spacing"
-      },
-      "80": {
-        "value": "{foundation.space.8}",
-        "type": "spacing"
-      },
-      "none": {
-        "value": "{foundation.space.none}",
         "type": "spacing"
       }
     }

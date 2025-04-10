@@ -1,0 +1,70 @@
+{
+  "notification": {
+    "background": {
+      "default": {
+        "value": "{color.surface.content.primary}",
+        "type": "color"
+      }
+    },
+    "foreground": {
+      "heading": {
+        "default": {
+          "value": "{color.foreground.content.primary}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{color.foreground.alert.danger}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{color.foreground.alert.warning}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{color.foreground.alert.caution}",
+          "type": "color"
+        },
+        "safety": {
+          "value": "{color.foreground.alert.safety}",
+          "type": "color"
+        },
+        "information": {
+          "value": "{color.foreground.alert.information}",
+          "type": "color"
+        }
+      },
+      "description": {
+        "default": {
+          "value": "{color.foreground.content.secondary}",
+          "type": "color"
+        }
+      }
+    },
+    "indicator": {
+      "danger": {
+        "value": "{color.background.alert.high.danger}",
+        "type": "color"
+      },
+      "warning": {
+        "value": "{color.background.alert.high.warning}",
+        "type": "color"
+      },
+      "caution": {
+        "value": "{color.background.alert.high.caution}",
+        "type": "color"
+      },
+      "safety": {
+        "value": "{color.background.alert.high.safety}",
+        "type": "color"
+      },
+      "information": {
+        "value": "{color.background.alert.high.information}",
+        "type": "color"
+      },
+      "neutral": {
+        "value": "{color.background.alert.high.neutral}",
+        "type": "color"
+      }
+    }
+  }
+}

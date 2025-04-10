@@ -1,0 +1,60 @@
+{
+  "button": {
+    "container": {
+      "background": {
+        "primary": {
+          "value": "{color.primary.normal}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{color.secondary.normal}",
+          "type": "color"
+        },
+        "quiet": {
+          "value": "{color.quiet.normal}",
+          "type": "color"
+        },
+        "accent": {
+          "value": "{color.background.accent.normal}",
+          "type": "color"
+        },
+        "danger": {
+          "value": "{color.background.alert.high.danger}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{color.background.alert.high.caution}",
+          "type": "color"
+        }
+      }
+    },
+    "label": {
+      "color": {
+        "on-primary": {
+          "value": "{color.on-primary.normal}",
+          "type": "color"
+        },
+        "on-secondary": {
+          "value": "{color.on-secondary.normal}",
+          "type": "color"
+        },
+        "on-quiet": {
+          "value": "{color.on-quiet.normal}",
+          "type": "color"
+        },
+        "on-quiet-emphasis": {
+          "value": "{color.on-quiet-emphasis.normal}",
+          "type": "color"
+        },
+        "on-accent": {
+          "value": "{color.foreground.accent.normal}",
+          "type": "color"
+        },
+        "on-danger": {
+          "value": "{color.foreground.alert.high.on-danger}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

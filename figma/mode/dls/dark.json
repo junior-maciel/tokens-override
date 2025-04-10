@@ -1,0 +1,306 @@
+{
+  "generation": {
+    "font-family": {
+      "value": "{foundation.font-family.sans}",
+      "type": "fontFamilies"
+    }
+  },
+  "color": {
+    "surface": {
+      "content": {
+        "primary": {
+          "value": "{foundation.dls.color.gray.75}",
+          "type": "color"
+        },
+        "color": {
+          "value": "{foundation.dls.color.gray.75}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.80}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.dls.color.gray.90}",
+          "type": "color"
+        }
+      },
+      "static": {
+        "primary": {
+          "value": "{foundation.dls.color.gray.75}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.70}",
+          "type": "color"
+        },
+        "tertiary": {
+          "value": "{foundation.dls.color.neutral.black}",
+          "type": "color"
+        }
+      },
+      "inverse": {
+        "primary": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color"
+        }
+      }
+    },
+    "background": {
+      "accent": {
+        "normal": {
+          "value": "{foundation.dls.signal.lime.60}",
+          "type": "color"
+        }
+      },
+      "alert": {
+        "high": {
+          "danger": {
+            "value": "{foundation.dls.signal.red.40}",
+            "type": "color"
+          },
+          "warning": {
+            "value": "{foundation.dls.signal.orange.45}",
+            "type": "color"
+          },
+          "caution": {
+            "value": "{foundation.dls.signal.yellow.45}",
+            "type": "color"
+          },
+          "safety": {
+            "value": "{foundation.dls.signal.green.40}",
+            "type": "color"
+          },
+          "information": {
+            "value": "{foundation.dls.signal.blue.30}",
+            "type": "color"
+          },
+          "neutral": {
+            "value": "{foundation.dls.color.gray.55}",
+            "type": "color"
+          }
+        },
+        "low": {
+          "danger": {
+            "value": "{foundation.dls.signal.red.40}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "warning": {
+            "value": "{foundation.dls.signal.orange.45}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "caution": {
+            "value": "{foundation.dls.signal.yellow.45}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "safety": {
+            "value": "{foundation.dls.signal.green.40}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "information": {
+            "value": "{foundation.dls.signal.blue.30}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "0.1",
+                  "space": "srgb"
+                }
+              }
+            }
+          },
+          "neutral": {
+            "value": "{foundation.dls.color.gray.75}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "foreground": {
+      "content": {
+        "primary": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.15}",
+          "type": "color"
+        }
+      },
+      "static": {
+        "primary": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color"
+        },
+        "secondary": {
+          "value": "{foundation.dls.color.gray.35}",
+          "type": "color"
+        }
+      },
+      "inverse": {
+        "primary": {
+          "value": "{foundation.dls.color.gray.75}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "normal": {
+          "value": "{foundation.dls.color.gray.75}",
+          "type": "color"
+        }
+      },
+      "alert": {
+        "danger": {
+          "value": "{foundation.dls.signal.red.40}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{foundation.dls.signal.orange.45}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{foundation.dls.signal.yellow.45}",
+          "type": "color"
+        },
+        "safety": {
+          "value": "{foundation.dls.signal.green.40}",
+          "type": "color"
+        },
+        "information": {
+          "value": "{foundation.dls.signal.blue.30}",
+          "type": "color"
+        },
+        "neutral": {
+          "value": "{foundation.dls.color.gray.05}",
+          "type": "color"
+        },
+        "high": {
+          "on-danger": {
+            "value": "{foundation.dls.color.gray.75}",
+            "type": "color"
+          },
+          "on-warning": {
+            "value": "{foundation.dls.color.gray.75}",
+            "type": "color"
+          },
+          "on-caution": {
+            "value": "{foundation.dls.color.gray.75}",
+            "type": "color"
+          },
+          "on-safety": {
+            "value": "{foundation.dls.color.gray.75}",
+            "type": "color"
+          },
+          "on-information": {
+            "value": "{foundation.dls.color.gray.75}",
+            "type": "color"
+          },
+          "on-neutral": {
+            "value": "{foundation.dls.color.neutral.white}",
+            "type": "color"
+          }
+        },
+        "low": {
+          "on-danger": {
+            "value": "{foundation.dls.color.neutral.white}",
+            "type": "color"
+          },
+          "on-warning": {
+            "value": "{foundation.dls.color.neutral.white}",
+            "type": "color"
+          },
+          "on-caution": {
+            "value": "{foundation.dls.color.neutral.white}",
+            "type": "color"
+          },
+          "on-safety": {
+            "value": "{foundation.dls.color.neutral.white}",
+            "type": "color"
+          },
+          "on-information": {
+            "value": "{foundation.dls.color.neutral.white}",
+            "type": "color"
+          },
+          "on-neutral": {
+            "value": "{foundation.dls.color.neutral.white}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "border": {
+      "alert": {
+        "danger": {
+          "value": "{foundation.dls.signal.red.40}",
+          "type": "color"
+        },
+        "warning": {
+          "value": "{foundation.dls.signal.orange.45}",
+          "type": "color"
+        },
+        "caution": {
+          "value": "{foundation.dls.signal.yellow.45}",
+          "type": "color"
+        },
+        "safety": {
+          "value": "{foundation.dls.signal.green.40}",
+          "type": "color"
+        },
+        "information": {
+          "value": "{foundation.dls.signal.blue.30}",
+          "type": "color"
+        },
+        "neutral": {
+          "value": "{foundation.dls.color.neutral.white}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.8",
+                "space": "srgb"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
