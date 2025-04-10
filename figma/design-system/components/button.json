@@ -21,6 +21,10 @@
         "danger": {
           "value": "{color.background.alert.high.danger}",
           "type": "color"
+        },
+        "caution": {
+          "value": "{color.background.alert.high.caution}",
+          "type": "color"
         }
       }
     },
