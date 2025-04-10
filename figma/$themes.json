@@ -25,14 +25,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/emr/light": "enabled",
-      "brand/emr/legacy-blue/light": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "brand/emr/legacy-blue/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -44,14 +37,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/emr/dark": "enabled",
-      "brand/emr/legacy-blue/dark": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "brand/emr/legacy-blue/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -63,14 +49,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/emr/expressive": "enabled",
-      "brand/emr/legacy-blue/expressive": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "brand/emr/legacy-blue/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -82,14 +61,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/dls/light": "enabled",
-      "brand/dls/blue/light": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "brand/dls/blue/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -101,14 +73,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/dls/dark": "enabled",
-      "brand/dls/blue/dark": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "brand/dls/blue/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -120,14 +85,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/dls/expressive": "enabled",
-      "brand/dls/blue/expressive": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "brand/dls/blue/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -139,14 +97,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/filament/light": "enabled",
-      "brand/filament/blue/light": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "brand/filament/blue/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -158,14 +109,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/filament/dark": "enabled",
-      "brand/filament/blue/dark": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "brand/filament/blue/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -177,14 +121,7 @@
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
       "mode/filament/expressive": "enabled",
-      "assistant/dls/purple/dark": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "assistant/dls/purple/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -194,14 +131,7 @@
     "name": "DLS Aqua Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/dls/aqua/light": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "brand/dls/aqua/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Main Color"
@@ -211,14 +141,7 @@
     "name": "DLS Aqua Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/dls/aqua/dark": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "brand/dls/aqua/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Main Color"
@@ -228,14 +151,7 @@
     "name": "DLS Aqua Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "brand/dls/aqua/expressive": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "brand/dls/aqua/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Main Color"
@@ -245,14 +161,7 @@
     "name": "EMR Purple Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant/emr/purple/light": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "assistant/emr/purple/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -262,14 +171,7 @@
     "name": "EMR Purple Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant/emr/purple/dark": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "assistant/emr/purple/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -279,14 +181,7 @@
     "name": "EMR Purple Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant/emr/purple/expressive": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "assistant/emr/purple/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -296,14 +191,7 @@
     "name": "DLS Purple Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant/dls/purple/light": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "assistant/dls/purple/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -313,14 +201,7 @@
     "name": "DLS Purple Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant/dls/purple/dark": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "assistant/dls/purple/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -330,14 +211,7 @@
     "name": "DLS Purple Expressive",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "assistant/dls/purple/expressive": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "assistant/dls/purple/expressive": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
@@ -347,14 +221,7 @@
     "name": "EMR Japan Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "localization/emr/japan/light": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "localization/emr/japan/light": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Localization"
@@ -364,14 +231,7 @@
     "name": "Dense",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/dense": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "density/dense": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Density"
@@ -381,14 +241,7 @@
     "name": "Regular",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/regular": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "density/regular": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Density"
@@ -398,14 +251,7 @@
     "name": "Confortable",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "density/confortable": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "density/confortable": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Density"
@@ -415,14 +261,7 @@
     "name": "xx-Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/xx-small": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "breakpoints/xx-small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -432,14 +271,7 @@
     "name": "x-Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/x-small": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "breakpoints/x-small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -449,14 +281,7 @@
     "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/small": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "breakpoints/small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -466,14 +291,7 @@
     "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/medium": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "breakpoints/medium": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -483,14 +301,7 @@
     "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/large": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "breakpoints/large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -500,14 +311,7 @@
     "name": "x-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/x-large": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "breakpoints/x-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -517,14 +321,7 @@
     "name": "xx-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/xx-large": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "breakpoints/xx-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -534,14 +331,7 @@
     "name": "xxx-Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "breakpoints/xxx-large": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "breakpoints/xxx-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Breakpoint"
@@ -551,14 +341,7 @@
     "name": "Small",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/small": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "font-size/small": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
@@ -568,14 +351,7 @@
     "name": "Medium",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/medium": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "font-size/medium": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
@@ -585,14 +361,7 @@
     "name": "Large",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/large": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "font-size/large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
@@ -602,14 +371,7 @@
     "name": "xLarge",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "font-size/x-large": "enabled",
-      "design-system/components/label": "disabled",
-      "design-system/components/popover": "disabled",
-      "design-system/components/tag": "disabled",
-      "design-system/components/tooltip": "disabled",
-      "design-system/components/info-icon": "disabled",
-      "design-system/components/notification": "disabled",
-      "design-system/components/informational-bar": "disabled"
+      "font-size/x-large": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Typography"

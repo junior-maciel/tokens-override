@@ -1,1 +1,10 @@
-{}
+{
+  "grid-layout": {
+    "gap": {
+      "small": {
+        "value": "0",
+        "type": "spacing"
+      }
+    }
+  }
+}

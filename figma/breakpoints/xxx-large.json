@@ -1,1 +1,42 @@
-{}
+{
+  "breakpoint": {
+    "gap": {
+      "xxxsmall": {
+        "value": "{foundation.space.2}",
+        "type": "spacing"
+      },
+      "xxsmall": {
+        "value": "{foundation.space.3}",
+        "type": "spacing"
+      },
+      "xsmall": {
+        "value": "{foundation.space.4}",
+        "type": "spacing"
+      },
+      "small": {
+        "value": "{foundation.space.5}",
+        "type": "spacing"
+      },
+      "medium": {
+        "value": "{foundation.space.6}",
+        "type": "spacing"
+      },
+      "large": {
+        "value": "{foundation.space.7}",
+        "type": "spacing"
+      },
+      "xlarge": {
+        "value": "{foundation.space.8}",
+        "type": "spacing"
+      },
+      "xxlarge": {
+        "value": "{foundation.space.10}",
+        "type": "spacing"
+      },
+      "xxxlarge": {
+        "value": "{foundation.space.12}",
+        "type": "spacing"
+      }
+    }
+  }
+}
