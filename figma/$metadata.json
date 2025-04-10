@@ -1,6 +1,9 @@
 {
   "tokenSetOrder": [
     "foundation/primitives",
+    "foundation/emr",
+    "foundation/dls",
+    "foundation/filament",
     "mode/emr/dark",
     "mode/emr/light",
     "mode/emr/expressive",
