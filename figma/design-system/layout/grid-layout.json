@@ -1,8 +1,46 @@
 {
   "grid-layout": {
     "gap": {
+      "xxxsmall": {
+        "value": "{breakpoint.gap.xxxsmall}",
+        "type": "spacing"
+      },
+      "xxsmall": {
+        "value": "{breakpoint.gap.xxsmall}",
+        "type": "spacing"
+      },
+      "xsmall": {
+        "value": "{breakpoint.gap.xsmall}",
+        "type": "spacing"
+      },
       "small": {
-        "value": "0",
+        "value": "{breakpoint.gap.small}",
+        "type": "spacing"
+      },
+      "medium": {
+        "value": "{breakpoint.gap.medium}",
+        "type": "spacing"
+      },
+      "large": {
+        "value": "{breakpoint.gap.large}",
+        "type": "spacing"
+      },
+      "xlarge": {
+        "value": "{breakpoint.gap.xlarge}",
+        "type": "spacing"
+      },
+      "xxlarge": {
+        "value": "{breakpoint.gap.xxlarge}",
+        "type": "spacing"
+      },
+      "xxxlarge": {
+        "value": "{breakpoint.gap.xxxlarge}",
+        "type": "spacing"
+      }
+    },
+    "area": {
+      "padding": {
+        "value": "{density.space.50}",
         "type": "spacing"
       }
     }

@@ -375,5 +375,50 @@
     },
     "$figmaVariableReferences": {},
     "group": "Typography"
+  },
+  {
+    "id": "d17468e317307c006b5b2477c5eab9954ec37604",
+    "name": "EMR Japan Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/emr/japan/dark": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "4c290e1f36e85888fced1c5cf8236fe31a0e975b",
+    "name": "EMR Japan Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/emr/japan/expressive": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "441c8ac0a5713731499232a03767091a573041c4",
+    "name": "DLS Japan Light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/dls/japan/light": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "941aa7f5bccdd6b23a6699636e78b9f65a2a0105",
+    "name": "DLS Japan Dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/dls/japan/dark": "enabled"
+    },
+    "group": "Localization"
+  },
+  {
+    "id": "62f37996b1afef7e66a788de235a88b65f352b16",
+    "name": "DLS Japan Expressive",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "localization/dls/japan/expressive": "enabled"
+    },
+    "group": "Localization"
   }
 ]
