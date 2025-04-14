@@ -38,17 +38,6 @@
     "group": "Mode"
   },
   {
-    "id": "3aa43b0e54f9356dc98e6fb68b929c4cbf23caa3",
-    "name": "EMR Expressive",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "foundation/primitives": "enabled",
-      "foundation/emr": "enabled"
-    },
-    "$figmaVariableReferences": {},
-    "group": "Mode"
-  },
-  {
     "id": "72466f71350a7553fb3af6e3a30d457e9921a269",
     "name": "DLS Light",
     "$figmaStyleReferences": {},
@@ -75,48 +64,6 @@
     "group": "Mode"
   },
   {
-    "id": "ae33f2eb21097c6f85b3030c99e026c76a162036",
-    "name": "DLS Expressive",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "foundation/primitives": "enabled",
-      "foundation/dls": "enabled"
-    },
-    "$figmaVariableReferences": {},
-    "group": "Mode"
-  },
-  {
-    "id": "f5588f3d20b50476a0c32850a754cfba0a4dbad2",
-    "name": "FIL Light",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "foundation/primitives": "enabled"
-    },
-    "$figmaVariableReferences": {},
-    "group": "Mode"
-  },
-  {
-    "id": "022211a6c77183428ef6093b96f93098bb0e4e5e",
-    "name": "FIL Dark",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "foundation/primitives": "enabled"
-    },
-    "$figmaVariableReferences": {},
-    "group": "Mode"
-  },
-  {
-    "id": "c99a78354a226d818c5c2489c2377f7e280843de",
-    "name": "FIL Expressive",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "foundation/primitives": "enabled",
-      "assistant/dls/purple/dark": "enabled"
-    },
-    "$figmaVariableReferences": {},
-    "group": "Mode"
-  },
-  {
     "id": "3c3dcf178732e43b4d1be68f2ebbf996d3b60176",
     "name": "DLS Aqua Light",
     "$figmaStyleReferences": {},
@@ -133,14 +80,6 @@
     "selectedTokenSets": {
       "brand/dls/aqua/dark": "enabled"
     },
-    "$figmaVariableReferences": {},
-    "group": "Main Color"
-  },
-  {
-    "id": "e4ff9780cff8be706a205eb940d266f373a5687b",
-    "name": "DLS Aqua Expressive",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
     "$figmaVariableReferences": {},
     "group": "Main Color"
   },
@@ -165,14 +104,6 @@
     "group": "AI-Assistant"
   },
   {
-    "id": "86256022255117b56d579439a5762c0339a8c61c",
-    "name": "EMR Purple Expressive",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
-    "$figmaVariableReferences": {},
-    "group": "AI-Assistant"
-  },
-  {
     "id": "d3dd9aa4b76768b809e34ea40f7eb2249e46a91d",
     "name": "DLS Purple Light",
     "$figmaStyleReferences": {},
@@ -189,14 +120,6 @@
     "selectedTokenSets": {
       "assistant/dls/purple/dark": "enabled"
     },
-    "$figmaVariableReferences": {},
-    "group": "AI-Assistant"
-  },
-  {
-    "id": "de3681df9fa36b03b5e6e086be3c0c5a582a7e88",
-    "name": "DLS Purple Expressive",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
   },
@@ -370,13 +293,6 @@
     "group": "Localization"
   },
   {
-    "id": "4c290e1f36e85888fced1c5cf8236fe31a0e975b",
-    "name": "EMR Japan Expressive",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
-    "group": "Localization"
-  },
-  {
     "id": "441c8ac0a5713731499232a03767091a573041c4",
     "name": "DLS Japan Light",
     "$figmaStyleReferences": {},
@@ -392,13 +308,6 @@
     "selectedTokenSets": {
       "localization/dls/japan/dark": "enabled"
     },
-    "group": "Localization"
-  },
-  {
-    "id": "62f37996b1afef7e66a788de235a88b65f352b16",
-    "name": "DLS Japan Expressive",
-    "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
     "group": "Localization"
   }
 ]
