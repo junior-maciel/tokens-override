@@ -6,14 +6,7 @@
     "selectedTokenSets": {
       "design-system/components/button": "enabled",
       "design-system/base-components/base-bar": "enabled",
-      "design-system/layout/grid-layout": "enabled",
-      "design-system/components/label": "enabled",
-      "design-system/components/popover": "enabled",
-      "design-system/components/tag": "enabled",
-      "design-system/components/tooltip": "enabled",
-      "design-system/components/info-icon": "enabled",
-      "design-system/components/notification": "enabled",
-      "design-system/components/informational-bar": "enabled"
+      "design-system/layout/grid-layout": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Components"
@@ -50,8 +43,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "mode/emr/expressive": "enabled",
-      "brand/emr/legacy-blue/expressive": "enabled",
       "foundation/emr": "enabled"
     },
     "$figmaVariableReferences": {},
@@ -89,8 +80,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "mode/dls/expressive": "enabled",
-      "brand/dls/blue/expressive": "enabled",
       "foundation/dls": "enabled"
     },
     "$figmaVariableReferences": {},
@@ -101,10 +90,7 @@
     "name": "FIL Light",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "foundation/primitives": "enabled",
-      "mode/filament/light": "enabled",
-      "brand/filament/blue/light": "enabled",
-      "foundation/filament": "enabled"
+      "foundation/primitives": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -114,10 +100,7 @@
     "name": "FIL Dark",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "foundation/primitives": "enabled",
-      "mode/filament/dark": "enabled",
-      "brand/filament/blue/dark": "enabled",
-      "foundation/filament": "enabled"
+      "foundation/primitives": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -128,9 +111,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "foundation/primitives": "enabled",
-      "mode/filament/expressive": "enabled",
-      "assistant/dls/purple/dark": "enabled",
-      "foundation/filament": "enabled"
+      "assistant/dls/purple/dark": "enabled"
     },
     "$figmaVariableReferences": {},
     "group": "Mode"
@@ -159,9 +140,7 @@
     "id": "e4ff9780cff8be706a205eb940d266f373a5687b",
     "name": "DLS Aqua Expressive",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "brand/dls/aqua/expressive": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaVariableReferences": {},
     "group": "Main Color"
   },
@@ -189,9 +168,7 @@
     "id": "86256022255117b56d579439a5762c0339a8c61c",
     "name": "EMR Purple Expressive",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "assistant/emr/purple/expressive": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
   },
@@ -219,9 +196,7 @@
     "id": "de3681df9fa36b03b5e6e086be3c0c5a582a7e88",
     "name": "DLS Purple Expressive",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "assistant/dls/purple/expressive": "enabled"
-    },
+    "selectedTokenSets": {},
     "$figmaVariableReferences": {},
     "group": "AI-Assistant"
   },
@@ -398,9 +373,7 @@
     "id": "4c290e1f36e85888fced1c5cf8236fe31a0e975b",
     "name": "EMR Japan Expressive",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "localization/emr/japan/expressive": "enabled"
-    },
+    "selectedTokenSets": {},
     "group": "Localization"
   },
   {
@@ -425,9 +398,7 @@
     "id": "62f37996b1afef7e66a788de235a88b65f352b16",
     "name": "DLS Japan Expressive",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {
-      "localization/dls/japan/expressive": "enabled"
-    },
+    "selectedTokenSets": {},
     "group": "Localization"
   }
 ]
