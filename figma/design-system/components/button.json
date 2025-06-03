@@ -3,15 +3,15 @@
     "container": {
       "background": {
         "primary": {
-          "value": "{color.primary.normal}",
+          "value": "{background.primary.normal}",
           "type": "color"
         },
         "secondary": {
-          "value": "{color.secondary.normal}",
+          "value": "{background.secondary.normal}",
           "type": "color"
         },
         "quiet": {
-          "value": "{color.quiet.normal}",
+          "value": "{background.quiet.normal}",
           "type": "color"
         },
         "accent": {
@@ -31,19 +31,19 @@
     "label": {
       "color": {
         "on-primary": {
-          "value": "{color.on-primary.normal}",
+          "value": "{foreground.primary.normal}",
           "type": "color"
         },
         "on-secondary": {
-          "value": "{color.on-secondary.normal}",
+          "value": "{foreground.secondary.normal}",
           "type": "color"
         },
         "on-quiet": {
-          "value": "{color.on-quiet.normal}",
+          "value": "{foreground.quiet.normal}",
           "type": "color"
         },
         "on-quiet-emphasis": {
-          "value": "{color.on-quiet-emphasis.normal}",
+          "value": "{foreground.quiet-emphasis.normal}",
           "type": "color"
         },
         "on-accent": {
