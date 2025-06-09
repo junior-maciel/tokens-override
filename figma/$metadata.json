@@ -88,7 +88,6 @@
     "semantic/font-size/medium",
     "semantic/font-size/large",
     "semantic/font-size/x-large",
-    "design-system/layout/grid-layout",
     "design-system/base-components/base-bar",
     "design-system/components/button",
     "design-system/components/info-icon",
@@ -97,6 +96,7 @@
     "design-system/components/popover",
     "design-system/components/notification",
     "design-system/components/tag",
-    "design-system/components/tooltip"
+    "design-system/components/tooltip",
+    "design-system/layout/grid-layout"
   ]
 }
